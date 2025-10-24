@@ -1,0 +1,5 @@
+## CHAPTER THE FIFTH. THE LAST DAYS OF MARCUS KARENIN
+
+### Section 6
+
+About eleven Karenin had his midday meal, and afterwards he slept among his artificial furs and pillows for twohours. Then he awoke and some tea was brought to him, and he attended to a small difficulty in connection withthe Moravian schools in the Labrador country and in Greenland that Gardener knew would interest him. Heremained alone for a little while after that, and then the two women came to him again. Afterwards Edwards andKahn joined the group, and the talk fell upon love and the place of women in the renascent world. The cloudbanksof India lay under a quivering haze, and the blaze of the sun fell full upon the eastward precipices. Ever and againas they talked, some vast splinter of rock would crack and come away from these, or a wild rush of snow and iceand stone, pour down in thunder, hang like a wet thread into the gulfs below, and cease....

@@ -1,0 +1,20 @@
+## CHAPTER THE FIFTH. THE LAST DAYS OF MARCUS KARENIN
+
+### Section 9
+
+As the evening drew on Karenin and those who were about him went up upon the roof of the buildings, so thatthey might the better watch the sunset and the flushing of the mountains and the coming of the afterglow. Theywere joined by two of the surgeons from the laboratories below, and presently by a nurse who brought Kareninrefreshment in a thin glass cup. It was a cloudless, windless evening under the deep blue sky, and far away to thenorth glittered two biplanes on the way to the observatories on Everest, two hundred miles distant over theprecipices to the east. The little group of people watched them pass over the mountains and vanish into the blue,and then for a time they talked of the work that the observatory was doing. From that they passed to the wholeprocess of research about the world, and so Karenin's thoughts returned again to the mind of the world and thegreat future that was opening upon man's imagination. He asked the surgeons many questions upon the detailedpossibilities of their science, and he was keenly interested and excited by the things they told him. And as theytalked the sun touched the mountains, and became very swiftly a blazing and indented hemisphere of liquid flameand sank.
+Karenin looked blinking at the last quivering rim of incandescence, and shaded his eyes and became silent.
+Presently he gave a little start.
+'What?' asked Rachel Borken.
+'I had forgotten,' he said.
+'What had you forgotten?'
+'I had forgotten about the operation to−morrow. I have been so interested as Man to−day that I have nearlyforgotten Marcus Karenin. Marcus Karenin must go under your knife to−morrow, Fowler, and very probablyMarcus Karenin will die.' He raised his slightly shrivelled hand. 'It does not matter, Fowler. It scarcely matterseven to me. For indeed is it Karenin who has been sitting here and talking; is it not rather a common mind,Fowler, that has played about between us? You and I and all of us have added thought to thought, but the thread isneither you nor me. What is true we all have; when the individual has altogether brought himself to the test and
+### The World Set Free
+
+### The World Set Free
+92
+
+
+winnowing of expression, then the individual is done. I feel as though I had already been emptied out of that littlevessel, that Marcus Karenin, which in my youth held me so tightly and completely. Your beauty, dear Edith, andyour broad brow, dear Rachel, and you, Fowler, with your firm and skilful hands, are now almost as much to meas this hand that beats the arm of my chair. And as little me. And the spirit that desires to know, the spirit thatresolves to do, that spirit that lives and has talked in us to−day, lived in Athens, lived in Florence, lives on, Iknow, for ever....
+'And you, old Sun, with your sword of flame searing these poor eyes of Marcus for the last time of all, beware ofme! You think I die−−and indeed I am only taking off one more coat to get at you. I have threatened you for tenthousand years, and soon I warn you I shall be coming. When I am altogether stripped and my disguises thrownaway. Very soon now, old Sun, I shall launch myself at you, and I shall reach you and I shall put my foot on yourspotted face and tug you about by your fiery locks. One step I shall take to the moon, and then I shall leap at you.I've talked to you before, old Sun, I've talked to you a million times, and now I am beginning to remember.Yes−−long ago, long ago, before I had stripped off a few thousand generations, dust now and forgotten, I was ahairy savage and I pointed my hand at you and−−clearly I remember it!−−I saw you in a net. Have you forgottenthat, old Sun? . . .
+'Old Sun, I gather myself together out of the pools of the individual that have held me dispersed so long. I gathermy billion thoughts into science and my million wills into a common purpose. Well may you slink down behindthe mountains from me, well may you cower....'
