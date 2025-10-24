@@ -1,0 +1,56 @@
+## CHAPTER THE THIRD. THE ENDING OF WAR
+
+### Section 3
+
+That conference upon the Brissago meadows was one of the most heterogeneous collections of prominent peoplethat has ever met together. Principalities and powers, stripped and shattered until all their pride and mystery weregone, met in a marvellous new humility. Here were kings and emperors whose capitals were lakes of flamingdestruction, statesmen whose countries had become chaos, scared politicians and financial potentates. Here wereleaders of thought and learned investigators dragged reluctantly to the control of affairs. Altogether there wereninety−three of them, Leblanc's conception of the head men of the world. They had all come to the realisation ofthe simple truths that the indefatigable Leblanc had hammered into them; and, drawing his resources from theKing of Italy, he had provisioned his conference with a generous simplicity quite in accordance with the rest ofhis character, and so at last was able to make his astonishing and entirely rational appeal. He had appointed KingEgbert the president, he believed in this young man so firmly that he completely dominated him, and he spokehimself as a secretary might speak from the president's left hand, and evidently did not realise himself that he wastelling them all exactly what they had to do. He imagined he was merely recapitulating the obvious features of thesituation for their convenience. He was dressed in ill−fitting white silk clothes, and he consulted a dingy littlepacket of notes as he spoke. They put him out. He explained that he had never spoken from notes before, but thatthis occasion was exceptional.
+And then King Egbert spoke as he was expected to speak, and Leblanc's spectacles moistened at that flow ofgenerous sentiment, most amiably and lightly expressed. 'We haven't to stand on ceremony,' said the king, 'wehave to govern the world. We have always pretended to govern the world and here is our opportunity.'
+### The World Set Free
+
+### The World Set Free
+50
+
+
+'Of course,' whispered Leblanc, nodding his head rapidly, 'of course.'
+'The world has been smashed up, and we have to put it on its wheels again,' said King Egbert. 'And it is the simplecommon sense of this crisis for all to help and none to seek advantage. Is that our tone or not?'
+The gathering was too old and seasoned and miscellaneous for any great displays of enthusiasm, but that was itstone, and with an astonishment that somehow became exhilarating it began to resign, repudiate, and declare itsintentions. Firmin, taking notes behind his master, heard everything that had been foretold among the yellowbroom, come true. With a queer feeling that he was dreaming, he assisted at the proclamation of the World State,and saw the message taken out to the wireless operators to be throbbed all round the habitable globe. 'And next,'said King Egbert, with a cheerful excitement in his voice, 'we have to get every atom of Carolinum and all theplant for making it, into our control....'
+Firman was not alone in his incredulity. Not a man there who was not a very amiable, reasonable, benevolentcreature at bottom; some had been born to power and some had happened upon it, some had struggled to get it,not clearly knowing what it was and what it implied, but none was irreconcilably set upon its retention at the priceof cosmic disaster. Their minds had been prepared by circumstances and sedulously cultivated by Leblanc; andnow they took the broad obvious road along which King Egbert was leading them, with a mingled conviction ofstrangeness and necessity. Things went very smoothly; the King of Italy explained the arrangements that had beenmade for the protection of the camp from any fantastic attack; a couple of thousand of aeroplanes, each carrying asharpshooter, guarded them, and there was an excellent system of relays, and at night all the sky would besearched by scores of lights, and the admirable Leblanc gave luminous reasons for their camping just where theywere and going on with their administrative duties forthwith. He knew of this place, because he had happenedupon it when holiday−making with Madame Leblanc twenty years and more ago. 'There is very simple fare atpresent,' he explained, 'on account of the disturbed state of the countries about us. But we have excellent freshmilk, good red wine, beef, bread, salad, and lemons. . . . In a few days I hope to place things in the hands of amore efficient caterer....'
+The members of the new world government dined at three long tables on trestles, and down the middle of thesetables Leblanc, in spite of the barrenness of his menu, had contrived to have a great multitude of beautiful roses.There was similar accommodation for the secretaries and attendants at a lower level down the mountain. Theassembly dined as it had debated, in the open air, and over the dark crags to the west the glowing June sunsetshone upon the banquet. There was no precedency now among the ninety−three, and King Egbert found himselfbetween a pleasant little Japanese stranger in spectacles and his cousin of Central Europe, and opposite a greatBengali leader and the President of the United States of America. Beyond the Japanese was Holsten, the oldchemist, and Leblanc was a little way down the other side.
+The king was still cheerfully talkative and abounded in ideas. He fell presently into an amiable controversy withthe American, who seemed to feel a lack of impressiveness in the occasion.
+It was ever the Transatlantic tendency, due, no doubt, to the necessity of handling public questions in a bulky andstriking manner, to over−emphasise and over−accentuate, and the president was touched by his national failing.He suggested now that there should be a new era, starting from that day as the first day of the first year.
+The king demurred.
+'From this day forth, sir, man enters upon his heritage,' said the American.
+'Man,' said the king, 'is always entering upon his heritage. You Americans have a peculiar weakness foranniversaries−−if you will forgive me saying so. Yes−−I accuse you of a lust for dramatic effect. Everything ishappening always, but you want to say this or this is the real instant in time and subordinate all the others to it.'
+### The World Set Free
+
+### The World Set Free
+51
+
+
+The American said something about an epoch−making day.
+'But surely,' said the king, 'you don't want us to condemn all humanity to a world−wide annual Fourth of July forever and ever more. On account of this harmless necessary day of declarations. No conceivable day could everdeserve that. Ah! you do not know, as I do, the devastations of the memorable. My poor grandparentswere−−RUBRICATED. The worst of these huge celebrations is that they break up the dignified succession ofone's contemporary emotions. They interrupt. They set back. Suddenly out come the flags and fireworks, and theold enthusiasms are furbished up−−and it's sheer destruction of the proper thing that ought to be going on.Sufficient unto the day is the celebration thereof. Let the dead past bury its dead. You see, in regard to thecalendar, I am for democracy and you are for aristocracy. All things I hold, are august, and have a right to be livedthrough on their merits. No day should be sacrificed on the grave of departed events. What do you think of it,### Wilhelm?'
+
+'For the noble, yes, all days should be noble.'
+'Exactly my position,' said the king, and felt pleased at what he had been saying.
+And then, since the American pressed his idea, the king contrived to shift the talk from the question of celebratingthe epoch they were making to the question of the probabilities that lay ahead. Here every one became diffident.They could see the world unified and at peace, but what detail was to follow from that unification they seemedindisposed to discuss. This diffidence struck the king as remarkable. He plunged upon the possibilities of science.All the huge expenditure that had hitherto gone into unproductive naval and military preparations, must now, hedeclared, place research upon a new footing. 'Where one man worked we will have a thousand.' He appealed toHolsten. 'We have only begun to peep into these possibilities,' he said. 'You at any rate have sounded the vaults ofthe treasure house.'
+'They are unfathomable,' smiled Holsten.
+'Man,' said the American, with a manifest resolve to justify and reinstate himself after the flickering contradictionsof the king, 'Man, I say, is only beginning to enter upon his heritage.'
+'Tell us some of the things you believe we shall presently learn, give us an idea of the things we may presentlydo,' said the king to Holsten.
+Holsten opened out the vistas....
+'Science,' the king cried presently, 'is the new king of the world.'
+'OUR view,' said the president, 'is that sovereignty resides with the people.'
+'No!' said the king, 'the sovereign is a being more subtle than that. And less arithmetical. Neither my family noryour emancipated people. It is something that floats about us, and above us, and through us. It is that commonimpersonal will and sense of necessity of which Science is the best understood and most typical aspect. It is themind of the race. It is that which has brought us here, which has bowed us all to its demands....'
+He paused and glanced down the table at Leblanc, and then re−opened at his former antagonist.
+'There is a disposition,' said the king, 'to regard this gathering as if it were actually doing what it appears to bedoing, as if we ninety−odd men of our own free will and wisdom were unifying the world. There is a temptationto consider ourselves exceptionally fine fellows, and masterful men, and all the rest of it. We are not. I doubt if weshould average out as anything abler than any other casually selected body of ninety−odd men. We are no
+### The World Set Free
+
+### The World Set Free
+52
+
+
+creators, we are consequences, we are salvagers−−or salvagees. The thing to−day is not ourselves but the wind ofconviction that has blown us hither....'
+The American had to confess he could hardly agree with the king's estimate of their average.
+'Holster, perhaps, and one or two others, might lift us a little,' the king conceded. 'But the rest of us?'
+His eyes flitted once more towards Leblanc.
+'Look at Leblanc,' he said. 'He's just a simple soul. There are hundreds and thousands like him. I admit, a certaindexterity, a certain lucidity, but there is not a country town in France where there is not a Leblanc or so to befound about two o'clock in its principal cafe. It's just that he isn't complicated or Super−Mannish, or any of thosethings that has made all he has done possible. But in happier times, don't you think, Wilhelm, he would haveremained just what his father was, a successful epicier, very clean, very accurate, very honest. And on holidays hewould have gone out with Madame Leblanc and her knitting in a punt with a jar of something gentle and have satunder a large reasonable green−lined umbrella and fished very neatly and successfully for gudgeon....'
+The president and the Japanese prince in spectacles protested together.
+'If I do him an injustice,' said the king, 'it is only because I want to elucidate my argument. I want to make it clearhow small are men and days, and how great is man in comparison....'

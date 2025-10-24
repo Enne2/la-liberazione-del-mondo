@@ -1,0 +1,22 @@
+## CHAPTER THE FOURTH. THE NEW PHASE
+
+### Section 5
+
+This effect of chill dismay, of a doom as yet imperfectly apprehended deepens as Barnet's record passes on to tellof the approach of winter. It was too much for the great mass of those unwilling and incompetent nomads torealise that an age had ended, that the old help and guidance existed no longer, that times would not mend again,however patiently they held out. They were still in many cases looking to Paris when the first snowflakes of thatpitiless January came swirling about them. The story grows grimmer....
+If it is less monstrously tragic after Barnet's return to England, it is, if anything, harder. England was a spectacleof fear−embittered householders, hiding food, crushing out robbery, driving the starving wanderers from everyfaltering place upon the roads lest they should die inconveniently and reproachfully on the doorsteps of those whohad failed to urge them onward....
+The remnants of the British troops left France finally in March, after urgent representations from the provisionalgovernment at Orleans that they could be supported no longer. They seem to have been a fairly well−behaved, buthighly parasitic force throughout, though Barnet is clearly of opinion that they did much to suppress sporadicbrigandage and maintain social order. He came home to a famine−stricken country, and his picture of the Englandof that spring is one of miserable patience and desperate expedients. The country was suffering much more thanFrance, because of the cessation of the overseas supplies on which it had hitherto relied. His troops were givenbread, dried fish, and boiled nettles at Dover, and marched inland to Ashford and paid off. On the way thither theysaw four men hanging from the telegraph posts by the roadside, who had been hung for stealing swedes. Thelabour refuges of Kent, he discovered, were feeding their crowds of casual wanderers on bread into which clayand sawdust had been mixed. In Surrey there was a shortage of even such fare as that. He himself struck acrosscountry to Winchester, fearing to approach the bomb−poisoned district round London, and at Winchester he hadthe luck to be taken on as one of the wireless assistants at the central station and given regular rations. The stationstood in a commanding position on the chalk hill that overlooks the town from the east....
+### The World Set Free
+
+### The World Set Free
+69
+
+
+Thence he must have assisted in the transmission of the endless cipher messages that preceded the gathering atBrissago, and there it was that the Brissago proclamation of the end of the war and the establishment of a worldgovernment came under his hands.
+He was feeling ill and apathetic that day, and he did not realise what it was he was transcribing. He did itmechanically, as a part of his tedious duty.
+Afterwards there came a rush of messages arising out of the declaration that strained him very much, and in theevening when he was relieved, he ate his scanty supper and then went out upon the little balcony before thestation, to smoke and rest his brains after this sudden and as yet inexplicable press of duty. It was a very beautiful,still evening. He fell talking to a fellow operator, and for the first time, he declares, 'I began to understand what itwas all about. I began to see just what enormous issues had been under my hands for the past four hours. But Ibecame incredulous after my first stimulation. "This is some sort of Bunkum," I said very sagely.
+'My colleague was more hopeful. "It means an end to bomb−throwing and destruction," he said. "It means thatpresently corn will come from America."
+' "Who is going to send corn when there is no more value in money?" I asked.
+'Suddenly we were startled by a clashing from the town below. The cathedral bells, which had been silent eversince I had come into the district, were beginning, with a sort of rheumatic difficulty, to ring. Presently theywarmed a little to the work, and we realised what was going on. They were ringing a peal. We listened with anunbelieving astonishment and looking into each other's yellow faces.
+' "They mean it," said my colleague.
+' "But what can they do now?" I asked. "Everything is broken down...." '
+And on that sentence, with an unexpected artistry, Barnet abruptly ends his story.

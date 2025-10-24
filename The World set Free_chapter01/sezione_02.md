@@ -1,0 +1,28 @@
+## CHAPTER THE FIRST. THE NEW SOURCE OF ENERGY
+
+### Section 2
+
+In the evening Holsten went out again. He walked to Saint Paul's Cathedral, and stood for a time near the doorlistening to the evening service. The candles upon the altar reminded him in some odd way of the fireflies atFiesole. Then he walked back through the evening lights to Westminster. He was oppressed, he was indeedscared, by his sense of the immense consequences of his discovery. He had a vague idea that night that he oughtnot to publish his results, that they were premature, that some secret association of wise men should take care of
+### The World Set Free
+
+### The World Set Free
+12
+
+
+his work and hand it on from generation to generation until the world was riper for its practical application. Hefelt that nobody in all the thousands of people he passed had really awakened to the fact of change, they trustedthe world for what it was, not to alter too rapidly, to respect their trusts, their assurances, their habits, their littleaccustomed traffics and hard−won positions.
+He went into those little gardens beneath the over−hanging, brightly−lit masses of the Savoy Hotel and the HotelCecil. He sat down on a seat and became aware of the talk of the two people next to him. It was the talk of ayoung couple evidently on the eve of marriage. The man was congratulating himself on having regularemployment at last; 'they like me,' he said, 'and I like the job. If I work up−−in'r dozen years or so I ought to begettin' somethin' pretty comfortable. That's the plain sense of it, Hetty. There ain't no reason whatsoever why weshouldn't get along very decently−−very decently indeed.'
+The desire for little successes amidst conditions securely fixed! So it struck upon Holsten's mind. He added in hisdiary, 'I had a sense of all this globe as that....'
+By that phrase he meant a kind of clairvoyant vision of this populated world as a whole, of all its cities and townsand villages, its high roads and the inns beside them, its gardens and farms and upland pastures, its boatmen andsailors, its ships coming along the great circles of the ocean, its time−tables and appointments and payments anddues as it were one unified and progressive spectacle. Sometimes such visions came to him; his mind, accustomedto great generalisations and yet acutely sensitive to detail, saw things far more comprehensively than the minds ofmost of his contemporaries. Usually the teeming sphere moved on to its predestined ends and circled with astately swiftness on its path about the sun. Usually it was all a living progress that altered under his regard. Butnow fatigue a little deadened him to that incessancy of life, it seemed now just an eternal circling. He lapsed to thecommoner persuasion of the great fixities and recurrencies of the human routine. The remoter past of wanderingsavagery, the inevitable changes of to−morrow were veiled, and he saw only day and night, seed−time andharvest, loving and begetting, births and deaths, walks in the summer sunlight and tales by the winter fireside, theancient sequence of hope and acts and age perennially renewed, eddying on for ever and ever, save that now theimpious hand of research was raised to overthrow this drowsy, gently humming, habitual, sunlit spinning−top ofman's existence....
+For a time he forgot wars and crimes and hates and persecutions, famine and pestilence, the cruelties of beasts,weariness and the bitter wind, failure and insufficiency and retrocession. He saw all mankind in terms of thehumble Sunday couple upon the seat beside him, who schemed their inglorious outlook and improbablecontentments. 'I had a sense of all this globe as that.'
+His intelligence struggled against this mood and struggled for a time in vain. He reassured himself against theinvasion of this disconcerting idea that he was something strange and inhuman, a loose wanderer from the flockreturning with evil gifts from his sustained unnatural excursions amidst the darknesses and phosphorescencesbeneath the fair surfaces of life. Man had not been always thus; the instincts and desires of the little home, thelittle plot, was not all his nature; also he was an adventurer, an experimenter, an unresting curiosity, an insatiabledesire. For a few thousand generations indeed he had tilled the earth and followed the seasons, saying his prayers,grinding his corn and trampling the October winepress, yet not for so long but that he was still full of restlessstirrings.
+'If there have been home and routine and the field,' thought Holsten, 'there have also been wonder and the sea.'
+He turned his head and looked up over the back of the seat at the great hotels above him, full of softly shadedlights and the glow and colour and stir of feasting. Might his gift to mankind mean simply more of that? . . .
+He got up and walked out of the garden, surveyed a passing tram−car, laden with warm light, against the deepblues of evening, dripping and trailing long skirts of shining reflection; he crossed the Embankment and stood for
+### The World Set Free
+
+### The World Set Free
+13
+
+
+a time watching the dark river and turning ever and again to the lit buildings and bridges. His mind began toscheme conceivable replacements of all those clustering arrangements. . . .
+'It has begun,' he writes in the diary in which these things are recorded. 'It is not for me to reach out toconsequences I cannot foresee. I am a part, not a whole; I am a little instrument in the armoury of Change. If Iwere to burn all these papers, before a score of years had passed, some other man would be doing this. . .
