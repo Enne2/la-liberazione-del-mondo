@@ -16,15 +16,8 @@ Traduzione italiana del romanzo profetico di H.G. Wells (1914) che previde l'ene
 - **[PRELUDIO: I Cacciatori del Sole](prelude_completo_IT.md)** *(8 sezioni)*
   - La storia dell'umanità dalla preistoria alla scoperta dell'energia
   
-- **[Capitolo 1: La Nuova Fonte di Energia](The%20World%20set%20Free_chapter01/)** *(8 sezioni)*
-  - La scoperta di Holsten
-  - Holsten a Hampstead Heath
-  - Riflessioni serali di Holsten
-  - Avvento dell'era atomica
-  - Prosperità e distruzione
-  - Processo Dass-Tata
-  - Arcaismo del sistema legale
-  - Frederick Barnet e la sua epoca
+- **[Capitolo 1: La Nuova Fonte di Energia](capitolo_01_completo_IT.md)** *(8 sezioni)*
+  - File completo disponibile
 
 - **[Capitolo 2: L'Ultima Guerra](capitolo_02_completo_IT.md)** *(10 sezioni)*
   - File completo disponibile
@@ -56,9 +49,9 @@ Il progetto utilizza script Python per ottimizzare il processo:
 
 ## 📊 Statistiche
 
-- **Capitoli tradotti**: 2/5 + PRELUDE (40%)
-- **Sezioni totali**: 26 (8 PRELUDE + 18 capitoli)
-- **Caratteri tradotti**: ~119.000
+- **Capitoli tradotti**: 3/5 + PRELUDE (50%)
+- **Sezioni totali**: 26 (8 PRELUDE + 8 cap.1 + 10 cap.2)
+- **Caratteri tradotti**: ~184.000
 
 ---
 
