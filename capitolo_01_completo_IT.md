@@ -1,6 +1,6 @@
-## CAPITOLO PRIMO. LA NUOVA FONTE DI ENERGIA
+# CAPITOLO PRIMO. LA NUOVA FONTE DI ENERGIA
 
-### Sezione I
+## Sezione I
 
 Il problema che era già dibattuto da uomini di scienza come Ramsay, Rutherford e Soddy, proprio all'inizio del ventesimo secolo, il problema di indurre la radioattività negli elementi più pesanti e così attingere all'energia interna degli atomi, fu risolto da una meravigliosa combinazione di induzione, intuizione e fortuna da Holsten già nell'anno 1933. Dalla prima scoperta della radioattività alla sua prima sottomissione allo scopo umano trascorse poco più di un quarto di secolo. Per vent'anni dopo quello, invero, difficoltà minori impedirono qualsiasi applicazione pratica sorprendente del suo successo, ma la cosa essenziale fu fatta, questa nuova frontiera nella marcia del progresso umano fu attraversata, in quell'anno. Mise in atto la disintegrazione atomica in una minuscola particella di bismuto; essa esplose con grande violenza in un gas pesante di estrema radioattività, che si disintegrò a sua volta nel corso di sette giorni, e solo dopo un altro anno di lavoro fu in grado di mostrare praticamente che l'ultimo risultato di questo rapido rilascio di energia era oro. Ma la cosa era fatta—al costo di un petto ustionato e di un dito ferito, e dal momento in cui l'invisibile granello di bismuto balenò in energia lacerante e devastante, Holsten seppe che aveva aperto una via per l'umanità, per quanto stretta e oscura potesse ancora essere, verso mondi di potere illimitato. Lo registrò come tale nello strano diario biografico che lasciò al mondo, un diario che fino a quel particolare momento era stato una massa di speculazioni e calcoli, e che improvvisamente divenne per uno spazio una registrazione sorprendentemente minuziosa e umana di sensazioni ed emozioni che tutta l'umanità potrebbe comprendere.
 
@@ -22,7 +22,7 @@ Poi osservò, "BENE!" e sorrise debolmente, e—finì il boccale di birra davant
 
 Lawson si sedette di nuovo. "Bisogna prendersi cura del proprio cane," disse, con una nota di scusa. "Cos'era che mi stavi dicendo?"
 
-### Sezione 2
+## Sezione 2
 
 La sera Holsten uscì di nuovo. Camminò fino alla Cattedrale di San Paolo, e rimase per un tempo vicino alla porta ascoltando il servizio serale. Le candele sull'altare gli ricordarono in qualche modo strano le lucciole a Fiesole. Poi camminò indietro attraverso le luci serali fino a Westminster. Era oppresso, era infatti spaventato, dal suo senso delle immense conseguenze della sua scoperta. Aveva una vaga idea quella notte che non avrebbe dovuto pubblicare i suoi risultati, che erano prematuri, che qualche associazione segreta di uomini saggi avrebbe dovuto prendersi cura del suo lavoro e tramandarlo di generazione in generazione fino a quando il mondo fosse più maturo per la sua applicazione pratica. Sentiva che nessuno in tutte le migliaia di persone che incrociava si era realmente svegliato al fatto del cambiamento, si fidavano del mondo per quello che era, per non alterarsi troppo rapidamente, per rispettare le loro fiducie, le loro sicurezze, le loro abitudini, i loro piccoli traffici abituali e le posizioni faticosamente conquistate.
 
@@ -44,7 +44,7 @@ Si alzò e uscì dal giardino, esaminò un tram di passaggio, carico di luce cal
 
 "È cominciato," scrive nel diario in cui queste cose sono registrate. "Non sta a me raggiungere conseguenze che non posso prevedere. Sono una parte, non un tutto; sono un piccolo strumento nell'armeria del Cambiamento. Se dovessi bruciare tutti questi documenti, prima che fossero passati una ventina di anni, qualche altro uomo starebbe facendo questo...
 
-### Sezione 3
+## Sezione 3
 
 Holsten, prima di morire, era destinato a vedere l'energia atomica dominare ogni altra fonte di potere, ma per alcuni anni ancora una vasta rete di difficoltà nei dettagli e nell'applicazione mantenne la nuova scoperta da qualsiasi invasione effettiva della vita ordinaria. Il percorso dal laboratorio all'officina è talvolta tortuoso; le radiazioni elettromagnetiche furono conosciute e dimostrate per vent'anni prima che Marconi le rendesse praticamente disponibili, e allo stesso modo furono vent'anni prima che la radioattività indotta potesse essere portata all'utilizzazione pratica. La cosa, naturalmente, fu molto discussa, forse più al tempo della sua scoperta che durante l'intervallo di adattamento tecnico, ma con pochissima realizzazione dell'enorme rivoluzione economica che incombeva. Ciò che impressionò principalmente i giornalisti del 1933 fu la produzione di oro dal bismuto e la realizzazione sebbene su linee non profittevoli dei sogni dell'alchimista; ci fu una considerevole quantità di discussione e aspettativa in quella sezione più intelligente dei pubblici istruiti dei vari paesi civilizzati che seguiva lo sviluppo scientifico; ma per la maggior parte il mondo andava per i suoi affari—come gli abitanti di quei villaggi svizzeri che vivono sotto la minaccia perpetua di rocce e montagne sovrastanti vanno per i loro affari—proprio come se il possibile fosse impossibile, come se l'inevitabile fosse rimandato per sempre perché era ritardato.
 
@@ -84,7 +84,7 @@ Holsten era silenzioso.
 
 Una voce nel diario-autobiografia di Holsten, datata cinque giorni dopo, recita: "Ancora stupito. La legge è la cosa più pericolosa in questo paese. Ha centinaia di anni. Non ha un'idea. La più vecchia delle vecchie bottiglie e questo vino nuovo, il vino più esplosivo. Qualcosa li sorprenderà."
 
-### Sezione 4
+## Sezione 4
 
 C'era una certa verità nell'affermazione di Holsten che la legge era "vecchia di centinaia di anni." Era, in relazione al pensiero corrente e alle idee ampiamente accettate, una cosa arcaica. Mentre quasi tutto il materiale e i metodi della vita erano stati cambiando rapidamente e stavano ora cambiando ancora più rapidamente, i tribunali e le legislature del mondo stavano lottando disperatamente per soddisfare le esigenze moderne con dispositivi e procedure, concezioni di diritti e proprietà e autorità e obbligo che datavano dai rozzi compromessi di tempi relativamente barbarici. Le parrucche di crine di cavallo e i vestiti antichi dei giudici britannici, i loro tribunali ammuffiti e le maniere prepotenti, erano infatti solo le intimazioni esterne e visibili di anacronismi più profondi. L'organizzazione legale e politica della terra nel mezzo del ventesimo secolo era infatti ovunque come un indumento complicato, logoro ma forte, che ora legava il corpo governante che una volta aveva protetto.
 
@@ -92,7 +92,7 @@ Tuttavia quello stesso spirito di pensiero libero e pubblicazione schietta che n
 
 La parola "Sociologia" fu inventata da Herbert Spencer, uno scrittore popolare su argomenti filosofici, che fiorì circa la metà del diciannovesimo secolo, ma l'idea di uno stato, pianificato come un sistema di trazione elettrica è pianificato, senza riferimento ad apparati pre-esistenti, su linee scientifiche, non prese una presa molto forte sull'immaginazione popolare del mondo fino al ventesimo secolo. Allora, l'impazienza crescente del popolo americano con i mostruosi e socialmente paralizzanti sistemi di partito che erano scaturiti dalle loro assurde disposizioni elettorali, portò all'apparizione di ciò che venne ad essere chiamato il movimento dello "Stato Moderno", e una galassia di scrittori brillanti, in America, Europa e Oriente, agitò il mondo al pensiero di riarrangiamenti più audaci dell'interazione sociale, proprietà, impiego, educazione e governo, di quanto fosse mai stato contemplato prima. Senza dubbio queste idee di Stato Moderno erano molto largamente il riflesso sul pensiero sociale e politico della vasta rivoluzione nelle cose materiali che era stata in progresso per duecento anni, ma per lungo tempo sembrarono non avere più influenza sulle istituzioni esistenti di quanto gli scritti di Rousseau e Voltaire sembrassero aver avuto al tempo della morte di quest'ultimo. Stavano fermentando nelle menti degli uomini, e ci voleva solo proprio tali stress sociali e politici come l'avvento dei meccanismi atomici portò, per spingerli avanti bruscamente in rozza e sorprendente realizzazione.
 
-### Sezione 5
+## Sezione 5
 
 Il Wander Jahre di Frederick Barnet è uno di quei romanzi autobiografici che furono popolari durante il terzo e quarto decennio del ventesimo secolo. Fu pubblicato nel 1970, e bisogna intendere Wander Jahre piuttosto in senso spirituale e intellettuale che letterale. È infatti un titolo allusivo, che riporta il mondo al Wilhelm Meister di Goethe, un secolo e mezzo prima.
 
@@ -112,7 +112,7 @@ Nessuna intelligenza di prima classe era stata cercata per specializzarsi e riso
 
 Tutti i resoconti di Barnet del suo addestramento militare furono scritti nello stesso tono mezzo sprezzante, mezzo protestante. Era dell'opinione che le sue possibilità di partecipare in qualsiasi guerra reale fossero molto lievi, e che, se dopotutto avesse partecipato, sarebbe stato destinato ad essere così completamente diverso da queste manovre di pace che il suo unico corso come uomo razionale sarebbe stato mantenersi osservativamente fuori dal pericolo quanto avrebbe potuto fino a quando non avesse imparato i trucchi e le possibilità delle nuove condizioni. Afferma questo abbastanza francamente. Mai un uomo fu più libero da eroismo falso.
 
-### Sezione 6
+## Sezione 6
 
 Barnet accolse l'apparizione del motore atomico con l'entusiasmo della gioventù maschile per tutti i nuovi macchinari, ed è evidente che per qualche tempo non riuscì a collegare l'ondata di nuove meravigliose possibilità con i problemi finanziari della sua famiglia. "Sapevo che mio padre era preoccupato," ammette. Ciò gettò la più piccola delle ombre sulla sua deliziata partenza per Italia e Grecia ed Egitto con tre compagni congeniali in uno dei nuovi modelli atomici. Volarono sulle Isole del Canale e sulla Touraine, menziona, e girarono attorno al Mont Blanc—"Questi nuovi elicotteri, scoprimmo," annota, "avevano abolito tutto il pericolo e la tensione delle improvvise cadute a cui i vecchi aeroplani erano soggetti"—e poi proseguì per via di Pisa, Paestum, Ghirgenti e Atene, per visitare le piramidi al chiaro di luna, volandovi dal Cairo, e per seguire il Nilo fino a Khartum. Anche per gli standard successivi, deve essere stata una vacanza molto gioiosa per un giovane, e rese la tragedia delle sue esperienze successive ancora più oscura. Una settimana dopo il suo ritorno suo padre, che era vedovo, si annunciò rovinato e si suicidò per mezzo di un oppiaceo non programmato.
 
@@ -166,7 +166,7 @@ Ma su tutte le tensioni e i conflitti di quel tempo caotico stava già albeggian
 
 "Vidi la vita chiara," scrisse. "Vidi il compito gigantesco davanti a noi, e lo splendore stesso della sua difficoltà intricata e incommensurabile mi riempì di esaltazione. Vidi che dobbiamo ancora scoprire il governo, che dobbiamo ancora scoprire l'educazione, che è il reciproco necessario del governo, e che tutto questo—in cui la mia propria piccola macchia di una vita era così manifestamente sommersa—questo e il suo ieri in Grecia e Roma ed Egitto erano nulla, i primi meri mulinelli di polvere dell'inizio, i movimenti e i mormorii confusi di un dormiente che presentemente sarà sveglio..."
 
-### Sezione 7
+## Sezione 7
 
 E poi la storia racconta, con accattivante semplicità, della sua discesa da questa estatica visione della realtà.
 
@@ -186,7 +186,7 @@ Barnet camminò attraverso la folla, incapace di indursi a chiedere l'elemosina;
 
 Era un dono che, nonostante il precedente di De Quincey, avrebbe potuto, secondo la repressiva legislazione sociale di quei tempi, portare Barnet a portata della frusta carceraria. Ma lui la prese, confessa, e la ringraziò come meglio poteva, e se ne andò molto volentieri a procurarsi del cibo.
 
-### Sezione 8
+## Sezione 8
 
 Un giorno o due dopo — e ancora una volta la sua libertà di andare a suo piacimento sulle strade può essere presa come segno di una crescente disorganizzazione sociale e difficoltà della polizia — vagò in aperta campagna. Parla delle strade di quell'epoca plutocratica come "recintate con filo spinato contro le persone senza proprietà", degli alti giardini murati e degli avvisi di violazione di proprietà che lo tenevano confinato alla polverosità angusta delle vie pubbliche. Nell'aria, ricchi felici volavano, incuranti delle sventure intorno a loro, come lui stesso aveva volato due anni prima, e lungo le strade scorreva il nuovo traffico, leggero e veloce e meraviglioso. Si era raramente fuori dalla portata dei suoi fischi e gong e sirene anche nei sentieri dei campi o sulle colline aperte. I funzionari degli uffici di collocamento erano ovunque sovraccarichi di lavoro e infuriati, i dormitori occasionali erano così affollati che i vagabondi in eccesso dormivano in file sotto tettoie o all'aria aperta, e poiché dare l'elemosina ai viandanti era stato reso un reato punibile non c'era più amicizia o aiuto per un uomo dal raro pedone o dal cottage lungo la strada...
 

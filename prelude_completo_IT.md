@@ -1,6 +1,6 @@
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione I
+# PRELUDIO. I CACCIATORI DEL SOLE
+
+## Sezione I
 
 La storia dell'umanità è la storia del conseguimento del potere esterno. L'uomo è l'animale che usa strumenti e fa il fuoco. Dall'inizio della sua carriera terrestre lo troviamo integrare la forza naturale e le armi corporee di una bestia con il calore della combustione e il grezzo arnese di pietra. Così egli superò la scimmia. Da lì si espande. Ben presto aggiunse a sé il potere del cavallo e del bue, prese in prestito la forza di trasporto dell'acqua e la spinta motrice del vento, ravvivò il suo fuoco soffiando, e i suoi semplici strumenti, appuntiti dapprima con il rame e poi con il ferro, aumentarono e si diversificarono e divennero più elaborati ed efficienti. Riparò il suo calore in case e rese più facile il suo cammino con sentieri e strade. Complicò le sue relazioni sociali e aumentò la sua efficienza con la divisione del lavoro. Cominciò ad accumulare conoscenza. Espediente seguì espediente, ciascuno rendendo possibile per un uomo fare di più. Sempre lungo il registro che si allunga, salvo per una battuta d'arresto ogni tanto, egli sta facendo di più... Un quarto di milione di anni fa l'uomo più evoluto era un selvaggio, un essere appena articolato, che si riparava in buchi nelle rocce, armato di una selce rozzamente tagliata o di un bastone appuntito col fuoco, nudo, vivendo in piccoli gruppi familiari, ucciso da qualche uomo più giovane non appena la sua prima attività virile declinava. Sulla maggior parte delle grandi distese selvagge della terra lo avresti cercato invano; solo in poche valli fluviali temperate e subtropicali avresti trovato i covi accovacciati dei suoi piccoli branchi, un maschio, poche femmine, un bambino o due.
 
@@ -16,9 +16,7 @@ L'uomo cominciò a pensare. C'erano momenti in cui era nutrito, quando le sue lu
 
 Per decine e centinaia di secoli, per miriadi di generazioni quella vita dei nostri padri andò avanti. Dall'inizio alla maturazione di quella fase della vita umana, dal primo goffo eolite di selce rozzamente scheggiata ai primi arnesi di pietra levigata, trascorsero due o tremila secoli, dieci o quindicimila generazioni. Così lentamente, per standard umani, l'umanità si raccolse dalle tenui intimazioni della bestia. E quel primo barlume di speculazione, quella prima storia di conquista, quel narratore dagli occhi brillanti e arrossato sotto i suoi capelli arruffati, gesticolante al suo ascoltatore a bocca aperta e incredulo, afferrandogli il polso per tenerlo attento, fu l'inizio più meraviglioso che questo mondo abbia mai visto. Condannò i mammut, e iniziò la preparazione di quella trappola che catturerà il sole.
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione 2
+## Sezione 2
 
 Quel sogno fu solo un momento nella vita di un uomo, il cui vero affare sembrava fosse procurarsi il cibo e uccidere i suoi simili e generare alla maniera di tutto ciò che appartiene alla fratellanza delle bestie. Attorno a lui, nascosti da lui dal più sottile dei veli, c'erano le fonti intatte del Potere, la cui grandezza appena sospettiamo anche oggi, Potere che potrebbe rendere reale ogni suo sogno concepibile. Ma i piedi della razza erano sulla sua via, benché egli morisse ciecamente ignaro.
 
@@ -30,9 +28,7 @@ Ora durante questo periodo di duecento secoli o più, questo periodo degli stati
 
 Eppure il sognatore, il narratore, era ancora lì, aspettando la sua opportunità in mezzo alle preoccupazioni impegnative, gli andirivieni, le guerre e le processioni, la costruzione di castelli e la costruzione di cattedrali, le arti e gli amori, le piccole diplomazie e le faide incurabili, le crociate e i viaggi commerciali del medioevo. Non speculava più con la libertà senza ostacoli del selvaggio dell'età della pietra; spiegazioni autorevoli di tutto sbarravano il suo cammino; ma speculava con un cervello migliore, sedeva ozioso e guardava le stelle circolanti nel cielo e meditava sulla moneta e sul cristallo nella sua mano. Ogni volta che c'era un certo ozio per il pensiero in questi tempi, allora si trovavano uomini insoddisfatti delle apparenze delle cose, insoddisfatti delle assicurazioni della credenza ortodossa, inquieti con un senso di simboli non letti nel mondo attorno a loro, mettendo in dubbio la definitività della saggezza scolastica. Attraverso tutte le età della storia ci furono uomini a cui questo sussurro era giunto di cose nascoste attorno a loro. Non potevano più condurre vite ordinarie né accontentarsi delle cose comuni di questo mondo una volta che avevano udito questa voce. E per lo più credevano non solo che tutto questo mondo fosse come una tenda dipinta davanti a cose non immaginate, ma che questi segreti fossero Potere. Fino ad allora il Potere era giunto agli uomini per caso, ma ora c'erano questi cercatori che cercavano, cercavano tra oggetti rari e curiosi e sconcertanti, talvolta trovando qualche strana cosa utilizzabile, talvolta ingannando se stessi con immaginaria scoperta, talvolta fingendo di trovare. Il mondo di ogni giorno rideva di questi esseri eccentrici, o li trovava fastidiosi e li maltrattava, o era preso dalla paura e faceva di loro santi e stregoni e maghi, o con cupidigia e li intratteneva speranzoso; ma per la maggior parte non badava affatto a loro. Eppure erano del sangue di colui che aveva per primo sognato di attaccare il mammut; ognuno di loro era del suo sangue e discendenza; e la cosa che cercavano, del tutto inconsapevolmente, era la trappola che un giorno catturerà il sole.
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione 3
+## Sezione 3
 
 Tale era quell'uomo Leonardo da Vinci, che andava in giro per la corte di Sforza a Milano in uno stato di astrazione dignitosa. I suoi taccuini comuni sono pieni di sottigliezza profetica e ingegnose anticipazioni dei metodi dei primi aviatori. Dürer era il suo parallelo e Roger Bacon—che i Francescani ridussero al silenzio—della sua stirpe. Tale uomo ancora in una città più antica fu Erone di Alessandria, che conosceva il potere del vapore millenovecento anni prima che fosse messo in uso per la prima volta. E ancora più antico Archimede di Siracusa, e ancora più antico il leggendario Dedalo di Cnosso. Su e giù per la registrazione della storia ogni volta che c'era un po' di tregua dalla guerra e dalla brutalità i cercatori apparivano. E metà degli alchimisti erano della loro tribù.
 
@@ -40,9 +36,7 @@ Quando Roger Bacon fece esplodere il suo primo lotto di polvere da sparo si sare
 
 Anche quando i cercatori trovavano, all'inizio era un lungo viaggio prima che il mondo potesse usare le loro scoperte per qualunque scopo tranne i più rozzi e ovvi. Se l'uomo in generale non era ancora assolutamente cieco alle energie non conquistate attorno a lui come il suo precursore paleolitico, era al massimo mezzo cieco.
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione 4
+## Sezione 4
 
 L'energia latente del carbone e il potere del vapore attesero a lungo sulla soglia della scoperta, prima che cominciassero a influenzare le vite umane.
 
@@ -54,17 +48,13 @@ Ma per lungo tempo gli uomini non realizzarono l'importanza di questa novità. N
 
 Il sobrio Inglese alla fine del diciannovesimo secolo poteva sedere al suo tavolo per la colazione, decidere tra tè di Ceylon o caffè del Brasile, divorare un uovo dalla Francia con del prosciutto danese, o mangiare una costoletta della Nuova Zelanda, concludere la sua colazione con una banana delle Indie Occidentali, dare un'occhiata agli ultimi telegrammi da tutto il mondo, scrutare i prezzi correnti dei suoi investimenti geograficamente distribuiti in Sud Africa, Giappone, ed Egitto, e dire ai due figli che aveva generato (al posto degli otto di suo padre) che pensava che il mondo cambiasse molto poco. Dovevano giocare a cricket, tenere i capelli tagliati, andare alla vecchia scuola a cui era andato lui, evitare le lezioni che aveva evitato lui, imparare qualche frammento di Orazio e Virgilio e Omero per la confusione dei rozzi, e tutto sarebbe andato bene per loro...
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione 5
+## Sezione 5
 
 L'elettricità, benché fosse forse la prima delle due ad essere studiata, invase la vita comune degli uomini pochi decenni dopo lo sfruttamento del vapore. Anche all'elettricità, nonostante la sua vicinanza provocatoria tutto attorno a lui, l'umanità era stata completamente cieca per ere incalcolabili. Poteva esserci qualcosa di più enfatico dell'appello dell'elettricità per l'attenzione? Tuonava alle orecchie dell'uomo, gli segnalava con lampi accecanti, occasionalmente lo uccideva, e lui non poteva vederla come una cosa che lo riguardasse abbastanza da meritare studio. Entrava in casa con il gatto in qualsiasi giorno secco e crepitava insinuante ogni volta che accarezzava il suo pelo. Corrodeva i suoi metalli quando li metteva insieme... Non c'è un solo registro che qualcuno si sia chiesto perché il pelo del gatto crepita o perché i capelli sono così riottosi alla spazzola in un giorno gelido, prima del sedicesimo secolo. Per anni infiniti l'uomo sembra aver fatto del suo meglio molto efficacemente per non pensarci affatto; finché questo nuovo spirito del Cercatore non si rivolse a queste cose.
 
 Quante volte le cose devono essere state viste e respinte come non importanti, prima che l'occhio speculativo e il momento della visione arrivassero! Fu Gilbert, il medico di corte della regina Elisabetta, che per primo si scervellò con ambra strofinata e pezzetti di vetro e seta e gommalacca, e così cominciò il risveglio della mente umana all'esistenza di questa presenza universale. E anche allora la scienza dell'elettricità rimase un mero piccolo gruppo di fatti curiosi per quasi duecento anni, collegati forse con il magnetismo—una mera supposizione quella—forse con il fulmine. Le zampe delle rane devono essere state appese con ganci di rame da ringhiere di ferro e aver sussultato in innumerevoli occasioni prima che Galvani le vedesse. Eccetto per il parafulmine, furono 250 anni dopo Gilbert prima che l'elettricità uscisse dal gabinetto delle curiosità scientifiche nella vita dell'uomo comune... Poi improvvisamente, nel mezzo secolo tra il 1880 e il 1930, soppiantò la macchina a vapore e prese il controllo della trazione, soppiantò ogni altra forma di riscaldamento domestico, abolì la distanza con il telefono senza fili perfezionato e il telefotografo...
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione 6
+## Sezione 6
 
 E ci fu una straordinaria resistenza mentale alla scoperta e all'invenzione per almeno cento anni dopo che la rivoluzione scientifica era cominciata. Ogni nuova cosa si faceva strada nella pratica contro uno scetticismo che ammontava a volte all'ostilità. Uno scrittore su questi argomenti riporta una piccola divertente conversazione domestica che accadde, dice, nell'anno 1898, entro dieci anni, cioè, dal tempo in cui i primi aviatori erano decisamente in volo. Ci racconta come sedeva alla sua scrivania nel suo studio e conversava con il suo figlioletto.
 
@@ -100,9 +90,7 @@ Il ragazzo sembrò diviso nella sua fedeltà. Poi decise per ciò che credeva fe
 
 Eppure quel ragazzo visse per volare attraverso l'Atlantico e curare le reminiscenze di suo padre.
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione 7
+## Sezione 7
 
 Alla fine del diciannovesimo secolo come testimonia una moltitudine di passaggi nella letteratura di quel tempo, si pensava che il fatto che l'uomo avesse finalmente avuto rapporti riusciti e proficui con il vapore che lo scottava e l'elettricità che lampeggiava e tuonava nel cielo verso di lui, fosse un esercizio sorprendente e forse culminante della sua intelligenza e del suo coraggio intellettuale. L'aria di "Nunc Dimittis" risuona in alcuni di questi scritti. "Le grandi cose sono scoperte," scrisse Gerald Brown nel suo sommario del diciannovesimo secolo. "Per noi rimane poco se non l'elaborazione dei dettagli." Lo spirito del cercatore era ancora raro nel mondo; l'educazione era poco qualificata, non stimolante, scolastica, e poco apprezzata, e poche persone anche allora avrebbero potuto realizzare che la Scienza era ancora solo il più tenue degli schizzi di prova e la scoperta appena cominciava. Nessuno sembra aver avuto paura della scienza e delle sue possibilità. Eppure ora dove c'erano stati solo una ventina di cercatori circa, ce n'erano molte migliaia, e per ogni ago di speculazione che aveva sondato la tenda delle apparenze nel 1800, ce n'erano ora centinaia. E già la Chimica, che si era accontentata dei suoi atomi e molecole per la maggior parte di un secolo, stava preparandosi per quell'enorme passo successivo che avrebbe rivoluzionato l'intera vita dell'uomo da cima a fondo.
 
@@ -114,9 +102,7 @@ Eppure lo spirito della ricerca si stava diffondendo costantemente attraverso il
 
 Fu nel 1910 che i genitori del giovane Holsten, che doveva essere chiamato da un'intera generazione di uomini di scienza, "il più grande dei chimici europei," stavano soggiornando in una villa vicino a Santo Domenico, tra Fiesole e Firenze. Aveva allora solo quindici anni, ma era già distinto come matematico e posseduto da un selvaggio appetito di comprendere. Era stato particolarmente attratto dal mistero della fosforescenza e dalla sua apparente non relazione con ogni altra fonte di luce. Doveva raccontare poi nelle sue reminiscenze come osservò le lucciole che vagavano e brillavano tra gli alberi scuri nel giardino della villa sotto il caldo cielo notturno blu dell'Italia; come le catturò e le tenne in gabbie, le dissezionò, studiando prima l'anatomia generale degli insetti molto elaboratamente, e come cominciò a sperimentare con l'effetto di vari gas e temperature variabili sulla loro luce. Poi il regalo casuale di un piccolo giocattolo scientifico inventato da Sir William Crookes, un giocattolo chiamato spintariscopio, sul quale particelle di radio impattano sul solfuro di zinco e lo rendono luminoso, lo indusse ad associare i due insiemi di fenomeni. Fu un'associazione felice per le sue indagini. Fu anche una cosa rara e fortunata che qualcuno con il dono matematico fosse stato preso da queste curiosità.
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione 8
+## Sezione 8
 
 E mentre il ragazzo Holsten sognava sulle sue lucciole a Fiesole, un certo professore di fisica di nome Rufus stava tenendo un corso di conferenze pomeridiane sul Radio e la Radio-Attività a Edimburgo. Erano conferenze che avevano attirato una quantità di attenzione molto considerevole. Le teneva in un piccolo teatro di conferenze che era diventato sempre più congestionato man mano che il suo corso procedeva. Alla sua discussione conclusiva era affollato fino al soffitto in fondo, e lì la gente stava in piedi, stando in piedi senza alcun senso di fatica, tanto affascinanti trovavano i suoi suggerimenti. Un giovanotto in particolare, un ragazzo dalla testa tondeggiante, con capelli ruvidi come stoppa dalle Highlands, sedeva abbracciando il suo ginocchio con grandi mani rosso-sabbia e bevendo ogni parola, occhi ardenti, guance arrossate, e orecchie brucianti.
 
