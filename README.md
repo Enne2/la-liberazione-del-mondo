@@ -72,7 +72,7 @@ Questa traduzione mantiene:
 
 ## 📜 Licenza
 
-Testo originale di pubblico dominio. Traduzione italiana © 2025.
+Testo originale di pubblico dominio. Traduzione italiana Matteo Benedetto tramite workflow agentico LLM © 2025.
 
 ---
 
