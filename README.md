@@ -22,9 +22,11 @@ Traduzione italiana del romanzo profetico di H.G. Wells (1914) che previde l'ene
 - **[Capitolo 2: L'Ultima Guerra](capitolo_02_completo_IT.md)** *(10 sezioni)*
   - File completo disponibile
 
+- **[Capitolo 3: La Fine della Guerra](capitolo_03_completo_IT.md)** *(8 sezioni)*
+  - File completo disponibile
+
 ### ⏳ In Lavorazione
 
-- Capitolo 3: La Fine della Guerra
 - Capitolo 4: La Nuova Fase
 - Capitolo 5: Gli Ultimi Giorni di Marcus Karenin
 
@@ -49,9 +51,9 @@ Il progetto utilizza script Python per ottimizzare il processo:
 
 ## 📊 Statistiche
 
-- **Capitoli tradotti**: 3/5 + PRELUDE (50%)
-- **Sezioni totali**: 26 (8 PRELUDE + 8 cap.1 + 10 cap.2)
-- **Caratteri tradotti**: ~184.000
+- **Capitoli tradotti**: 4/5 + PRELUDE (67%)
+- **Sezioni totali**: 34 (8 PRELUDE + 8 cap.1 + 10 cap.2 + 8 cap.3)
+- **Caratteri tradotti**: ~261.000
 
 ---
 
