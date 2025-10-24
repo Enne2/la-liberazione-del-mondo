@@ -1,0 +1,9 @@
+PRELUDIO
+I CACCIATORI DEL SOLE
+### Sezione 3
+
+Tale era quell'uomo Leonardo da Vinci, che andava in giro per la corte di Sforza a Milano in uno stato di astrazione dignitosa. I suoi taccuini comuni sono pieni di sottigliezza profetica e ingegnose anticipazioni dei metodi dei primi aviatori. Dürer era il suo parallelo e Roger Bacon—che i Francescani ridussero al silenzio—della sua stirpe. Tale uomo ancora in una città più antica fu Erone di Alessandria, che conosceva il potere del vapore millenovecento anni prima che fosse messo in uso per la prima volta. E ancora più antico Archimede di Siracusa, e ancora più antico il leggendario Dedalo di Cnosso. Su e giù per la registrazione della storia ogni volta che c'era un po' di tregua dalla guerra e dalla brutalità i cercatori apparivano. E metà degli alchimisti erano della loro tribù.
+
+Quando Roger Bacon fece esplodere il suo primo lotto di polvere da sparo si sarebbe potuto supporre che gli uomini sarebbero passati subito al motore esplosivo. Ma non potevano vedere nulla del genere. Non stavano ancora cominciando a pensare di vedere le cose; la loro metallurgia era troppo povera per fare tali motori anche se ci avessero pensato. Per un tempo non potevano fare strumenti abbastanza solidi per reggere questa nuova forza anche per uno scopo così grossolano come scagliare un proiettile. I loro primi cannoni avevano canne di legno cerchiato, e il mondo aspettò più di cinquecento anni prima che il motore esplosivo arrivasse.
+
+Anche quando i cercatori trovavano, all'inizio era un lungo viaggio prima che il mondo potesse usare le loro scoperte per qualunque scopo tranne i più rozzi e ovvi. Se l'uomo in generale non era ancora assolutamente cieco alle energie non conquistate attorno a lui come il suo precursore paleolitico, era al massimo mezzo cieco.

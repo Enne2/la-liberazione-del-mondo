@@ -1,0 +1,42 @@
+## CHAPTER THE SECOND. THE LAST WAR
+
+### Section 6
+
+But let us return to Frederick Barnet's Wander Jahre and its account of the experiences of a common man duringthe war time. While these terrific disclosures of scientific possibility were happening in Paris and Berlin, Barnetand his company were industriously entrenching themselves in Belgian Luxembourg.
+He tells of the mobilisation and of his summer day's journey through the north of France and the Ardennes in afew vivid phrases. The country was browned by a warm summer, the trees a little touched with autumnal colour,and the wheat already golden. When they stopped for an hour at Hirson, men and women with tricolour badgesupon the platform distributed cakes and glasses of beer to the thirsty soldiers, and there was much cheerfulness.'Such good, cool beer it was,' he wrote. 'I had had nothing to eat nor drink since Epsom.'
+A number of monoplanes, 'like giant swallows,' he notes, were scouting in the pink evening sky.
+Barnet's battalion was sent through the Sedan country to a place called Virton, and thence to a point in the woodson the line to Jemelle. Here they detrained, bivouacked uneasily by the railway−−trains and stores were passingalong it all night−−and next morning he: marched eastward through a cold, overcast dawn, and a morning, firstcloudy and then blazing, over a large spacious country−side interspersed by forest towards Arlon.
+There the infantry were set to work upon a line of masked entrenchments and hidden rifle pits between St Hubertand Virton that were designed to check and delay any advance from the east upon the fortified line of the Meuse.They had their orders, and for two days they worked without either a sight of the enemy or any suspicion of thedisaster that had abruptly decapitated the armies of Europe, and turned the west of Paris and the centre of Berlininto blazing miniatures of the destruction of Pompeii.
+And the news, when it did come, came attenuated. 'We heard there had been mischief with aeroplanes and bombsin Paris,' Barnet relates; 'but it didn't seem to follow that "They" weren't still somewhere elaborating their plansand issuing orders. When the enemy began to emerge from the woods in front of us, we cheered and blazed away,and didn't trouble much more about anything but the battle in hand. If now and then one cocked up an eye into thesky to see what was happening there, the rip of a bullet soon brought one down to the horizontal again....
+That battle went on for three days all over a great stretch of country between Louvain on the north and Longwy tothe south. It was essentially a rifle and infantry struggle. The aeroplanes do not seem to have taken any decisiveshare in the actual fighting for some days, though no doubt they effected the strategy from the first by preventingsurprise movements. They were aeroplanes with atomic engines, but they were not provided with atomic bombs,which were manifestly unsuitable for field use, nor indeed had they any very effective kind of bomb. And thoughthey manoeuvred against each other, and there was rifle shooting at them and between them, there was little actualaerial fighting. Either the airmen were indisposed to fight or the commanders on both sides preferred to reservethese machines for scouting....
+After a day or so of digging and scheming, Barnet found himself in the forefront of a battle. He had made hissection of rifle pits chiefly along a line of deep dry ditch that gave a means of inter−communication, he had hadthe earth scattered over the adjacent field, and he had masked his preparations with tussocks of corn and poppy.The hostile advance came blindly and unsuspiciously across the fields below and would have been very cruellyhandled indeed, if some one away to the right had not opened fire too soon.
+'It was a queer thrill when these fellows came into sight,' he confesses; 'and not a bit like manoeuvres. They haltedfor a time on the edge of the wood and then came forward in an open line. They kept walking nearer to us and not
+### The World Set Free
+
+### The World Set Free
+34
+
+
+looking at us, but away to the right of us. Even when they began to be hit, and their officers' whistles woke themup, they didn't seem to see us. One or two halted to fire, and then they all went back towards the wood again.They went slowly at first, looking round at us, then the shelter of the wood seemed to draw them, and they trotted.I fired rather mechanically and missed, then I fired again, and then I became earnest to hit something, made sureof my sighting, and aimed very carefully at a blue back that was dodging about in the corn. At first I couldn'tsatisfy myself and didn't shoot, his movements were so spasmodic and uncertain; then I think he came to a ditchor some such obstacle and halted for a moment. "GOT you," I whispered, and pulled the trigger.
+'I had the strangest sensations about that man. In the first instance, when I felt that I had hit him I was irradiatedwith joy and pride....
+'I sent him spinning. He jumped and threw up his arms....
+'Then I saw the corn tops waving and had glimpses of him flapping about. Suddenly I felt sick. I hadn't killedhim....
+'In some way he was disabled and smashed up and yet able to struggle about. I began to think....
+'For nearly two hours that Prussian was agonising in the corn. Either he was calling out or some one was shoutingto him....
+'Then he jumped up−−he seemed to try to get up upon his feet with one last effort; and then he fell like a sack andlay quite still and never moved again.
+'He had been unendurable, and I believe some one had shot him dead. I had been wanting to do so for sometime....'
+The enemy began sniping the rifle pits from shelters they made for themselves in the woods below. A man was hitin the pit next to Barnet, and began cursing and crying out in a violent rage. Barnet crawled along the ditch to himand found him in great pain, covered with blood, frantic with indignation, and with the half of his right handsmashed to a pulp. 'Look at this,' he kept repeating, hugging it and then extending it. 'Damned foolery! Damnedfoolery! My right hand, sir! My right hand!'
+For some time Barnet could do nothing with him. The man was consumed by his tortured realisation of the evilsilliness of war, the realisation which had come upon him in a flash with the bullet that had destroyed his skill anduse as an artificer for ever. He was looking at the vestiges with a horror that made him impenetrable to any otheridea. At last the poor wretch let Barnet tie up his bleeding stump and help him along the ditch that conducted himdeviously out of range....
+When Barnet returned his men were already calling out for water, and all day long the line of pits suffered greatlyfrom thirst. For food they had chocolate and bread.
+'At first,' he says, 'I was extraordinarily excited by my baptism of fire. Then as the heat of the day came on Iexperienced an enormous tedium and discomfort. The flies became extremely troublesome, and my little grave ofa rifle pit was invaded by ants. I could not get up or move about, for some one in the trees had got a mark on me. Ikept thinking of the dead Prussian down among the corn, and of the bitter outcries of my own man. Damnedfoolery! It WAS damned foolery. But who was to blame? How had we got to this? . . .
+'Early in the afternoon an aeroplane tried to dislodge us with dynamite bombs, but she was hit by bullets once ortwice, and suddenly dived down over beyond the trees.
+### The World Set Free
+
+### The World Set Free
+35
+
+
+' "From Holland to the Alps this day," I thought, "there must be crouching and lying between half and a million ofmen, trying to inflict irreparable damage upon one another. The thing is idiotic to the pitch of impossibility. It is adream. Presently I shall wake up." . . .
+'Then the phrase changed itself in my mind. "Presently mankind will wake up."
+'I lay speculating just how many thousands of men there were among these hundreds of thousands, whose spiritswere in rebellion against all these ancient traditions of flag and empire. Weren't we, perhaps, already in the throesof the last crisis, in that darkest moment of a nightmare's horror before the sleeper will endure no more of it−−andwakes?
+'I don't know how my speculations ended. I think they were not so much ended as distracted by the distantthudding of the guns that were opening fire at long range upon Namur.'
