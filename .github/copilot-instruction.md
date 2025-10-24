@@ -246,12 +246,13 @@ Per ottimizzare l'uso dei token e gestire meglio capitoli lunghi:
 
 ## Aggiornamenti e Modifiche
 
-**Data**: 24 ottobre 2025
+**Data**: 25 ottobre 2025
 **Stato**: 
 - ✓ PRELUDE completato (8 sezioni) - **File completo: prelude_completo_IT.md**
 - ✓ Capitolo 1 completato (8 sezioni) - **File completo: capitolo_01_completo_IT.md**
 - ✓ Capitolo 2 completato (10 sezioni) - **File completo: capitolo_02_completo_IT.md**
 - ✓ Capitolo 3 completato (8 sezioni) - **File completo: capitolo_03_completo_IT.md**
+- ✓ Capitolo 4 completato (12 sezioni) - **File completo: capitolo_04_completo_IT.md** 🎉
 - ✓ Script di ottimizzazione creati e testati
   - `split_chapter.py` - divisione automatica capitoli
   - `translate_section.py` - linee guida traduzione
@@ -259,8 +260,8 @@ Per ottimizzare l'uso dei token e gestire meglio capitoli lunghi:
   - `merge_sections.py` - riassemblaggio sezioni in file unico
 
 **Prossimi passi**: 
-1. Procedere con Capitolo 4 usando il workflow ottimizzato completo
-2. Dividere il capitolo 4 con `split_chapter.py`
+1. Procedere con Capitolo 5 (Capitolo finale: "Gli Ultimi Giorni di Marcus Karenin")
+2. Dividere il capitolo 5 con `split_chapter.py`
 3. Tradurre le sezioni una alla volta
 4. Pulire le traduzioni con `clean_translations.py`
 5. Unire le sezioni con `merge_sections.py`
@@ -277,26 +278,29 @@ Per ottimizzare l'uso dei token e gestire meglio capitoli lunghi:
 ├── capitolo_01_completo_IT.md            # ✓ Capitolo 1 tradotto completo
 ├── capitolo_02_completo_IT.md            # ✓ Capitolo 2 tradotto completo
 ├── capitolo_03_completo_IT.md            # ✓ Capitolo 3 tradotto completo
+├── capitolo_04_completo_IT.md            # ✓ Capitolo 4 tradotto completo
 ├── The World set Free_chapters/          # Originali inglesi
 │   ├── PRELUDE.md                        # ✓ PRELUDE
 │   ├── chapter_01_*.md                   # ✓ Capitolo 1
 │   ├── chapter_02_*.md                   # ✓ Capitolo 2
 │   ├── chapter_03_*.md                   # ✓ Capitolo 3
-│   ├── chapter_04_*.md                   # ⏳ Prossimo
-│   └── chapter_05_*.md
+│   ├── chapter_04_*.md                   # ✓ Capitolo 4
+│   └── chapter_05_*.md                   # ⏳ Prossimo
 ├── The World set Free_prelude_IT/        # ✓ PRELUDE traduzioni (8 sezioni)
 ├── The World set Free_chapter01/         # ✓ Cap. 1 sezioni inglesi (8)
 ├── The World set Free_chapter01_IT/      # ✓ Cap. 1 traduzioni (8/8) ✨ PULITO
 ├── The World set Free_chapter02/         # ✓ Cap. 2 sezioni inglesi (10)
 ├── The World set Free_chapter02_IT/      # ✓ Cap. 2 traduzioni (10/10) ✨ PULITO
 ├── The World set Free_chapter03/         # ✓ Cap. 3 sezioni inglesi (8)
-└── The World set Free_chapter03_IT/      # ✓ Cap. 3 traduzioni (8/8) ✨ PULITO
+├── The World set Free_chapter03_IT/      # ✓ Cap. 3 traduzioni (8/8) ✨ PULITO
+├── The World set Free_chapter04/         # ✓ Cap. 4 sezioni inglesi (12)
+└── The World set Free_chapter04_IT/      # ✓ Cap. 4 traduzioni (12/12) ✨ PULITO
 ```
 
 **Statistiche Progresso**:
-- Capitoli completati: 4/5 (67%) + PRELUDE ✓
-- Sezioni tradotte totali: 34 (8 PRELUDE + 8 cap.1 + 10 cap.2 + 8 cap.3)
-- Caratteri tradotti: ~261.000
+- Capitoli completati: 4/5 (80%) + PRELUDE ✓
+- Sezioni tradotte totali: 46 (8 PRELUDE + 8 cap.1 + 10 cap.2 + 8 cap.3 + 12 cap.4)
+- Caratteri tradotti: ~319.000
 - Workflow ottimizzato con successo ✓
 - Sistema di pulizia automatica implementato ✓
 - Sistema di riassemblaggio automatico implementato ✓
