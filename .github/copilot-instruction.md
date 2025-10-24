@@ -242,15 +242,16 @@ Per ottimizzare l'uso dei token e gestire meglio capitoli lunghi:
 4. **Pulire** le traduzioni con `clean_translations.py` per rimuovere elementi paratestuali
 5. **Unire** le sezioni con `merge_sections.py` per creare il file completo
 6. Verificare coerenza e qualità del capitolo completo
+7. **Aggiornare** sempre questo file di istruzioni alla fine di ogni capitolo completato
 
 ## Aggiornamenti e Modifiche
 
 **Data**: 24 ottobre 2025
 **Stato**: 
 - ✓ PRELUDE completato (8 sezioni) - **File completo: prelude_completo_IT.md**
-- ✓ Capitolo 1 completato (8 sezioni)
-- ✓ Capitolo 2 completato (10 sezioni) - **Pulito da elementi paratestuali**
-  - ✓ File completo: capitolo_02_completo_IT.md
+- ✓ Capitolo 1 completato (8 sezioni) - **File completo: capitolo_01_completo_IT.md**
+- ✓ Capitolo 2 completato (10 sezioni) - **File completo: capitolo_02_completo_IT.md**
+- ✓ Capitolo 3 completato (8 sezioni) - **File completo: capitolo_03_completo_IT.md**
 - ✓ Script di ottimizzazione creati e testati
   - `split_chapter.py` - divisione automatica capitoli
   - `translate_section.py` - linee guida traduzione
@@ -258,13 +259,12 @@ Per ottimizzare l'uso dei token e gestire meglio capitoli lunghi:
   - `merge_sections.py` - riassemblaggio sezioni in file unico
 
 **Prossimi passi**: 
-1. Pulire anche il Capitolo 1 con `clean_translations.py`
-2. Assemblare il Capitolo 1 con `merge_sections.py`
-3. Procedere con Capitolo 3 usando il workflow ottimizzato completo
-4. Dividere il capitolo 3 con `split_chapter.py`
-5. Tradurre le sezioni una alla volta
-6. Pulire le traduzioni con `clean_translations.py`
-7. Unire le sezioni con `merge_sections.py`
+1. Procedere con Capitolo 4 usando il workflow ottimizzato completo
+2. Dividere il capitolo 4 con `split_chapter.py`
+3. Tradurre le sezioni una alla volta
+4. Pulire le traduzioni con `clean_translations.py`
+5. Unire le sezioni con `merge_sections.py`
+6. **IMPORTANTE**: Aggiornare sempre questo file di istruzioni alla fine di ogni capitolo completato
 
 **Struttura directory aggiornata**:
 ```
@@ -272,29 +272,37 @@ Per ottimizzare l'uso dei token e gestire meglio capitoli lunghi:
 ├── split_chapter.py                      # Script divisione capitoli
 ├── translate_section.py                  # Script helper traduzione
 ├── clean_translations.py                 # Script pulizia traduzioni
-├── merge_sections.py                     # Script riassemblaggio sezioni ✨ NUOVO
+├── merge_sections.py                     # Script riassemblaggio sezioni
 ├── prelude_completo_IT.md                # ✓ PRELUDE tradotto completo
+├── capitolo_01_completo_IT.md            # ✓ Capitolo 1 tradotto completo
 ├── capitolo_02_completo_IT.md            # ✓ Capitolo 2 tradotto completo
+├── capitolo_03_completo_IT.md            # ✓ Capitolo 3 tradotto completo
 ├── The World set Free_chapters/          # Originali inglesi
 │   ├── PRELUDE.md                        # ✓ PRELUDE
 │   ├── chapter_01_*.md                   # ✓ Capitolo 1
 │   ├── chapter_02_*.md                   # ✓ Capitolo 2
-│   ├── chapter_03_*.md                   # ⏳ Prossimo
-│   ├── chapter_04_*.md
+│   ├── chapter_03_*.md                   # ✓ Capitolo 3
+│   ├── chapter_04_*.md                   # ⏳ Prossimo
 │   └── chapter_05_*.md
 ├── The World set Free_prelude_IT/        # ✓ PRELUDE traduzioni (8 sezioni)
 ├── The World set Free_chapter01/         # ✓ Cap. 1 sezioni inglesi (8)
+├── The World set Free_chapter01_IT/      # ✓ Cap. 1 traduzioni (8/8) ✨ PULITO
 ├── The World set Free_chapter02/         # ✓ Cap. 2 sezioni inglesi (10)
-└── The World set Free_chapter02_IT/      # ✓ Cap. 2 traduzioni (10/10) ✨ PULITO
+├── The World set Free_chapter02_IT/      # ✓ Cap. 2 traduzioni (10/10) ✨ PULITO
+├── The World set Free_chapter03/         # ✓ Cap. 3 sezioni inglesi (8)
+└── The World set Free_chapter03_IT/      # ✓ Cap. 3 traduzioni (8/8) ✨ PULITO
 ```
 
 **Statistiche Progresso**:
-- Capitoli completati: 2/5 (40%) + PRELUDE ✓
-- Sezioni tradotte totali: 26 (8 PRELUDE + 18 capitoli)
+- Capitoli completati: 4/5 (67%) + PRELUDE ✓
+- Sezioni tradotte totali: 34 (8 PRELUDE + 8 cap.1 + 10 cap.2 + 8 cap.3)
+- Caratteri tradotti: ~261.000
 - Workflow ottimizzato con successo ✓
 - Sistema di pulizia automatica implementato ✓
 - Sistema di riassemblaggio automatico implementato ✓
+- Repository Git pubblicato: ssh://git@git.enne2.net:222/enne2/la_liberazione_del_mondo.git ✓
 
+# Autore progetto: Matteo Benedetto
 ---
 
 *Questo documento deve essere aggiornato man mano che si procede con la traduzione per mantenere coerenza e qualità.*
