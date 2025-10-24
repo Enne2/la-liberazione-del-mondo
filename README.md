@@ -1,7 +1,9 @@
 # La Liberazione del Mondo
 ## *The World Set Free* di H.G. Wells
 
-![Copertina](cover.jpg)
+<p align="center">
+  <img src="cover.jpg" alt="Copertina" width="150"/>
+</p>
 
 Traduzione italiana del romanzo profetico di H.G. Wells (1914) che previde l'energia atomica e le sue conseguenze sulla civiltà umana.
 
