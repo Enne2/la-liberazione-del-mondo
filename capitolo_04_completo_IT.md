@@ -1,6 +1,6 @@
-## CAPITOLO QUARTO. LA NUOVA FASE
+# CAPITOLO QUARTO. LA NUOVA FASE
 
-### Sezione 1
+## Sezione 1
 
 Il compito che stava davanti all'Assemblea di Brissago, visto come possiamo vederlo ora dal punto di vista chiarificatore delle cose compiute, era nelle sue questioni generali un compito semplice. Essenzialmente si trattava di porre l'organizzazione sociale sulla nuova base che il rapido, accelerato avanzamento della conoscenza umana aveva reso necessaria. Il consiglio fu raccolto insieme con la fretta di una spedizione di salvataggio, e si trovò confrontato con un naufragio; ma il naufragio era un naufragio irreparabile, e le uniche possibilità del caso erano o la ricaduta dell'umanità nella barbarie agricola da cui era emersa così dolorosamente o l'accettazione della scienza realizzata come base di un nuovo ordine sociale. Le vecchie tendenze della natura umana, sospetto, gelosia, particolarismo e belligeranza, erano incompatibili con il mostruoso potere distruttivo dei nuovi apparati che l'inumana logica della scienza aveva prodotto. L'equilibrio poteva essere restaurato solo dalla civilizzazione che distruggeva se stessa fino a un livello al quale gli apparati moderni non potessero più essere prodotti, o dalla natura umana che adattava se stessa nelle sue istituzioni alle nuove condizioni. Era per quest'ultima alternativa che l'assemblea esisteva.
 
@@ -10,7 +10,7 @@ E, non premeditata, non desiderata, dalle accumulazioni del suo coltivare venne 
 
 Già prima del rilascio dell'energia atomica le tensioni tra il vecchio modo di vivere e il nuovo erano intense. Erano molto più intense di quanto fossero state anche al collasso del sistema imperiale romano. Da un lato c'era l'antica vita della famiglia e della piccola comunità e della piccola industria, dall'altro c'era una nuova vita su una scala più ampia, con orizzonti più remoti e uno strano senso di scopo. Già stava crescendo chiaro che gli uomini dovevano vivere da un lato o dall'altro. Non si potevano avere piccoli commercianti e affari sindacati nello stesso mercato, carrettieri dormienti e carrelli a motore sulla stessa strada, archi e frecce e tiratori scelti su aeroplani nello stesso esercito, o industrie contadine analfabete e fabbriche azionate da energia nello stesso mondo. E ancora meno era possibile che si potessero avere le idee e le ambizioni e l'avidità e la gelosia di contadini equipaggiati con i vasti apparati della nuova epoca. Se non ci fossero state bombe atomiche a riunire la maggior parte dell'intelligenza direttiva del mondo a quella frettolosa conferenza a Brissago, ci sarebbe stata ancora, estesa su grandi aree e uno spazio di tempo considerevole forse, una conferenza meno formale di persone responsabili e comprensive sulle perplessità di questa opposizione mondiale. Se il lavoro di Holsten fosse stato diffuso su secoli e impartito al mondo per gradi impercettibili, avrebbe tuttavia reso necessario per gli uomini prendere consiglio e stabilire un piano per il futuro. Infatti già si stava accumulando da cento anni prima della crisi una letteratura di preveggenza; c'era tutta una massa di schemi di "Stato Moderno" disponibile su cui la conferenza poteva basarsi. Queste bombe non fecero che accentuare e drammatizzare un problema già in sviluppo.
 
-### Sezione 2
+## Sezione 2
 
 Questa assemblea non fu un balzo di menti eccezionali e super-intelligenze nel controllo degli affari. Era insegnabile, i suoi membri trascinavano idee con loro alla riunione, ma queste erano le conseguenze dello "shock morale" che le bombe avevano dato all'umanità, e non c'è ragione di supporre che le sue personalità individuali fossero molto al di sopra della media. Sarebbe possibile citare mille esempi di errore e inefficienza nei suoi procedimenti dovuti alla dimenticanza, irritabilità o stanchezza dei suoi membri. Sperimentò considerevolmente e sbagliò spesso. Eccetto Holsten, il cui dono era altamente specializzato, è questionabile se ci fosse un solo uomo del primo ordine di qualità umana nella riunione. Ma aveva un modesto timore di se stessa, e una conseguente direttezza che le diede una distinzione generale. C'era, naturalmente, una nobile semplicità in Leblanc, ma anche di lui si può chiedere se non fosse piuttosto buono e di mente onesta che nel senso più pieno grande.
 
@@ -18,7 +18,7 @@ L'ex-re aveva saggezza e un certo slancio romantico, era un uomo tra migliaia, a
 
 La conferenza di Brissago è stata scritta più e più volte, come se fosse una riunione del vero fiore dell'umanità. Appollaiata lassù per il capriccio o la saggezza di Leblanc, aveva una certa qualità olimpica, e la tendenza naturale della mente umana a elaborare tale somiglianza ci farebbe dare ai suoi membri le sembianze degli dei. Sarebbe ugualmente ragionevole paragonarla a uno di quegli incontri forzati sulle cime delle montagne che devono essere avvenuti nelle fasi di apertura del Diluvio. La forza del consiglio non stava in se stesso ma nelle circostanze che avevano accelerato la sua intelligenza, dissipato le sue vanità, e emancipato da ambizioni e antagonismi tradizionali. Era stato spogliato dell'accumulo di secoli, un governo nudo con tutta quella libertà d'azione che la nudità offre. E i suoi problemi gli erano presentati con una chiarezza che era fuori da ogni paragone con le intimazioni complicate e sconcertanti del tempo precedente.
 
-### Sezione 3
+## Sezione 3
 
 Il mondo su cui il consiglio guardava presentava davvero un compito sufficientemente immenso e del tutto troppo urgente per qualsiasi indulgenza sfrenata nella dissensione interna. Può essere interessante abbozzare in poche frasi la condizione dell'umanità alla chiusura del periodo degli stati in guerra, nell'anno di crisi che seguì il rilascio del potere atomico. Era un mondo straordinariamente limitato quando lo si misura con standard successivi, ed era ora in uno stato della più terribile confusione e angoscia.
 
@@ -44,7 +44,7 @@ Inoltre, l'aria in questo cerchio interno infernale di rovine illuminate di ross
 
 Tale era l'ultimo stato di Parigi, e tale su scala più ampia era la condizione degli affari a Chicago, e lo stesso destino aveva colpito Berlino, Mosca, Tokyo, la metà orientale di Londra, Tolone, Kiel, e duecentodiciotto altri centri di popolazione o armamento. Ciascuno era un centro fiammeggiante di distruzione radiante che solo il tempo poteva spegnere, che in effetti in molti casi il tempo deve ancora spegnere. Fino a questo giorno, sebbene in effetti con un tumulto e vigore costantemente diminuenti, queste esplosioni continuano. Nella mappa di quasi ogni paese del mondo tre o quattro o più cerchi rossi, di una ventina di miglia di diametro, segnano la posizione delle bombe atomiche morenti e le aree di morte che gli uomini sono stati costretti ad abbandonare intorno ad esse. Dentro queste aree perirono musei, cattedrali, palazzi, biblioteche, gallerie di capolavori, e una vasta accumulazione di conquiste umane, i cui resti carbonizzati giacciono sepolti, un'eredità di materiale curioso che solo le future generazioni possono sperare di esaminare...
 
-### Sezione 4
+## Sezione 4
 
 Lo stato d'animo della popolazione urbana espropriata che brulicava e periva così abbondantemente sulla campagna durante i giorni oscuri dei mesi autunnali che seguirono l'Ultima Guerra, era uno di completa disperazione. Barnet dà schizzo dopo schizzo di gruppi di queste persone, accampate tra i vigneti della Champagne, come le vide durante il suo periodo di servizio con l'esercito di pacificazione.
 
@@ -120,7 +120,7 @@ Ci fu una pausa. Poi la voce accanto a lui scoppiò. "Ma, Monsieur, è impossibi
 
 "Quando lo vidi l'ultima volta," disse Barnet, "stava sotto il cartello stradale alla cima della collina, guardando con desiderio, eppure mi sembrava un po' dubbiosamente, ora verso Parigi, e del tutto incurante di una pioggerella che lo stava bagnando completamente..."
 
-### Sezione 5
+## Sezione 5
 
 L'inverno 1959-1960 fu un inverno terribile. L'Inghilterra, che non conosceva da generazioni il vero freddo, fu colpita da temperature glaciali. Barnet era ancora a Londra, nei sotterranei dove continuava a trasmettere messaggi da una stazione wireless improvvisata. Ma ormai anche la capitale era stata evacuata in gran parte. Le folle si concentravano nei campi di raccolta organizzati dal Consiglio, dove almeno vi era la possibilità di cibo e rifugio.
 
@@ -132,7 +132,7 @@ Quando le campane della cattedrale di Winchester suonarono quella sera—un ritm
 
 Barnet rimase a guardare dal campanile, ascoltando le campane che trasmettevano il nuovo ordine al mondo. Era strano pensare che ogni campanile d'Europa, ogni torre radio, ogni dispositivo di comunicazione stava in quel momento trasmettendo lo stesso messaggio. E da quel giorno in poi, il mondo non sarebbe mai più tornato ai vecchi assetti delle nazioni rivali e dei re isolati.
 
-### Sezione 6
+## Sezione 6
 
 Il Consiglio del Mondo affrontò il caos con una grandezza di spirito senza precedenti. Non pronunciò dichiarazioni ampollanti; semplicemente agì. Il primo compito era assicurare il controllo dei materiali atomici dispersi e dei laboratori di ricerca. Non per scopi bellici—questi tempi erano tramontati—bensì per controllare i depositi radioattivi e impedire ulteriori contaminazioni.
 
@@ -148,7 +148,7 @@ Attorno ai grandi centri di produzione energetica sorsero i cosiddetti "campi ur
 
 Il Consiglio non imponeva queste trasformazioni per decreto tirannico. Piuttosto, creava le condizioni affinché la necessità umana e la solidarietà naturale operassero. Coloro che resistevano ai nuovi ordini erano pochi e sempre più isolati. Nella maggior parte del mondo, le persone scoprirono con meraviglia che potevano vivere senza il peso dell'avarizia, della competizione forsennata, della paura della povertà.
 
-### Sezione 7
+## Sezione 7
 
 Una delle decisioni più sagge del Consiglio fu l'adozione di una lingua universale. Per migliaia di anni, la molteplicità delle lingue aveva frammentato l'umanità. Anche quando i principi erano chiari, le parole si perdevano nella traduzione; gli equivoci si moltiplicavano; la comunicazione rimaneva imperfetta.
 
@@ -170,7 +170,7 @@ In questo modo, il denaro cessa di essere un'astrattezza. Non è più possibile 
 
 Questi tre cambiamenti—la lingua universale, il calendario razionale, il sistema monetario energetico—costituivano la struttura nervosa della nuova civiltà. Erano gli strumenti attraverso cui il Consiglio poteva coordinare l'attività dell'intera umanità. Non erano imposizioni tiraniche, ma le fondamenta razionali su cui costruire una società veramente universale.
 
-### Sezione 8
+## Sezione 8
 
 La Commissione per la Pianificazione Urbana divenne rapidamente uno dei comitati più importanti del Consiglio. Il suo compito era straordinario: ridistribuire la popolazione mondiale in modo razionale, secondo i nuovi insediamenti che la tecnologia rendeva possibili.
 
@@ -184,7 +184,7 @@ L'agricoltura, trasformata da questa dispersione, crebbe enormemente in efficien
 
 Ciò che fu liberato fu l'energia umana. Miliardi di persone, liberate dal compito di coltivare la terra o di vivere ammassate in città, potevano dedicarsi a ciò che veramente desideravano. La creazione, la ricerca, l'arte, l'apprendimento diventarono occupazioni comuni. Il mondo stesso si trasformò in un giardino vastissimo, in cui l'umanità poteva finalmente respirare.
 
-### Sezione 9
+## Sezione 9
 
 Negli anni iniziali della Repubblica Mondiale emerse una curiosa ricrudescenza di avventura politica. Singolarmente—e questo merita riflessione—non vi fu alcun ritorno del separatismo dopo che il volto del Re Ferdinando Carlo scomparve dalla vista degli uomini. Ma in numerosi paesi, man mano che i bisogni fisici immediati venivano soddisfatti, comparvero varie personalità che condividevano questo tratto in comune: cercavano di rivivere i conflitti politici e salire grazie ad essi a posizioni di importanza e potere.
 
@@ -204,7 +204,7 @@ Sotto queste condizioni, il Consiglio si sottomise molto serenamente ai suffragi
 
 Ma a questo punto il lavoro del Consiglio stava già volgendo al termine. Non era tanto preoccupato della continuazione della sua costruzione quanto della preservazione della sua opera compiuta dalla drammaticità dell'istinto politico.
 
-### Sezione 10
+## Sezione 10
 
 È dubbio se assisteremo mai più a una fase dell'esistenza umana in cui la "politica"—cioè l'interferenza fazionaria con i principi equilibrati del mondo—sarà l'interesse dominante tra gli uomini seri. Sembra che abbiamo varcato la soglia di una fase completamente nuova della storia, in cui il contenzioso, distinto dalla rivalità, ha quasi bruscamente cessato di essere l'occupazione ordinaria e è divenuto al più una cosa sotterranea e nascosta e discreditata.
 
@@ -224,7 +224,7 @@ Esiste ancora nella zona di morte attorno alle bombe di Londra una regione di pi
 
 Questi sforzi sono incredibilmente inetti, come i disegni di uomini bendati, sono solo leggermente meno strazianti per un osservatore simpatico dei graffi che si trovano sulle muri delle vecchie prigioni. Ma ci sono, testimoniando ai poveri istinti sepolti che lottavano verso la luce. Quel dio dell'espressione gioiosa che i nostri poveri padri ignorantemente cercavano, la nostra libertà ci ha dichiarato....
 
-### Sezione 11
+## Sezione 11
 
 Ora tutta questa fase di cambiamento gigantesco nei contorni e negli aspetti della vita umana che sta accadendo intorno a noi, un cambiamento veloce e meraviglioso quanto il rapido maturare dell'adolescenza verso l'età adulta dopo gli anni selvaggi dell'infanzia barbarica, è correlato con cambiamenti morali e mentali almeno altrettanto senza precedenti. Non è come se le vecchie cose stessero uscendo dalla vita e le cose nuove stessero entrando. È piuttosto che le circostanze alterate degli uomini stanno facendo appello a elementi della sua natura che finora erano repressi, e fermando tendenze che finora erano over-stimolate e over-sviluppate.
 
@@ -260,7 +260,7 @@ A lui, più che a qualsiasi suo contemporaneo, è dovuto che l'abnegazione di s�
 
 Questo è quello che siete. Sotto la vostra guida e i suggerimenti che porrete su di loro, devono spogliarsi del vecchio Adamo dei sospetti istintivi, delle ostilità e delle passioni, e trovare se stessi di nuovo nel grande essere dell'universo. I piccoli cerchi dei loro egoismi devono essere aperti fino a diventare archi nello spazzare dello scopo razziale. E questo che insegnate agli altri dovete imparare anche assiduamente voi stessi. Filosofia, scoperta, arte, ogni sorta di abilità, ogni sorta di servizio, amore: questi sono i mezzi della salvazione da quella stretta solitudine del desiderio, da quella preoccupazione remurante con se stesso e dalle relazioni egocentriche, che è inferno per l'individuo, tradimento per la razza, ed esilio da Dio...."
 
-### Sezione 12
+## Sezione 12
 
 Quando le cose si arrotondano e si compiono, si cominciano a vederle chiaramente per la prima volta. Dalle prospettive di una nuova era si può guardare indietro al grande e sempre più largo flusso della letteratura con una comprensione completa. Le cose si collegano che sembravano disconnesse, e le cose che un tempo erano condannate come dure e senza scopo sono viste come fattori nella dichiarazione di un problema gigantesco. Un'enorme mole della letteratura più sincera del diciottesimo, diciannovesimo e ventesimo secolo si unisce ora in un'unanimità inaspettata. Si vede come un vasto tessuto di variazioni su un tema: il conflitto dell'egoismo umano e della passione personale e delle immaginazioni ristrette da un lato, contro il crescente senso di necessità più ampie e una vita possibile, più spaziosa.
 

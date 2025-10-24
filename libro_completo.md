@@ -9,9 +9,10 @@ documentclass: book
 geometry: "top=2.5cm, bottom=2.5cm, left=3cm, right=3cm"
 fontsize: 11pt
 linestretch: 1.5
+toc: true
+toc-depth: 2
+numbersections: true
 ---
-
-\newpage
 
 # Nota del Traduttore
 
@@ -26,9 +27,9 @@ La traduzione mantiene lo stile letterario elevato dell'originale, preservando l
 
 \newpage
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione I
+# PRELUDIO. I CACCIATORI DEL SOLE
+
+## Sezione I
 
 La storia dell'umanità è la storia del conseguimento del potere esterno. L'uomo è l'animale che usa strumenti e fa il fuoco. Dall'inizio della sua carriera terrestre lo troviamo integrare la forza naturale e le armi corporee di una bestia con il calore della combustione e il grezzo arnese di pietra. Così egli superò la scimmia. Da lì si espande. Ben presto aggiunse a sé il potere del cavallo e del bue, prese in prestito la forza di trasporto dell'acqua e la spinta motrice del vento, ravvivò il suo fuoco soffiando, e i suoi semplici strumenti, appuntiti dapprima con il rame e poi con il ferro, aumentarono e si diversificarono e divennero più elaborati ed efficienti. Riparò il suo calore in case e rese più facile il suo cammino con sentieri e strade. Complicò le sue relazioni sociali e aumentò la sua efficienza con la divisione del lavoro. Cominciò ad accumulare conoscenza. Espediente seguì espediente, ciascuno rendendo possibile per un uomo fare di più. Sempre lungo il registro che si allunga, salvo per una battuta d'arresto ogni tanto, egli sta facendo di più... Un quarto di milione di anni fa l'uomo più evoluto era un selvaggio, un essere appena articolato, che si riparava in buchi nelle rocce, armato di una selce rozzamente tagliata o di un bastone appuntito col fuoco, nudo, vivendo in piccoli gruppi familiari, ucciso da qualche uomo più giovane non appena la sua prima attività virile declinava. Sulla maggior parte delle grandi distese selvagge della terra lo avresti cercato invano; solo in poche valli fluviali temperate e subtropicali avresti trovato i covi accovacciati dei suoi piccoli branchi, un maschio, poche femmine, un bambino o due.
 
@@ -44,9 +45,7 @@ L'uomo cominciò a pensare. C'erano momenti in cui era nutrito, quando le sue lu
 
 Per decine e centinaia di secoli, per miriadi di generazioni quella vita dei nostri padri andò avanti. Dall'inizio alla maturazione di quella fase della vita umana, dal primo goffo eolite di selce rozzamente scheggiata ai primi arnesi di pietra levigata, trascorsero due o tremila secoli, dieci o quindicimila generazioni. Così lentamente, per standard umani, l'umanità si raccolse dalle tenui intimazioni della bestia. E quel primo barlume di speculazione, quella prima storia di conquista, quel narratore dagli occhi brillanti e arrossato sotto i suoi capelli arruffati, gesticolante al suo ascoltatore a bocca aperta e incredulo, afferrandogli il polso per tenerlo attento, fu l'inizio più meraviglioso che questo mondo abbia mai visto. Condannò i mammut, e iniziò la preparazione di quella trappola che catturerà il sole.
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione 2
+## Sezione 2
 
 Quel sogno fu solo un momento nella vita di un uomo, il cui vero affare sembrava fosse procurarsi il cibo e uccidere i suoi simili e generare alla maniera di tutto ciò che appartiene alla fratellanza delle bestie. Attorno a lui, nascosti da lui dal più sottile dei veli, c'erano le fonti intatte del Potere, la cui grandezza appena sospettiamo anche oggi, Potere che potrebbe rendere reale ogni suo sogno concepibile. Ma i piedi della razza erano sulla sua via, benché egli morisse ciecamente ignaro.
 
@@ -58,9 +57,7 @@ Ora durante questo periodo di duecento secoli o più, questo periodo degli stati
 
 Eppure il sognatore, il narratore, era ancora lì, aspettando la sua opportunità in mezzo alle preoccupazioni impegnative, gli andirivieni, le guerre e le processioni, la costruzione di castelli e la costruzione di cattedrali, le arti e gli amori, le piccole diplomazie e le faide incurabili, le crociate e i viaggi commerciali del medioevo. Non speculava più con la libertà senza ostacoli del selvaggio dell'età della pietra; spiegazioni autorevoli di tutto sbarravano il suo cammino; ma speculava con un cervello migliore, sedeva ozioso e guardava le stelle circolanti nel cielo e meditava sulla moneta e sul cristallo nella sua mano. Ogni volta che c'era un certo ozio per il pensiero in questi tempi, allora si trovavano uomini insoddisfatti delle apparenze delle cose, insoddisfatti delle assicurazioni della credenza ortodossa, inquieti con un senso di simboli non letti nel mondo attorno a loro, mettendo in dubbio la definitività della saggezza scolastica. Attraverso tutte le età della storia ci furono uomini a cui questo sussurro era giunto di cose nascoste attorno a loro. Non potevano più condurre vite ordinarie né accontentarsi delle cose comuni di questo mondo una volta che avevano udito questa voce. E per lo più credevano non solo che tutto questo mondo fosse come una tenda dipinta davanti a cose non immaginate, ma che questi segreti fossero Potere. Fino ad allora il Potere era giunto agli uomini per caso, ma ora c'erano questi cercatori che cercavano, cercavano tra oggetti rari e curiosi e sconcertanti, talvolta trovando qualche strana cosa utilizzabile, talvolta ingannando se stessi con immaginaria scoperta, talvolta fingendo di trovare. Il mondo di ogni giorno rideva di questi esseri eccentrici, o li trovava fastidiosi e li maltrattava, o era preso dalla paura e faceva di loro santi e stregoni e maghi, o con cupidigia e li intratteneva speranzoso; ma per la maggior parte non badava affatto a loro. Eppure erano del sangue di colui che aveva per primo sognato di attaccare il mammut; ognuno di loro era del suo sangue e discendenza; e la cosa che cercavano, del tutto inconsapevolmente, era la trappola che un giorno catturerà il sole.
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione 3
+## Sezione 3
 
 Tale era quell'uomo Leonardo da Vinci, che andava in giro per la corte di Sforza a Milano in uno stato di astrazione dignitosa. I suoi taccuini comuni sono pieni di sottigliezza profetica e ingegnose anticipazioni dei metodi dei primi aviatori. Dürer era il suo parallelo e Roger Bacon—che i Francescani ridussero al silenzio—della sua stirpe. Tale uomo ancora in una città più antica fu Erone di Alessandria, che conosceva il potere del vapore millenovecento anni prima che fosse messo in uso per la prima volta. E ancora più antico Archimede di Siracusa, e ancora più antico il leggendario Dedalo di Cnosso. Su e giù per la registrazione della storia ogni volta che c'era un po' di tregua dalla guerra e dalla brutalità i cercatori apparivano. E metà degli alchimisti erano della loro tribù.
 
@@ -68,9 +65,7 @@ Quando Roger Bacon fece esplodere il suo primo lotto di polvere da sparo si sare
 
 Anche quando i cercatori trovavano, all'inizio era un lungo viaggio prima che il mondo potesse usare le loro scoperte per qualunque scopo tranne i più rozzi e ovvi. Se l'uomo in generale non era ancora assolutamente cieco alle energie non conquistate attorno a lui come il suo precursore paleolitico, era al massimo mezzo cieco.
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione 4
+## Sezione 4
 
 L'energia latente del carbone e il potere del vapore attesero a lungo sulla soglia della scoperta, prima che cominciassero a influenzare le vite umane.
 
@@ -82,17 +77,13 @@ Ma per lungo tempo gli uomini non realizzarono l'importanza di questa novità. N
 
 Il sobrio Inglese alla fine del diciannovesimo secolo poteva sedere al suo tavolo per la colazione, decidere tra tè di Ceylon o caffè del Brasile, divorare un uovo dalla Francia con del prosciutto danese, o mangiare una costoletta della Nuova Zelanda, concludere la sua colazione con una banana delle Indie Occidentali, dare un'occhiata agli ultimi telegrammi da tutto il mondo, scrutare i prezzi correnti dei suoi investimenti geograficamente distribuiti in Sud Africa, Giappone, ed Egitto, e dire ai due figli che aveva generato (al posto degli otto di suo padre) che pensava che il mondo cambiasse molto poco. Dovevano giocare a cricket, tenere i capelli tagliati, andare alla vecchia scuola a cui era andato lui, evitare le lezioni che aveva evitato lui, imparare qualche frammento di Orazio e Virgilio e Omero per la confusione dei rozzi, e tutto sarebbe andato bene per loro...
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione 5
+## Sezione 5
 
 L'elettricità, benché fosse forse la prima delle due ad essere studiata, invase la vita comune degli uomini pochi decenni dopo lo sfruttamento del vapore. Anche all'elettricità, nonostante la sua vicinanza provocatoria tutto attorno a lui, l'umanità era stata completamente cieca per ere incalcolabili. Poteva esserci qualcosa di più enfatico dell'appello dell'elettricità per l'attenzione? Tuonava alle orecchie dell'uomo, gli segnalava con lampi accecanti, occasionalmente lo uccideva, e lui non poteva vederla come una cosa che lo riguardasse abbastanza da meritare studio. Entrava in casa con il gatto in qualsiasi giorno secco e crepitava insinuante ogni volta che accarezzava il suo pelo. Corrodeva i suoi metalli quando li metteva insieme... Non c'è un solo registro che qualcuno si sia chiesto perché il pelo del gatto crepita o perché i capelli sono così riottosi alla spazzola in un giorno gelido, prima del sedicesimo secolo. Per anni infiniti l'uomo sembra aver fatto del suo meglio molto efficacemente per non pensarci affatto; finché questo nuovo spirito del Cercatore non si rivolse a queste cose.
 
 Quante volte le cose devono essere state viste e respinte come non importanti, prima che l'occhio speculativo e il momento della visione arrivassero! Fu Gilbert, il medico di corte della regina Elisabetta, che per primo si scervellò con ambra strofinata e pezzetti di vetro e seta e gommalacca, e così cominciò il risveglio della mente umana all'esistenza di questa presenza universale. E anche allora la scienza dell'elettricità rimase un mero piccolo gruppo di fatti curiosi per quasi duecento anni, collegati forse con il magnetismo—una mera supposizione quella—forse con il fulmine. Le zampe delle rane devono essere state appese con ganci di rame da ringhiere di ferro e aver sussultato in innumerevoli occasioni prima che Galvani le vedesse. Eccetto per il parafulmine, furono 250 anni dopo Gilbert prima che l'elettricità uscisse dal gabinetto delle curiosità scientifiche nella vita dell'uomo comune... Poi improvvisamente, nel mezzo secolo tra il 1880 e il 1930, soppiantò la macchina a vapore e prese il controllo della trazione, soppiantò ogni altra forma di riscaldamento domestico, abolì la distanza con il telefono senza fili perfezionato e il telefotografo...
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione 6
+## Sezione 6
 
 E ci fu una straordinaria resistenza mentale alla scoperta e all'invenzione per almeno cento anni dopo che la rivoluzione scientifica era cominciata. Ogni nuova cosa si faceva strada nella pratica contro uno scetticismo che ammontava a volte all'ostilità. Uno scrittore su questi argomenti riporta una piccola divertente conversazione domestica che accadde, dice, nell'anno 1898, entro dieci anni, cioè, dal tempo in cui i primi aviatori erano decisamente in volo. Ci racconta come sedeva alla sua scrivania nel suo studio e conversava con il suo figlioletto.
 
@@ -128,9 +119,7 @@ Il ragazzo sembrò diviso nella sua fedeltà. Poi decise per ciò che credeva fe
 
 Eppure quel ragazzo visse per volare attraverso l'Atlantico e curare le reminiscenze di suo padre.
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione 7
+## Sezione 7
 
 Alla fine del diciannovesimo secolo come testimonia una moltitudine di passaggi nella letteratura di quel tempo, si pensava che il fatto che l'uomo avesse finalmente avuto rapporti riusciti e proficui con il vapore che lo scottava e l'elettricità che lampeggiava e tuonava nel cielo verso di lui, fosse un esercizio sorprendente e forse culminante della sua intelligenza e del suo coraggio intellettuale. L'aria di "Nunc Dimittis" risuona in alcuni di questi scritti. "Le grandi cose sono scoperte," scrisse Gerald Brown nel suo sommario del diciannovesimo secolo. "Per noi rimane poco se non l'elaborazione dei dettagli." Lo spirito del cercatore era ancora raro nel mondo; l'educazione era poco qualificata, non stimolante, scolastica, e poco apprezzata, e poche persone anche allora avrebbero potuto realizzare che la Scienza era ancora solo il più tenue degli schizzi di prova e la scoperta appena cominciava. Nessuno sembra aver avuto paura della scienza e delle sue possibilità. Eppure ora dove c'erano stati solo una ventina di cercatori circa, ce n'erano molte migliaia, e per ogni ago di speculazione che aveva sondato la tenda delle apparenze nel 1800, ce n'erano ora centinaia. E già la Chimica, che si era accontentata dei suoi atomi e molecole per la maggior parte di un secolo, stava preparandosi per quell'enorme passo successivo che avrebbe rivoluzionato l'intera vita dell'uomo da cima a fondo.
 
@@ -142,9 +131,7 @@ Eppure lo spirito della ricerca si stava diffondendo costantemente attraverso il
 
 Fu nel 1910 che i genitori del giovane Holsten, che doveva essere chiamato da un'intera generazione di uomini di scienza, "il più grande dei chimici europei," stavano soggiornando in una villa vicino a Santo Domenico, tra Fiesole e Firenze. Aveva allora solo quindici anni, ma era già distinto come matematico e posseduto da un selvaggio appetito di comprendere. Era stato particolarmente attratto dal mistero della fosforescenza e dalla sua apparente non relazione con ogni altra fonte di luce. Doveva raccontare poi nelle sue reminiscenze come osservò le lucciole che vagavano e brillavano tra gli alberi scuri nel giardino della villa sotto il caldo cielo notturno blu dell'Italia; come le catturò e le tenne in gabbie, le dissezionò, studiando prima l'anatomia generale degli insetti molto elaboratamente, e come cominciò a sperimentare con l'effetto di vari gas e temperature variabili sulla loro luce. Poi il regalo casuale di un piccolo giocattolo scientifico inventato da Sir William Crookes, un giocattolo chiamato spintariscopio, sul quale particelle di radio impattano sul solfuro di zinco e lo rendono luminoso, lo indusse ad associare i due insiemi di fenomeni. Fu un'associazione felice per le sue indagini. Fu anche una cosa rara e fortunata che qualcuno con il dono matematico fosse stato preso da queste curiosità.
 
-PRELUDIO
-I CACCIATORI DEL SOLE
-### Sezione 8
+## Sezione 8
 
 E mentre il ragazzo Holsten sognava sulle sue lucciole a Fiesole, un certo professore di fisica di nome Rufus stava tenendo un corso di conferenze pomeridiane sul Radio e la Radio-Attività a Edimburgo. Erano conferenze che avevano attirato una quantità di attenzione molto considerevole. Le teneva in un piccolo teatro di conferenze che era diventato sempre più congestionato man mano che il suo corso procedeva. Alla sua discussione conclusiva era affollato fino al soffitto in fondo, e lì la gente stava in piedi, stando in piedi senza alcun senso di fatica, tanto affascinanti trovavano i suoi suggerimenti. Un giovanotto in particolare, un ragazzo dalla testa tondeggiante, con capelli ruvidi come stoppa dalle Highlands, sedeva abbracciando il suo ginocchio con grandi mani rosso-sabbia e bevendo ogni parola, occhi ardenti, guance arrossate, e orecchie brucianti.
 
@@ -193,9 +180,13 @@ Il sole stava tramontando sulle colline distanti. Già era privato dei suoi ragg
 Sembrò finalmente svegliarsi dal suo incantamento, e il sole rosso era lì davanti ai suoi occhi. Lo fissò, all'inizio senza intelligenza, e poi con un riconoscimento crescente. Nella sua mente venne uno strano eco di quella fantasia ancestrale, quella fantasia di un selvaggio dell'Età della Pietra, ossa morte e sparse nella deriva duecentomila anni fa.
 
 "Vecchia cosa," disse—e i suoi occhi brillavano, e fece una sorta di gesto di afferramento con la mano; "vecchia cosa rossa... Vi avremo ancora."
-## CAPITOLO PRIMO. LA NUOVA FONTE DI ENERGIA
 
-### Sezione I
+
+\newpage
+
+# CAPITOLO PRIMO. LA NUOVA FONTE DI ENERGIA
+
+## Sezione I
 
 Il problema che era già dibattuto da uomini di scienza come Ramsay, Rutherford e Soddy, proprio all'inizio del ventesimo secolo, il problema di indurre la radioattività negli elementi più pesanti e così attingere all'energia interna degli atomi, fu risolto da una meravigliosa combinazione di induzione, intuizione e fortuna da Holsten già nell'anno 1933. Dalla prima scoperta della radioattività alla sua prima sottomissione allo scopo umano trascorse poco più di un quarto di secolo. Per vent'anni dopo quello, invero, difficoltà minori impedirono qualsiasi applicazione pratica sorprendente del suo successo, ma la cosa essenziale fu fatta, questa nuova frontiera nella marcia del progresso umano fu attraversata, in quell'anno. Mise in atto la disintegrazione atomica in una minuscola particella di bismuto; essa esplose con grande violenza in un gas pesante di estrema radioattività, che si disintegrò a sua volta nel corso di sette giorni, e solo dopo un altro anno di lavoro fu in grado di mostrare praticamente che l'ultimo risultato di questo rapido rilascio di energia era oro. Ma la cosa era fatta—al costo di un petto ustionato e di un dito ferito, e dal momento in cui l'invisibile granello di bismuto balenò in energia lacerante e devastante, Holsten seppe che aveva aperto una via per l'umanità, per quanto stretta e oscura potesse ancora essere, verso mondi di potere illimitato. Lo registrò come tale nello strano diario biografico che lasciò al mondo, un diario che fino a quel particolare momento era stato una massa di speculazioni e calcoli, e che improvvisamente divenne per uno spazio una registrazione sorprendentemente minuziosa e umana di sensazioni ed emozioni che tutta l'umanità potrebbe comprendere.
 
@@ -217,7 +208,7 @@ Poi osservò, "BENE!" e sorrise debolmente, e—finì il boccale di birra davant
 
 Lawson si sedette di nuovo. "Bisogna prendersi cura del proprio cane," disse, con una nota di scusa. "Cos'era che mi stavi dicendo?"
 
-### Sezione 2
+## Sezione 2
 
 La sera Holsten uscì di nuovo. Camminò fino alla Cattedrale di San Paolo, e rimase per un tempo vicino alla porta ascoltando il servizio serale. Le candele sull'altare gli ricordarono in qualche modo strano le lucciole a Fiesole. Poi camminò indietro attraverso le luci serali fino a Westminster. Era oppresso, era infatti spaventato, dal suo senso delle immense conseguenze della sua scoperta. Aveva una vaga idea quella notte che non avrebbe dovuto pubblicare i suoi risultati, che erano prematuri, che qualche associazione segreta di uomini saggi avrebbe dovuto prendersi cura del suo lavoro e tramandarlo di generazione in generazione fino a quando il mondo fosse più maturo per la sua applicazione pratica. Sentiva che nessuno in tutte le migliaia di persone che incrociava si era realmente svegliato al fatto del cambiamento, si fidavano del mondo per quello che era, per non alterarsi troppo rapidamente, per rispettare le loro fiducie, le loro sicurezze, le loro abitudini, i loro piccoli traffici abituali e le posizioni faticosamente conquistate.
 
@@ -239,7 +230,7 @@ Si alzò e uscì dal giardino, esaminò un tram di passaggio, carico di luce cal
 
 "È cominciato," scrive nel diario in cui queste cose sono registrate. "Non sta a me raggiungere conseguenze che non posso prevedere. Sono una parte, non un tutto; sono un piccolo strumento nell'armeria del Cambiamento. Se dovessi bruciare tutti questi documenti, prima che fossero passati una ventina di anni, qualche altro uomo starebbe facendo questo...
 
-### Sezione 3
+## Sezione 3
 
 Holsten, prima di morire, era destinato a vedere l'energia atomica dominare ogni altra fonte di potere, ma per alcuni anni ancora una vasta rete di difficoltà nei dettagli e nell'applicazione mantenne la nuova scoperta da qualsiasi invasione effettiva della vita ordinaria. Il percorso dal laboratorio all'officina è talvolta tortuoso; le radiazioni elettromagnetiche furono conosciute e dimostrate per vent'anni prima che Marconi le rendesse praticamente disponibili, e allo stesso modo furono vent'anni prima che la radioattività indotta potesse essere portata all'utilizzazione pratica. La cosa, naturalmente, fu molto discussa, forse più al tempo della sua scoperta che durante l'intervallo di adattamento tecnico, ma con pochissima realizzazione dell'enorme rivoluzione economica che incombeva. Ciò che impressionò principalmente i giornalisti del 1933 fu la produzione di oro dal bismuto e la realizzazione sebbene su linee non profittevoli dei sogni dell'alchimista; ci fu una considerevole quantità di discussione e aspettativa in quella sezione più intelligente dei pubblici istruiti dei vari paesi civilizzati che seguiva lo sviluppo scientifico; ma per la maggior parte il mondo andava per i suoi affari—come gli abitanti di quei villaggi svizzeri che vivono sotto la minaccia perpetua di rocce e montagne sovrastanti vanno per i loro affari—proprio come se il possibile fosse impossibile, come se l'inevitabile fosse rimandato per sempre perché era ritardato.
 
@@ -279,7 +270,7 @@ Holsten era silenzioso.
 
 Una voce nel diario-autobiografia di Holsten, datata cinque giorni dopo, recita: "Ancora stupito. La legge è la cosa più pericolosa in questo paese. Ha centinaia di anni. Non ha un'idea. La più vecchia delle vecchie bottiglie e questo vino nuovo, il vino più esplosivo. Qualcosa li sorprenderà."
 
-### Sezione 4
+## Sezione 4
 
 C'era una certa verità nell'affermazione di Holsten che la legge era "vecchia di centinaia di anni." Era, in relazione al pensiero corrente e alle idee ampiamente accettate, una cosa arcaica. Mentre quasi tutto il materiale e i metodi della vita erano stati cambiando rapidamente e stavano ora cambiando ancora più rapidamente, i tribunali e le legislature del mondo stavano lottando disperatamente per soddisfare le esigenze moderne con dispositivi e procedure, concezioni di diritti e proprietà e autorità e obbligo che datavano dai rozzi compromessi di tempi relativamente barbarici. Le parrucche di crine di cavallo e i vestiti antichi dei giudici britannici, i loro tribunali ammuffiti e le maniere prepotenti, erano infatti solo le intimazioni esterne e visibili di anacronismi più profondi. L'organizzazione legale e politica della terra nel mezzo del ventesimo secolo era infatti ovunque come un indumento complicato, logoro ma forte, che ora legava il corpo governante che una volta aveva protetto.
 
@@ -287,7 +278,7 @@ Tuttavia quello stesso spirito di pensiero libero e pubblicazione schietta che n
 
 La parola "Sociologia" fu inventata da Herbert Spencer, uno scrittore popolare su argomenti filosofici, che fiorì circa la metà del diciannovesimo secolo, ma l'idea di uno stato, pianificato come un sistema di trazione elettrica è pianificato, senza riferimento ad apparati pre-esistenti, su linee scientifiche, non prese una presa molto forte sull'immaginazione popolare del mondo fino al ventesimo secolo. Allora, l'impazienza crescente del popolo americano con i mostruosi e socialmente paralizzanti sistemi di partito che erano scaturiti dalle loro assurde disposizioni elettorali, portò all'apparizione di ciò che venne ad essere chiamato il movimento dello "Stato Moderno", e una galassia di scrittori brillanti, in America, Europa e Oriente, agitò il mondo al pensiero di riarrangiamenti più audaci dell'interazione sociale, proprietà, impiego, educazione e governo, di quanto fosse mai stato contemplato prima. Senza dubbio queste idee di Stato Moderno erano molto largamente il riflesso sul pensiero sociale e politico della vasta rivoluzione nelle cose materiali che era stata in progresso per duecento anni, ma per lungo tempo sembrarono non avere più influenza sulle istituzioni esistenti di quanto gli scritti di Rousseau e Voltaire sembrassero aver avuto al tempo della morte di quest'ultimo. Stavano fermentando nelle menti degli uomini, e ci voleva solo proprio tali stress sociali e politici come l'avvento dei meccanismi atomici portò, per spingerli avanti bruscamente in rozza e sorprendente realizzazione.
 
-### Sezione 5
+## Sezione 5
 
 Il Wander Jahre di Frederick Barnet è uno di quei romanzi autobiografici che furono popolari durante il terzo e quarto decennio del ventesimo secolo. Fu pubblicato nel 1970, e bisogna intendere Wander Jahre piuttosto in senso spirituale e intellettuale che letterale. È infatti un titolo allusivo, che riporta il mondo al Wilhelm Meister di Goethe, un secolo e mezzo prima.
 
@@ -307,7 +298,7 @@ Nessuna intelligenza di prima classe era stata cercata per specializzarsi e riso
 
 Tutti i resoconti di Barnet del suo addestramento militare furono scritti nello stesso tono mezzo sprezzante, mezzo protestante. Era dell'opinione che le sue possibilità di partecipare in qualsiasi guerra reale fossero molto lievi, e che, se dopotutto avesse partecipato, sarebbe stato destinato ad essere così completamente diverso da queste manovre di pace che il suo unico corso come uomo razionale sarebbe stato mantenersi osservativamente fuori dal pericolo quanto avrebbe potuto fino a quando non avesse imparato i trucchi e le possibilità delle nuove condizioni. Afferma questo abbastanza francamente. Mai un uomo fu più libero da eroismo falso.
 
-### Sezione 6
+## Sezione 6
 
 Barnet accolse l'apparizione del motore atomico con l'entusiasmo della gioventù maschile per tutti i nuovi macchinari, ed è evidente che per qualche tempo non riuscì a collegare l'ondata di nuove meravigliose possibilità con i problemi finanziari della sua famiglia. "Sapevo che mio padre era preoccupato," ammette. Ciò gettò la più piccola delle ombre sulla sua deliziata partenza per Italia e Grecia ed Egitto con tre compagni congeniali in uno dei nuovi modelli atomici. Volarono sulle Isole del Canale e sulla Touraine, menziona, e girarono attorno al Mont Blanc—"Questi nuovi elicotteri, scoprimmo," annota, "avevano abolito tutto il pericolo e la tensione delle improvvise cadute a cui i vecchi aeroplani erano soggetti"—e poi proseguì per via di Pisa, Paestum, Ghirgenti e Atene, per visitare le piramidi al chiaro di luna, volandovi dal Cairo, e per seguire il Nilo fino a Khartum. Anche per gli standard successivi, deve essere stata una vacanza molto gioiosa per un giovane, e rese la tragedia delle sue esperienze successive ancora più oscura. Una settimana dopo il suo ritorno suo padre, che era vedovo, si annunciò rovinato e si suicidò per mezzo di un oppiaceo non programmato.
 
@@ -361,7 +352,7 @@ Ma su tutte le tensioni e i conflitti di quel tempo caotico stava già albeggian
 
 "Vidi la vita chiara," scrisse. "Vidi il compito gigantesco davanti a noi, e lo splendore stesso della sua difficoltà intricata e incommensurabile mi riempì di esaltazione. Vidi che dobbiamo ancora scoprire il governo, che dobbiamo ancora scoprire l'educazione, che è il reciproco necessario del governo, e che tutto questo—in cui la mia propria piccola macchia di una vita era così manifestamente sommersa—questo e il suo ieri in Grecia e Roma ed Egitto erano nulla, i primi meri mulinelli di polvere dell'inizio, i movimenti e i mormorii confusi di un dormiente che presentemente sarà sveglio..."
 
-### Sezione 7
+## Sezione 7
 
 E poi la storia racconta, con accattivante semplicità, della sua discesa da questa estatica visione della realtà.
 
@@ -381,7 +372,7 @@ Barnet camminò attraverso la folla, incapace di indursi a chiedere l'elemosina;
 
 Era un dono che, nonostante il precedente di De Quincey, avrebbe potuto, secondo la repressiva legislazione sociale di quei tempi, portare Barnet a portata della frusta carceraria. Ma lui la prese, confessa, e la ringraziò come meglio poteva, e se ne andò molto volentieri a procurarsi del cibo.
 
-### Sezione 8
+## Sezione 8
 
 Un giorno o due dopo — e ancora una volta la sua libertà di andare a suo piacimento sulle strade può essere presa come segno di una crescente disorganizzazione sociale e difficoltà della polizia — vagò in aperta campagna. Parla delle strade di quell'epoca plutocratica come "recintate con filo spinato contro le persone senza proprietà", degli alti giardini murati e degli avvisi di violazione di proprietà che lo tenevano confinato alla polverosità angusta delle vie pubbliche. Nell'aria, ricchi felici volavano, incuranti delle sventure intorno a loro, come lui stesso aveva volato due anni prima, e lungo le strade scorreva il nuovo traffico, leggero e veloce e meraviglioso. Si era raramente fuori dalla portata dei suoi fischi e gong e sirene anche nei sentieri dei campi o sulle colline aperte. I funzionari degli uffici di collocamento erano ovunque sovraccarichi di lavoro e infuriati, i dormitori occasionali erano così affollati che i vagabondi in eccesso dormivano in file sotto tettoie o all'aria aperta, e poiché dare l'elemosina ai viandanti era stato reso un reato punibile non c'era più amicizia o aiuto per un uomo dal raro pedone o dal cottage lungo la strada...
 
@@ -394,9 +385,13 @@ Non sembra che abbia visto un giornale durante quei vagabondaggi, e una vista ca
 Questa volta si parlava delle potenze dell'Europa centrale che improvvisamente attaccavano la Confederazione Slava, con Francia e Inghilterra che andavano in aiuto degli Slavi.
 
 Ma la notte successiva trovò un pasto tollerabile in attesa dei vagabondi nel dormitorio occasionale, e apprese dal direttore dell'ospizio che tutti gli uomini addestrati e abili sarebbero stati rimandati l'indomani ai loro centri di mobilitazione. Il paese era alla vigilia della guerra. Il suo primo sentimento, registra, fu di estremo sollievo che i suoi giorni di "martellamento senza speranza al lato inferiore della civiltà" fossero finiti. Ecco qualcosa di definito da fare, qualcosa di definitivamente previsto. Ma il suo sollievo fu notevolmente modificato quando scoprì che gli accordi di mobilitazione erano stati fatti così frettolosamente e con così poca cura che per quasi trentasei ore al deposito improvvisato a Epsom non ottenne nulla né da mangiare né da bere se non una tazza d'acqua fredda. Il deposito era assolutamente sprovvisto di provviste, e nessuno era libero di lasciarlo.
-## CAPITOLO SECONDO. L'ULTIMA GUERRA
 
-### Sezione I
+
+\newpage
+
+# CAPITOLO SECONDO. L'ULTIMA GUERRA
+
+## Sezione I
 
 Vista dalla prospettiva di un ordine sociale sano e ambizioso, è difficile comprendere, e sarebbe tedioso seguire, i motivi che precipitarono l'umanità nella guerra che riempie le cronache dei decenni centrali del ventesimo secolo.
 
@@ -410,7 +405,7 @@ Per esempio, Barnet descrive la folla londinese come rumorosamente patriottica q
 
 Ma tutta questa emozione era l'emozione volubile di menti senza idee stabilite; era con la maggior parte di loro, dice Barnet, come era con lui stesso, una risposta naturale al movimento collettivo, e ai suoni e colori marziali, e alla sfida esaltante di vaghi pericoli. E la gente era stata così a lungo oppressa dalla minaccia e dalla preparazione per la guerra che il suo arrivo venne con un effetto di positivo sollievo.
 
-### Sezione 2
+## Sezione 2
 
 Il piano di campagna degli Alleati assegnava la difesa della bassa Mosa agli Inglesi, e i treni militari furono diretti direttamente dai vari depositi britannici ai punti nelle Ardenne dove si intendeva che si trincerassero.
 
@@ -510,7 +505,7 @@ Non c'era un uomo intero là; c'era un pezzo di uomo, la testa e le spalle di un
 
 E anche mentre fissava il tumulo sopra di lei oscillò e si sbriciolò, e una corsa di acqua calda venne versandosi su di lei. Poi le sembrò di essere trascinata giù...
 
-### Sezione 3
+## Sezione 3
 
 Quando il giovane aviatore piuttosto brutale con la testa a proiettile e i capelli neri tagliati corti en brosse, che era al comando del corpo scientifico speciale francese, sentì presentemente di questo disastro al Controllo di Guerra, era così privo di immaginazione in ogni sfera tranne la propria, che rise. Piccola importanza per lui che Parigi stesse bruciando. Sua madre e suo padre e sua sorella vivevano a Caudebec; e l'unica innamorata che avesse mai avuto, ed era stato povero corteggiamento allora, era una ragazza a Rouen. Diede una pacca sulla spalla del suo secondo in comando. 'Ora,' disse, 'non c'è nulla sulla terra che ci impedisca di andare a Berlino e di rendergli pan per focaccia... Strategia e ragioni di stato — sono finite... Vieni, ragazzo mio, e mostreremo a queste vecchie donne cosa possiamo fare quando ci lasciano avere le nostre teste.'
 
@@ -556,7 +551,7 @@ L'esplosione venne questa volta più direttamente sotto l'aeroplano e lo lanciò
 
 Poi anche quella bomba era esplosa, e timoniere, lanciatore, e aeroplano erano solo stracci volanti e schegge di metallo e gocce di umidità nell'aria, e una terza colonna di fuoco si precipitò turbinando giù sugli edifici condannati sotto...
 
-### Sezione 4
+## Sezione 4
 
 Mai prima nella storia della guerra c'era stato un esplosivo continuo; invero, fino alla metà del ventesimo secolo gli unici esplosivi conosciuti erano combustibili la cui esplosività era dovuta interamente alla loro istantaneità; e queste bombe atomiche che la scienza fece scoppiare sul mondo quella notte erano strane persino agli uomini che le usavano. Quelle usate dagli Alleati erano grumi di Carolinio puro, dipinti all'esterno con induttivo cidonatore non ossidato racchiuso ermeticamente in un involucro di membranio. Un piccolo bottone di celluloide tra le maniglie con cui la bomba veniva sollevata era disposto in modo da essere facilmente strappato via e ammettere aria all'induttivo, che subito diventava attivo e stabiliva radioattività nello strato esterno della sfera di Carolinio. Questo liberava induttivo fresco, e così in pochi minuti l'intera bomba era un'esplosione continua fiammeggiante. Le bombe dell'Europa Centrale erano le stesse, eccetto che erano più grandi e avevano un arrangiamento più complicato per animare l'induttivo.
 
@@ -566,13 +561,13 @@ Quello che accadeva quando il bottone di celluloide veniva aperto era che l'indu
 
 Tale era il trionfo coronante della scienza militare, l'esplosivo ultimo che doveva dare il 'tocco decisivo' alla guerra...
 
-### Sezione 5
+## Sezione 5
 
 Uno scrittore storico recente ha descritto il mondo di quel tempo come uno che "credeva nelle parole stabilite ed era invincibilmente cieco all'ovvio nelle cose". Certamente sembra ora che nulla avrebbe potuto essere più ovvio per la gente del primo ventesimo secolo della rapidità con cui la guerra stava diventando impossibile. E altrettanto certamente non lo videro. Non lo videro fino a quando le bombe atomiche non esplosero nelle loro mani maldestre. Tuttavia i fatti generali avrebbero dovuto risaltare a qualsiasi mente intelligente. Per tutto il diciannovesimo e ventesimo secolo la quantità di energia che gli uomini erano in grado di comandare aumentava continuamente. Applicata alla guerra ciò significava che il potere di infliggere un colpo, il potere di distruggere, aumentava continuamente. Non c'era alcun aumento nella capacità di sfuggire. Ogni tipo di difesa passiva, armatura, fortificazioni, e così via, era superata da questo tremendo aumento sul lato distruttivo. La distruzione stava diventando così facile che qualsiasi piccolo corpo di malcontenti poteva usarla; stava rivoluzionando i problemi di polizia e governo interno. Prima che l'ultima guerra cominciasse era questione di conoscenza comune che un uomo potesse portare in giro in una borsa una quantità di energia latente sufficiente a devastare mezza città. Questi fatti erano davanti alle menti di tutti; i bambini nelle strade li conoscevano. E tuttavia il mondo ancora, come gli Americani erano soliti dire, "giocherellava" con la parafernalia e le pretese della guerra.
 
 È solo realizzando questo profondo, questo fantastico divorzio tra il movimento scientifico e intellettuale da un lato, e il mondo dell'avvocato-politico dall'altro, che gli uomini di un tempo posteriore possono sperare di comprendere questo stato di cose assurdo. L'organizzazione sociale era ancora nella fase barbarica. C'erano già gran numeri di uomini attivamente intelligenti e molta civiltà privata e commerciale, ma la comunità, nel suo insieme, era senza scopo, non addestrata e disorganizzata al punto dell'imbecillità. La civiltà collettiva, lo "Stato Moderno", era ancora nel grembo del futuro...
 
-### Sezione 6
+## Sezione 6
 
 Ma torniamo al Wander Jahre di Frederick Barnet e al suo resoconto delle esperienze di un uomo comune durante il tempo di guerra. Mentre queste terribili rivelazioni di possibilità scientifiche stavano accadendo a Parigi e Berlino, Barnet e la sua compagnia si stavano industriosamente trincerandosi nel Lussemburgo belga.
 
@@ -626,7 +621,7 @@ Quando Barnet tornò i suoi uomini stavano già chiamando per acqua, e per tutto
 
 'Non so come finirono le mie speculazioni. Penso che non furono tanto finite quanto distratte dal tonfo distante dei cannoni che stavano aprendo il fuoco a lungo raggio su Namur.'
 
-### Sezione 7
+## Sezione 7
 
 Ma fino ad allora Barnet non aveva visto che i più miti inizi della guerra moderna. Finora aveva preso parte solo a una piccola sparatoria. L'attacco alla baionetta con cui la linea avanzata fu spezzata fu fatto in un luogo chiamato Croix Rouge, a più di venti miglia di distanza, e quella notte sotto la copertura dell'oscurità le postazioni di fucileria furono abbandonate ed egli portò via la sua compagnia senza ulteriori perdite.
 
@@ -658,7 +653,7 @@ Gli aeroplani sopravvissuti si voltarono e fuggirono dal cielo, come cose che im
 
 Attraverso una dozzina di brecce tuonanti e fiammeggianti che nessuna acqua poteva spegnere, le onde vennero ruggendo sulla terra...
 
-### Sezione 8
+## Sezione 8
 
 'Avevamo maledetto la nostra fortuna,' dice Barnet, 'che non potessimo arrivare ai nostri alloggi ad Alkmaar quella notte. Là, ci fu detto, c'erano provviste, tabacco, e tutto ciò per cui bramavamo. Ma il canale principale da Zaandam e Amsterdam era senza speranza ingombrato di imbarcazioni, e fummo contenti di un'apertura casuale che ci permise di uscire dalla colonna principale e sostare in una specie di piccolo porto molto trascurato e invaso dalle erbacce davanti a una casa abbandonata. Vi facemmo irruzione e trovammo alcune aringhe in un barile, un mucchio di formaggi, e bottiglie di pietra di gin nella cantina; e con questo rallegrai i miei uomini affamati. Facemmo fuochi e tostammo il formaggio e grigliammo le nostre aringhe. Nessuno di noi aveva dormito per quasi quaranta ore, e decisi di restare in questo rifugio fino all'alba e poi se il traffico fosse ancora bloccato lasciare la chiatta e marciare il resto della strada fino ad Alkmaar.
 
@@ -716,7 +711,7 @@ diventò impenetrabile a una ventina di iarde dalla barca, e il ruggito del vent
 
 'Per tutto il tempo un gruppo di alberi faticosi, semi-sommersi rimaneva davanti a noi, avvicinandosi molto lentamente. Sterzai una rotta per evitarli. Sembravano gesticolare una disperazione frenetica contro le nuvole di vapore nero dietro. Una volta un grande ramo si staccò e passò stracciandosi tremando accanto a me. Facemmo, nel complesso, progresso. L'ultima cosa che vidi di Vreugde bij Vrede prima che la notte l'ingoiasse, era quasi completamente dietro di noi...'
 
-### Sezione 9
+## Sezione 9
 
 Il mattino trovò Barnet ancora a galla. La prua della sua chiatta era stata gravemente danneggiata, e i suoi uomini stavano pompando o svuotando a turno. Aveva fatto salire a bordo circa una dozzina di persone semi-annegate la cui barca era capovolta vicino a lui, e aveva tre altre barche a rimorchio. Era a galla, e da qualche parte tra Amsterdam e Alkmaar, ma non poteva dire dove. Era un giorno che era ancora metà notte. Acque grigie si stendevano in ogni direzione sotto un cielo grigio scuro, e dalle onde sorgevano le parti superiori delle case, in molti casi rovinate, le cime degli alberi, mulini a vento, in effetti il terzo superiore di tutta la familiare scenografia olandese; e su di essa derivava una flottiglia debolmente vista di chiatte, piccole barche, molte capovolte, mobili, zattere, legname, e oggetti vari.
 
@@ -744,7 +739,7 @@ Non seguiremo Barnet, tuttavia, nella descrizione del suo strano viaggio via ter
 
 'La mia fede era per un tempo completamente uscita da me. "Penso che siamo troppo — troppo sciocchi," dissi a Mylius, "per mai fermare la guerra. Se avessimo avuto il senno di farlo, avremmo dovuto farlo prima di questo. Penso che questo—" Indicai il contorno nero scarno di un mulino a vento distrutto che sporgeva su, ridicolo e brutto, sopra le acque illuminate di sangue — "questo è la fine."'
 
-### Sezione 10
+## Sezione 10
 
 Ma ora la nostra storia deve separarsi da Frederick Barnet e dal suo carico di chiatta di uomini affamati e affamati.
 
@@ -757,9 +752,13 @@ della razza.
 I capitoli successivi della narrativa di Barnet non fanno che dare corpo a questa tragica possibilità. Egli dà una serie di vignette della civiltà, frantumata, sembrava, quasi irreparabilmente. Trovò le colline belghe brulicanti di rifugiati e desolate dal colera; i vestigi degli eserciti contendenti che mantenevano l'ordine sotto una tregua, senza battaglie effettive, ma con la cauta ostilità dell'abitudine, e una grande assenza di piano ovunque.
 
 Sopra la testa gli aeroplani andavano per incarichi misteriosi, e c'erano voci di cannibalismo e fanatismi isterici nelle valli del Semoy e nella regione forestale delle Ardenne orientali. C'era il rapporto di un attacco alla Russia da parte dei Cinesi e dei Giapponesi, e di qualche enorme scoppio rivoluzionario in America. Il tempo era più tempestoso di quanto gli uomini l'avessero mai conosciuto in quelle regioni, con molto tuono e fulmini e selvaggi scrosci-nubi di pioggia...
-## CAPITOLO TERZO. LA FINE DELLA GUERRA
 
-### Sezione 1
+
+\newpage
+
+# CAPITOLO TERZO. LA FINE DELLA GUERRA
+
+## Sezione 1
 
 Sul fianco della montagna sopra la città di Brissago e con vista su due lunghi tratti del Lago Maggiore, guardando a est verso Bellinzona, e a sud verso Luino, c'è un ripiano di prati erbosi che è molto bello in primavera con una grande moltitudine di fiori selvatici. Più particolarmente è così all'inizio di giugno, quando lo snello asfodelo, il giglio di San Bruno, con il suo spigo di fiori bianchi, è in fiore. A ovest di questo delizioso ripiano c'è una fossa profonda e densamente boscosa, un grande golfo azzurro largo circa un miglio da cui sorgono grandi precipizi molto alti e selvaggi. Sopra i campi di asfodeli le montagne si arrampicano in pendii rocciosi verso solitudini di pietra e luce solare che si curvano e si uniscono a quel muro di scogliere in un unico orizzonte comune. Questo sfondo desolato e austero contrasta in modo molto vivido con la serena luminosità del grande lago sottostante, con l'ampia vista di colline fertili e strade e villaggi e isole a sud e a est, e con le pianure risaie caldamente dorate della Val Maggia a nord. E poiché era un luogo remoto e insignificante, lontano dalle tragedie affollate di quell'anno di disastro, lontano dalle città in fiamme e dalle moltitudini affamate, tonificante e tranquillizzante e nascosto, fu qui che si riunì la conferenza dei governanti che doveva arrestare, se possibile, prima che fosse troppo tardi, il crollo della civiltà. Qui, riuniti dall'energia infaticabile di quell'appassionato umanitario, Leblanc, l'ambasciatore francese a Washington, i principali Potenze del mondo dovevano incontrarsi in un'ultima disperata conferenza per "salvare l'umanità".
 
@@ -771,7 +770,7 @@ Per molti mesi fu una questione aperta se si dovesse trovare in tutta la razza l
 
 E per tutto il tempo Leblanc andava avanti e indietro con gli occhiali luccicanti e una persuasività inesauribile, sollecitando la manifesta ragionevolezza del suo punto di vista su orecchie che presto cessarono di essere disattente. Mai in nessun momento tradì un dubbio che tutto questo conflitto caotico sarebbe finito. Nessuna infermiera durante un trambusto in vivaio fu mai così certa dell'inevitabile pace finale. Dall'essere trattato come un sognatore amabile giunse per gradi insensibili ad essere considerato una possibilità stravagante. Poi cominciò a sembrare persino praticabile. Le persone che lo ascoltavano nel 1958 con un'impazienza sorridente, erano ansiose prima che il 1959 avesse quattro mesi di sapere esattamente cosa pensava potesse essere fatto. Lui rispose con la pazienza di un filosofo e la lucidità di un francese. Cominciò a ricevere risposte di un tipo sempre più speranzoso. Attraversò l'Atlantico fino in Italia, e lì raccolse le promesse per questo congresso. Scelse quei prati alti sopra Brissago per le ragioni che abbiamo dichiarato. "Dobbiamo allontanarci," disse, "dalle vecchie associazioni." Si mise al lavoro requisendo materiale per la sua conferenza con una sicurezza che era giustificata dalle risposte. Con una leggera incredulità la conferenza che doveva iniziare un nuovo ordine nel mondo, si riunì. Leblanc la convocò senza arroganza, la controllò in virtù di un'infinita umiltà. Gli uomini apparvero su quei pendii di montagna con l'apparato per la telegrafia senza fili; altri seguirono con tende e provviste; un piccolo cavo fu gettato giù fino a un punto conveniente sulla strada di Locarno sottostante. Leblanc arrivò, dirigendo scrupolosamente ogni dettaglio che avrebbe influenzato il tono dell'assemblea. Avrebbe potuto essere un corriere in anticipo piuttosto che l'iniziatore della riunione. E poi arrivarono, alcuni per mezzo del cavo, la maggior parte in aeroplano, alcuni in altri modi, gli uomini che erano stati chiamati insieme per conferire sullo stato del mondo. Doveva essere una conferenza senza nome. Nove monarchi, i presidenti di quattro repubbliche, un numero di ministri e ambasciatori, giornalisti potenti, e uomini così prominenti e influenti, vi presero parte. C'erano anche uomini di scienza; e quel famoso vecchio, Holsten, venne con gli altri a contribuire con la sua arte di governo amatoriale al problema disperato dell'epoca. Solo Leblanc avrebbe osato convocare così figure di spicco e poteri e intelligenza, o avrebbe avuto il coraggio di sperare nel loro accordo...
 
-### Sezione 2
+## Sezione 2
 
 E almeno uno di coloro che furono chiamati a questa conferenza dei governi vi giunse a piedi. Questo era Re Egberto, il giovane re del più venerabile regno d'Europa. Era un ribelle, e lo era sempre stato per scelta deliberata, un ribelle contro la magnificenza della sua posizione. Affettava lunghe escursioni pedestri e una disposizione a dormire all'aperto. Venne ora attraverso il Passo di Santa Maria Maggiore e in barca lungo il lago fino a Brissago; di lì salì la montagna a piedi, un piacevole sentiero contornato di querce e castagni dolci. Per provviste durante la camminata, perché non voleva affrettarsi, portò con sé una tasca piena di pane e formaggio. Un certo piccolo seguito che era necessario al suo comfort e dignità nelle occasioni di stato lo mandò avanti con la funicolare, e con lui camminò il suo segretario privato, Firmin, un uomo che aveva abbandonato la cattedra di Politica Mondiale nella Scuola di Sociologia, Economia e Scienze Politiche di Londra, per assumere questi doveri. Firmin era un uomo di pensiero forte piuttosto che rapido, aveva anticipato una grande influenza in questa nuova posizione, e dopo alcuni anni stava ancora solo cominciando a comprendere quanto largamente la sua funzione fosse quella di ascoltare. In origine era stato una sorta di pensatore sulla politica internazionale, un'autorità sulle tariffe e la strategia, e un stimato collaboratore di vari organi superiori dell'opinione pubblica, ma le bombe atomiche lo avevano colto di sorpresa, e doveva ancora riprendersi completamente dalle sue opinioni pre-atomiche e dall'effetto silenzioso di quegli esplosivi prolungati.
 
@@ -939,7 +938,7 @@ Firmin, dimenticando le abitudini di una ventina d'anni, rimase seduto.
 
 Il re sorrise molto allegramente. Gli piacevano queste conversazioni con Firmin.
 
-### Sezione 3
+## Sezione 3
 
 Quella conferenza sui prati di Brissago fu una delle più eterogenee collezioni di persone prominenti che si siano mai riunite insieme. Principati e potenze, spogliati e frantumati fino a quando tutto il loro orgoglio e mistero se ne furono andati, si incontrarono in una meravigliosa nuova umiltà. Qui c'erano re e imperatori le cui capitali erano laghi di distruzione fiammeggiante, statisti i cui paesi erano diventati caos, politici spaventati e potentati finanziari. Qui c'erano leader del pensiero e investigatori eruditi trascinati con riluttanza al controllo degli affari. In tutto erano novantatré, la concezione di Leblanc degli uomini di punta del mondo. Erano tutti giunti alla realizzazione delle semplici verità che l'infaticabile Leblanc aveva martellato in loro; e, attingendo le sue risorse dal Re d'Italia, aveva approvvigionato la sua conferenza con una generosa semplicità del tutto conforme al resto del suo carattere, e così alla fine fu in grado di fare il suo stupefacente e del tutto razionale appello. Aveva nominato Re Egberto il presidente, credeva in questo giovane così fermamente che lo dominava completamente, e parlò lui stesso come un segretario potrebbe parlare dalla sinistra del presidente, ed evidentemente non si rendeva conto che stava dicendo a tutti loro esattamente cosa dovevano fare. Immaginava di star semplicemente ricapitolando le caratteristiche ovvie della situazione per loro comodità. Era vestito con abiti di seta bianca mal tagliati, e consultava un pacchetto di appunti sporco mentre parlava. Lo misero fuori. Spiegò che non aveva mai parlato da appunti prima, ma che questa occasione era eccezionale.
 
@@ -1005,7 +1004,7 @@ Il presidente e il principe giapponese con gli occhiali protestarono insieme.
 
 "Se gli faccio un'ingiustizia," disse il re, "è solo perché voglio chiarire il mio argomento. Voglio rendere chiaro quanto piccoli siano gli uomini e i giorni, e quanto grande sia l'uomo in confronto...."
 
-### Sezione 4
+## Sezione 4
 
 Così parlò Re Egberto a Brissago dopo che avevano proclamato l'unità del mondo. Ogni sera dopo quella l'assemblea cenò insieme e parlò con agio e si abituò l'uno all'altro e affilò le idee reciproche, e ogni giorno lavorarono insieme, e davvero per un tempo credettero di star inventando un nuovo governo per il mondo. Discussero una costituzione. Ma c'erano questioni che necessitavano di attenzione troppo urgentemente per aspettare qualsiasi costituzione. Se ne occuparono incidentalmente. Fu la costituzione ad aspettare. Fu presto trovato conveniente mantenere la costituzione in attesa indefinitamente come Re Egberto aveva previsto, e nel frattempo, con una crescente auto-fiducia, quel consiglio continuò a governare....
 
@@ -1015,13 +1014,13 @@ Quando finalmente la compagnia intorno ai tavoli si disperse, il re si trovò tr
 
 Il re quindi convocò Firmin per fare una breve nota di un certo numero di cose che aveva detto durante il giorno. Ma dopo circa venti minuti di lavoro la dolce sonnolenza dell'aria di montagna lo sopraffece, e congedò Firmin e andò a letto e si addormentò subito, e dormì con estrema soddisfazione. Aveva avuto una giornata attiva e piacevole.
 
-### Sezione 5
+## Sezione 5
 
 L'instaurazione del nuovo ordine che era così umanamente iniziato, fu, se si misura secondo lo standard di qualsiasi epoca precedente, un progresso rapido. Lo spirito combattivo del mondo era esausto. Solo qui o là indugiava la ferocia. Per lunghi decenni il lato combattivo negli affari umani era stato mostruosamente esagerato dagli accidenti della separazione politica. Questo ora divenne luminosamente chiaro. Un'enorme proporzione della forza che sosteneva gli armamenti non era stata nient'altro di più aggressivo della paura della guerra e dei vicini bellicosi. È dubbio se qualche grande sezione degli uomini effettivamente arruolati per combattere abbia mai in qualsiasi momento realmente bramato e avuto sete di spargimento di sangue e pericolo. Quel tipo di appetito probabilmente non fu mai molto forte nella specie dopo che lo stadio selvaggio fu passato. L'esercito era una professione, in cui l'uccidere era diventato una possibilità spiacevole piuttosto che una certezza ricca di eventi. Se si leggono i vecchi giornali e periodici di quel tempo, che facevano tanto per mantenere vivo il militarismo, si trova molto poco sulla gloria e l'avventura e un costante insistere sulla spiacevolezza dell'invasione e della soggiogazione. In una parola, il militarismo era paura. La risoluzione bellicosa dell'Europa armata del ventesimo secolo era la risoluzione di una pecora ferocemente spaventata di tuffarsi. E ora che le sue armi stavano esplodendo nelle sue mani, l'Europa era fin troppo ansiosa di lasciarle cadere, e abbandonare questo immaginario rifugio di violenza.
 
 Per un tempo il mondo intero era stato scioccato verso la franchezza; quasi tutte le persone intelligenti che fino ad allora avevano sostenuto le antiche separazioni belligeranti erano ora state portate a realizzare la necessità di semplicità di attitudine e apertura di mente; e in questa atmosfera di rinascita morale, c'era poco tentativo di ottenere vantaggi negoziabili dalla resistenza al nuovo ordine. Gli esseri umani sono abbastanza sciocchi senza dubbio, ma pochi si sono fermati a mercanteggiare su una scala di sicurezza. Il consiglio ebbe la sua strada con loro. La banda di "patrioti" che si impadronì dei laboratori e dell'arsenale appena fuori Osaka e cercò di sollevare il Giappone in rivolta contro l'inclusione nella Repubblica dell'Umanità, scoprì di aver calcolato male l'orgoglio nazionale e incontrò la rapida vendetta dei loro stessi connazionali. Quella lotta nell'arsenale fu un episodio vivido in questo capitolo conclusivo della storia della guerra. Fino all'ultimo i "patrioti" furono indecisi se, nell'eventualità di una sconfitta, avrebbero fatto esplodere la loro scorta di bombe atomiche o no. Stavano combattendo con spade fuori delle porte d'iridio, e i moderati del loro numero erano alle strette e sull'orlo della distruzione, solo dieci, infatti, rimanevano illesi, quando i repubblicani irruppero in soccorso....
 
-### Sezione 6
+## Sezione 6
 
 Un solo monarca resistette all'acquiescenza generale nel nuovo governo, e quello fu quello strano residuo di medioevo, la "Volpe Slava", il Re dei Balcani. Dibatté e ritardò le sue sottomissioni. Mostrò una straordinaria combinazione di astuzia e temerarietà nella sua evasione delle ripetute convocazioni da Brissago. Simulò cattiva salute e una grande preoccupazione con la sua nuova amante ufficiale, perché la sua corte semi-barbarica era organizzata sui migliori modelli romantici. Le sue tattiche furono abilmente secondate dal Dottor Pestovitch, il suo primo ministro. Non riuscendo a stabilire le sue pretese a completa indipendenza, Re Ferdinando Carlo infastidì la conferenza con una proposta di essere trattato come uno stato protetto. Finalmente professò una sottomissione non convincente, e mise una massa di ostacoli sulla via del trasferimento dei suoi funzionari nazionali al nuovo governo. In queste cose fu entusiasticamente sostenuto dai suoi sudditi, ancora per la maggior parte un contadiname analfabeta, appassionatamente se confusamente patriottico, e finora senza conoscenza pratica dell'effetto delle bombe atomiche. Più particolarmente mantenne il controllo di tutti gli aeroplani balcanici.
 
@@ -1063,7 +1062,7 @@ I tre tiratori scelti si guardarono l'un l'altro e poi si mossero verso gli uomi
 
 "Sto scendendo," disse l'uomo sopra....
 
-### Sezione 7
+## Sezione 7
 
 La Volpe Slava stava su un balcone metallico nel suo pittoresco palazzo Art Nouveau che dava sul precipizio che sovrastava la sua brillante piccola capitale, e accanto a lui stava Pestovitch, ingrigito e astuto, e ora pieno di un'eccitazione mal repressa. Dietro di loro la finestra si apriva in una grande stanza, riccamente decorata in alluminio e smalto cremisi, attraverso la quale il re, mentre lanciava ogni tanto uno sguardo sopra la spalla con un gesto di domanda, poteva vedere attraverso le due porte aperte di una piccola anticamera azzurra l'operatore wireless nella torretta che lavorava alla sua incessante trascrizione. Due messaggeri pomposamente uniformati aspettavano svogliatamente in questo appartamento. La stanza era arredata con una dignità maestosa, e aveva nel mezzo un grande tavolo coperto di tela verde con i massicci calamai di metallo bianco e le anticquate sabbiere naturali a una monarchia nuova ma romantica. Era la camera del consiglio del re e intorno ad essa ora, in atteggiamenti di intrigo sospeso, stavano i sei ministri che costituivano il suo gabinetto. Erano stati convocati per mezzogiorno, ma ancora a mezzogiorno e mezzo il re indugiava nel balcone e sembrava stare aspettando qualche notizia che non veniva.
 
@@ -1285,7 +1284,7 @@ Kurt e Abel in cima alla scala esitarono per un momento, poi si tuffarono all'in
 
 "Eccoli qui. Mani in alto! Dico. Tieni la tua luce mentre sparo...."
 
-### Sezione 8
+## Sezione 8
 
 Era ancora abbastanza buio quando il suo cameriere e Firmin vennero insieme e dissero all'ex-re Egberto che la faccenda era sistemata.
 
@@ -1310,9 +1309,13 @@ I loro cinque paia di piedi sporgevano con una curiosa rigida unanimità....
 "No, re così....
 
 "La pietosa follia di tutto questo!" disse l'ex-re, seguendo i suoi pensieri. "Firmin," come ex-professore di Politica Internazionale, penso che tocchi a voi seppellirli. Là? ... No, non metteteli vicino al pozzo. La gente dovrà bere da quel pozzo. Seppelliteli laggiù, a una certa distanza nel campo."
-## CAPITOLO QUARTO. LA NUOVA FASE
 
-### Sezione 1
+
+\newpage
+
+# CAPITOLO QUARTO. LA NUOVA FASE
+
+## Sezione 1
 
 Il compito che stava davanti all'Assemblea di Brissago, visto come possiamo vederlo ora dal punto di vista chiarificatore delle cose compiute, era nelle sue questioni generali un compito semplice. Essenzialmente si trattava di porre l'organizzazione sociale sulla nuova base che il rapido, accelerato avanzamento della conoscenza umana aveva reso necessaria. Il consiglio fu raccolto insieme con la fretta di una spedizione di salvataggio, e si trovò confrontato con un naufragio; ma il naufragio era un naufragio irreparabile, e le uniche possibilità del caso erano o la ricaduta dell'umanità nella barbarie agricola da cui era emersa così dolorosamente o l'accettazione della scienza realizzata come base di un nuovo ordine sociale. Le vecchie tendenze della natura umana, sospetto, gelosia, particolarismo e belligeranza, erano incompatibili con il mostruoso potere distruttivo dei nuovi apparati che l'inumana logica della scienza aveva prodotto. L'equilibrio poteva essere restaurato solo dalla civilizzazione che distruggeva se stessa fino a un livello al quale gli apparati moderni non potessero più essere prodotti, o dalla natura umana che adattava se stessa nelle sue istituzioni alle nuove condizioni. Era per quest'ultima alternativa che l'assemblea esisteva.
 
@@ -1322,7 +1325,7 @@ E, non premeditata, non desiderata, dalle accumulazioni del suo coltivare venne 
 
 Già prima del rilascio dell'energia atomica le tensioni tra il vecchio modo di vivere e il nuovo erano intense. Erano molto più intense di quanto fossero state anche al collasso del sistema imperiale romano. Da un lato c'era l'antica vita della famiglia e della piccola comunità e della piccola industria, dall'altro c'era una nuova vita su una scala più ampia, con orizzonti più remoti e uno strano senso di scopo. Già stava crescendo chiaro che gli uomini dovevano vivere da un lato o dall'altro. Non si potevano avere piccoli commercianti e affari sindacati nello stesso mercato, carrettieri dormienti e carrelli a motore sulla stessa strada, archi e frecce e tiratori scelti su aeroplani nello stesso esercito, o industrie contadine analfabete e fabbriche azionate da energia nello stesso mondo. E ancora meno era possibile che si potessero avere le idee e le ambizioni e l'avidità e la gelosia di contadini equipaggiati con i vasti apparati della nuova epoca. Se non ci fossero state bombe atomiche a riunire la maggior parte dell'intelligenza direttiva del mondo a quella frettolosa conferenza a Brissago, ci sarebbe stata ancora, estesa su grandi aree e uno spazio di tempo considerevole forse, una conferenza meno formale di persone responsabili e comprensive sulle perplessità di questa opposizione mondiale. Se il lavoro di Holsten fosse stato diffuso su secoli e impartito al mondo per gradi impercettibili, avrebbe tuttavia reso necessario per gli uomini prendere consiglio e stabilire un piano per il futuro. Infatti già si stava accumulando da cento anni prima della crisi una letteratura di preveggenza; c'era tutta una massa di schemi di "Stato Moderno" disponibile su cui la conferenza poteva basarsi. Queste bombe non fecero che accentuare e drammatizzare un problema già in sviluppo.
 
-### Sezione 2
+## Sezione 2
 
 Questa assemblea non fu un balzo di menti eccezionali e super-intelligenze nel controllo degli affari. Era insegnabile, i suoi membri trascinavano idee con loro alla riunione, ma queste erano le conseguenze dello "shock morale" che le bombe avevano dato all'umanità, e non c'è ragione di supporre che le sue personalità individuali fossero molto al di sopra della media. Sarebbe possibile citare mille esempi di errore e inefficienza nei suoi procedimenti dovuti alla dimenticanza, irritabilità o stanchezza dei suoi membri. Sperimentò considerevolmente e sbagliò spesso. Eccetto Holsten, il cui dono era altamente specializzato, è questionabile se ci fosse un solo uomo del primo ordine di qualità umana nella riunione. Ma aveva un modesto timore di se stessa, e una conseguente direttezza che le diede una distinzione generale. C'era, naturalmente, una nobile semplicità in Leblanc, ma anche di lui si può chiedere se non fosse piuttosto buono e di mente onesta che nel senso più pieno grande.
 
@@ -1330,7 +1333,7 @@ L'ex-re aveva saggezza e un certo slancio romantico, era un uomo tra migliaia, a
 
 La conferenza di Brissago è stata scritta più e più volte, come se fosse una riunione del vero fiore dell'umanità. Appollaiata lassù per il capriccio o la saggezza di Leblanc, aveva una certa qualità olimpica, e la tendenza naturale della mente umana a elaborare tale somiglianza ci farebbe dare ai suoi membri le sembianze degli dei. Sarebbe ugualmente ragionevole paragonarla a uno di quegli incontri forzati sulle cime delle montagne che devono essere avvenuti nelle fasi di apertura del Diluvio. La forza del consiglio non stava in se stesso ma nelle circostanze che avevano accelerato la sua intelligenza, dissipato le sue vanità, e emancipato da ambizioni e antagonismi tradizionali. Era stato spogliato dell'accumulo di secoli, un governo nudo con tutta quella libertà d'azione che la nudità offre. E i suoi problemi gli erano presentati con una chiarezza che era fuori da ogni paragone con le intimazioni complicate e sconcertanti del tempo precedente.
 
-### Sezione 3
+## Sezione 3
 
 Il mondo su cui il consiglio guardava presentava davvero un compito sufficientemente immenso e del tutto troppo urgente per qualsiasi indulgenza sfrenata nella dissensione interna. Può essere interessante abbozzare in poche frasi la condizione dell'umanità alla chiusura del periodo degli stati in guerra, nell'anno di crisi che seguì il rilascio del potere atomico. Era un mondo straordinariamente limitato quando lo si misura con standard successivi, ed era ora in uno stato della più terribile confusione e angoscia.
 
@@ -1356,7 +1359,7 @@ Inoltre, l'aria in questo cerchio interno infernale di rovine illuminate di ross
 
 Tale era l'ultimo stato di Parigi, e tale su scala più ampia era la condizione degli affari a Chicago, e lo stesso destino aveva colpito Berlino, Mosca, Tokyo, la metà orientale di Londra, Tolone, Kiel, e duecentodiciotto altri centri di popolazione o armamento. Ciascuno era un centro fiammeggiante di distruzione radiante che solo il tempo poteva spegnere, che in effetti in molti casi il tempo deve ancora spegnere. Fino a questo giorno, sebbene in effetti con un tumulto e vigore costantemente diminuenti, queste esplosioni continuano. Nella mappa di quasi ogni paese del mondo tre o quattro o più cerchi rossi, di una ventina di miglia di diametro, segnano la posizione delle bombe atomiche morenti e le aree di morte che gli uomini sono stati costretti ad abbandonare intorno ad esse. Dentro queste aree perirono musei, cattedrali, palazzi, biblioteche, gallerie di capolavori, e una vasta accumulazione di conquiste umane, i cui resti carbonizzati giacciono sepolti, un'eredità di materiale curioso che solo le future generazioni possono sperare di esaminare...
 
-### Sezione 4
+## Sezione 4
 
 Lo stato d'animo della popolazione urbana espropriata che brulicava e periva così abbondantemente sulla campagna durante i giorni oscuri dei mesi autunnali che seguirono l'Ultima Guerra, era uno di completa disperazione. Barnet dà schizzo dopo schizzo di gruppi di queste persone, accampate tra i vigneti della Champagne, come le vide durante il suo periodo di servizio con l'esercito di pacificazione.
 
@@ -1432,7 +1435,7 @@ Ci fu una pausa. Poi la voce accanto a lui scoppiò. "Ma, Monsieur, è impossibi
 
 "Quando lo vidi l'ultima volta," disse Barnet, "stava sotto il cartello stradale alla cima della collina, guardando con desiderio, eppure mi sembrava un po' dubbiosamente, ora verso Parigi, e del tutto incurante di una pioggerella che lo stava bagnando completamente..."
 
-### Sezione 5
+## Sezione 5
 
 L'inverno 1959-1960 fu un inverno terribile. L'Inghilterra, che non conosceva da generazioni il vero freddo, fu colpita da temperature glaciali. Barnet era ancora a Londra, nei sotterranei dove continuava a trasmettere messaggi da una stazione wireless improvvisata. Ma ormai anche la capitale era stata evacuata in gran parte. Le folle si concentravano nei campi di raccolta organizzati dal Consiglio, dove almeno vi era la possibilità di cibo e rifugio.
 
@@ -1444,7 +1447,7 @@ Quando le campane della cattedrale di Winchester suonarono quella sera—un ritm
 
 Barnet rimase a guardare dal campanile, ascoltando le campane che trasmettevano il nuovo ordine al mondo. Era strano pensare che ogni campanile d'Europa, ogni torre radio, ogni dispositivo di comunicazione stava in quel momento trasmettendo lo stesso messaggio. E da quel giorno in poi, il mondo non sarebbe mai più tornato ai vecchi assetti delle nazioni rivali e dei re isolati.
 
-### Sezione 6
+## Sezione 6
 
 Il Consiglio del Mondo affrontò il caos con una grandezza di spirito senza precedenti. Non pronunciò dichiarazioni ampollanti; semplicemente agì. Il primo compito era assicurare il controllo dei materiali atomici dispersi e dei laboratori di ricerca. Non per scopi bellici—questi tempi erano tramontati—bensì per controllare i depositi radioattivi e impedire ulteriori contaminazioni.
 
@@ -1460,7 +1463,7 @@ Attorno ai grandi centri di produzione energetica sorsero i cosiddetti "campi ur
 
 Il Consiglio non imponeva queste trasformazioni per decreto tirannico. Piuttosto, creava le condizioni affinché la necessità umana e la solidarietà naturale operassero. Coloro che resistevano ai nuovi ordini erano pochi e sempre più isolati. Nella maggior parte del mondo, le persone scoprirono con meraviglia che potevano vivere senza il peso dell'avarizia, della competizione forsennata, della paura della povertà.
 
-### Sezione 7
+## Sezione 7
 
 Una delle decisioni più sagge del Consiglio fu l'adozione di una lingua universale. Per migliaia di anni, la molteplicità delle lingue aveva frammentato l'umanità. Anche quando i principi erano chiari, le parole si perdevano nella traduzione; gli equivoci si moltiplicavano; la comunicazione rimaneva imperfetta.
 
@@ -1482,7 +1485,7 @@ In questo modo, il denaro cessa di essere un'astrattezza. Non è più possibile 
 
 Questi tre cambiamenti—la lingua universale, il calendario razionale, il sistema monetario energetico—costituivano la struttura nervosa della nuova civiltà. Erano gli strumenti attraverso cui il Consiglio poteva coordinare l'attività dell'intera umanità. Non erano imposizioni tiraniche, ma le fondamenta razionali su cui costruire una società veramente universale.
 
-### Sezione 8
+## Sezione 8
 
 La Commissione per la Pianificazione Urbana divenne rapidamente uno dei comitati più importanti del Consiglio. Il suo compito era straordinario: ridistribuire la popolazione mondiale in modo razionale, secondo i nuovi insediamenti che la tecnologia rendeva possibili.
 
@@ -1496,7 +1499,7 @@ L'agricoltura, trasformata da questa dispersione, crebbe enormemente in efficien
 
 Ciò che fu liberato fu l'energia umana. Miliardi di persone, liberate dal compito di coltivare la terra o di vivere ammassate in città, potevano dedicarsi a ciò che veramente desideravano. La creazione, la ricerca, l'arte, l'apprendimento diventarono occupazioni comuni. Il mondo stesso si trasformò in un giardino vastissimo, in cui l'umanità poteva finalmente respirare.
 
-### Sezione 9
+## Sezione 9
 
 Negli anni iniziali della Repubblica Mondiale emerse una curiosa ricrudescenza di avventura politica. Singolarmente—e questo merita riflessione—non vi fu alcun ritorno del separatismo dopo che il volto del Re Ferdinando Carlo scomparve dalla vista degli uomini. Ma in numerosi paesi, man mano che i bisogni fisici immediati venivano soddisfatti, comparvero varie personalità che condividevano questo tratto in comune: cercavano di rivivere i conflitti politici e salire grazie ad essi a posizioni di importanza e potere.
 
@@ -1516,7 +1519,7 @@ Sotto queste condizioni, il Consiglio si sottomise molto serenamente ai suffragi
 
 Ma a questo punto il lavoro del Consiglio stava già volgendo al termine. Non era tanto preoccupato della continuazione della sua costruzione quanto della preservazione della sua opera compiuta dalla drammaticità dell'istinto politico.
 
-### Sezione 10
+## Sezione 10
 
 È dubbio se assisteremo mai più a una fase dell'esistenza umana in cui la "politica"—cioè l'interferenza fazionaria con i principi equilibrati del mondo—sarà l'interesse dominante tra gli uomini seri. Sembra che abbiamo varcato la soglia di una fase completamente nuova della storia, in cui il contenzioso, distinto dalla rivalità, ha quasi bruscamente cessato di essere l'occupazione ordinaria e è divenuto al più una cosa sotterranea e nascosta e discreditata.
 
@@ -1536,7 +1539,7 @@ Esiste ancora nella zona di morte attorno alle bombe di Londra una regione di pi
 
 Questi sforzi sono incredibilmente inetti, come i disegni di uomini bendati, sono solo leggermente meno strazianti per un osservatore simpatico dei graffi che si trovano sulle muri delle vecchie prigioni. Ma ci sono, testimoniando ai poveri istinti sepolti che lottavano verso la luce. Quel dio dell'espressione gioiosa che i nostri poveri padri ignorantemente cercavano, la nostra libertà ci ha dichiarato....
 
-### Sezione 11
+## Sezione 11
 
 Ora tutta questa fase di cambiamento gigantesco nei contorni e negli aspetti della vita umana che sta accadendo intorno a noi, un cambiamento veloce e meraviglioso quanto il rapido maturare dell'adolescenza verso l'età adulta dopo gli anni selvaggi dell'infanzia barbarica, è correlato con cambiamenti morali e mentali almeno altrettanto senza precedenti. Non è come se le vecchie cose stessero uscendo dalla vita e le cose nuove stessero entrando. È piuttosto che le circostanze alterate degli uomini stanno facendo appello a elementi della sua natura che finora erano repressi, e fermando tendenze che finora erano over-stimolate e over-sviluppate.
 
@@ -1572,7 +1575,7 @@ A lui, più che a qualsiasi suo contemporaneo, è dovuto che l'abnegazione di s�
 
 Questo è quello che siete. Sotto la vostra guida e i suggerimenti che porrete su di loro, devono spogliarsi del vecchio Adamo dei sospetti istintivi, delle ostilità e delle passioni, e trovare se stessi di nuovo nel grande essere dell'universo. I piccoli cerchi dei loro egoismi devono essere aperti fino a diventare archi nello spazzare dello scopo razziale. E questo che insegnate agli altri dovete imparare anche assiduamente voi stessi. Filosofia, scoperta, arte, ogni sorta di abilità, ogni sorta di servizio, amore: questi sono i mezzi della salvazione da quella stretta solitudine del desiderio, da quella preoccupazione remurante con se stesso e dalle relazioni egocentriche, che è inferno per l'individuo, tradimento per la razza, ed esilio da Dio...."
 
-### Sezione 12
+## Sezione 12
 
 Quando le cose si arrotondano e si compiono, si cominciano a vederle chiaramente per la prima volta. Dalle prospettive di una nuova era si può guardare indietro al grande e sempre più largo flusso della letteratura con una comprensione completa. Le cose si collegano che sembravano disconnesse, e le cose che un tempo erano condannate come dure e senza scopo sono viste come fattori nella dichiarazione di un problema gigantesco. Un'enorme mole della letteratura più sincera del diciottesimo, diciannovesimo e ventesimo secolo si unisce ora in un'unanimità inaspettata. Si vede come un vasto tessuto di variazioni su un tema: il conflitto dell'egoismo umano e della passione personale e delle immaginazioni ristrette da un lato, contro il crescente senso di necessità più ampie e una vita possibile, più spaziosa.
 
@@ -1599,9 +1602,13 @@ E tutte le loro storie conducono infine sia alla felicità persa che alla felici
 Sarebbe sembrato una cosa strana per gli uomini del tempo passato che dovrebbe essere una questione aperta come lo è oggi se il mondo è interamente cristiano o non cristiano affatto. Ma assicuratamente abbiamo lo spirito, e assicuratamente abbiamo lasciato molte forme temporanee dietro. Il cristianesimo era la prima espressione della religione mondiale, la prima completa ripudiazione del tribalismo e della guerra e della disputa. Che cadesse successivamente nei modi di rituali più antichi non può alterare questo.
 
 Il buon senso dell'umanità ha faticato attraverso duemilaanni di esperienza educativa per trovare finalmente quale suono di significato si attacchi alle frasi familiari della fede cristiana. Il pensatore scientifico, mentre si allarga ai problemi morali della vita collettiva, viene inevitabilmente sulle parole di Cristo. E come inevitabilmente il cristiano, quando il suo pensiero diventa più chiaro, arriva alla repubblica mondiale. Quanto alle pretese delle sette, quanto all'uso di un nome e alle successioni, viviamo in un tempo che si è scosso libero da tali pretese e consistenze.
-## CAPITOLO QUINTO. GLI ULTIMI GIORNI DI MARCUS KARENIN
 
-### Sezione 1
+
+\newpage
+
+# CAPITOLO QUINTO. GLI ULTIMI GIORNI DI MARCUS KARENIN
+
+## Sezione 1
 
 La seconda operazione a Marcus Karenin fu eseguita nella nuova stazione chirurgica a Paran, alta nell'Himalaya al di sopra della Gola del Sutlej, dove il fiume esce dal Tibet.
 
@@ -1651,7 +1658,7 @@ Trasalì e si mosse in avanti.
 
 "Sì. E ora non ho niente più da fare—e sembra strano.... E questo è fastidioso, questa malattia e dover scendere a se stessi. Questo portale e la fila di finestre è ben fatto; il granito grigio e solo la linea d'oro, e poi quelle montagne oltre attraverso quell'arco. È molto ben fatto...."
 
-### Sezione 2
+## Sezione 2
 
 Karenin giaceva sul letto con una morbida coperta bianca attorno a sé, e Fowler, che doveva essere il suo chirurgo, sedette sul bordo del letto e gli parlò. Un assistente era seduto tranquillamente nell'ombra dietro il letto. L'esame era stato fatto, e Karenin sapeva cosa lo attendeva. Era stanco ma sereno.
 
@@ -1729,7 +1736,7 @@ Karenin ridacchiò allegramente alla sua cautela.... "Quando," chiese Karenin im
 
 "Lo vedrai oggi nel pomeriggio. Avrò due uomini che ti trasportino in una lettiga. E domani potrai sdraiarti sulla terrazza. Le nostre montagne qui sono le più belle del mondo...."
 
-### Sezione 3
+## Sezione 3
 
 La mattina successiva Karenin si alzò presto e guardò il sole sorgere sulle montagne, e fece colazione leggeramente, e poi il giovane Gardener, il suo segretario, venne a consultarlo su come trascorrere la giornata. Desiderava vedere persone? O era il dolore lancinante dentro di lui troppo forte per permettergli di farlo?
 
@@ -1753,7 +1760,7 @@ Fu silenzioso per un tempo, guardando le nebbie tra i precipizi lontani cambiars
 
 "Non vedo perché la vita dovrebbe essere giudicata dal suo ultimo filo strisciante di vitalità.... So che è la cosa splendida che è—io che sono stato una creatura malata dall'inizio. Lo so abbastanza bene per non confonderla con il suo guscio esterno. Ricordalo, Gardener, se presto il mio cuore mi viene meno e dispero, e se attraverso una piccola fase di dolore e ingratitudine e oscuro oblio prima della fine.... Non credere a ciò che potrei dire alla fine.... Se il tessuto è sufficientemente buono la cimossa non importa. Non può importare. Finché sei vivo sei solo il momento, forse, ma quando sei morto allora sei tutta la tua vita dal primo momento all'ultimo...."
 
-### Sezione 4
+## Sezione 4
 
 Ben presto, in accordo con il suo desiderio, arrivarono le persone per parlare con lui, e potè dimenticare di nuovo se stesso. Rachel Borken sedette con lui per un lungo tempo e parlò principalmente delle donne nel mondo, e con lei era una ragazza di nome Edith Haydon che era già molto nota come citologa. E diversi dei giovani uomini che lavoravano nel luogo e un paziente di nome Kahn, un poeta, e Edwards, un progettista di spettacoli e rappresentazioni, trascorsero del tempo con lui.
 
@@ -1795,7 +1802,7 @@ La conversazione vagava da un punto all'altro e tornava su se stessa, e diventav
 
 "È così lontano—e ci sono uomini ancora vivi che erano vivi quando Bismarck morì!" ... disse il giovane uomo....
 
-### Sezione 5
+## Sezione 5
 
 "E eppure potrebbe essere che sia ingiusto verso Bismarck," disse Karenin, seguendo i suoi stessi pensieri. "Vedi, gli uomini appartengono alla loro epoca; stiamo su un ceppo di pensiero comune e pensiamo di stare per terra. Ho incontrato un uomo piacevole l'altro giorno, un Maori, il cui bisnonno era un cannibale. Per caso aveva una dagherrotipia del vecchio peccatore, e i due erano meravigliosamente simili. Si sentiva che un poco di gioco con il tempo e l'uno avrebbe potuto essere l'altro. Le persone sono crudeli e stupide in un'epoca stupida che potrebbe essere gentile e splendida in un'era graziosa. Anche il mondo ha i suoi stati d'animo. Pensa al cibo mentale dell'infanzia di Bismarck; le umiliazioni delle vittorie di Napoleone, la folla, la vittoria incoronante della Battaglia delle Nazioni.... Tutti in quei giorni, saggi o sciocchi, credevano che la divisione del mondo sotto una molteplicità di governi fosse inevitabile, e che andasse avanti per migliaia di anni ancora. Era INEVITABILE fino a quando non fu IMPOSSIBILE. Chiunque avesse negato pubblicamente quell'inevitabilità sarebbe stato considerato—oh! un ragazzo SCIOCCO. Il vecchio Bismarck era solo un po'—deciso, secondo le linee delle idee accettate. Questo è tutto. Pensava che poiché doveva esserci governi nazionali avrebbe fatto uno che fosse forte in patria e invincibile all'estero. Perché si era nutrito con una sorta di appetito rude di ciò che ora possiamo vedere erano idee molto stupide, questo non lo rende un uomo stupido. Abbiamo avuto vantaggi; abbiamo avuto l'unità e il collettivismo colpiti nei nostri cervelli. Dove saremmo ora se non per la grazia della scienza? Sarei stato un membro amaro, dispettoso, calpestato dell'Intelligenza russa, un cospiratore, un prigioniero, o un assassino. Tu, mia cara, saresti stata rompendo finestre opache come suffragetta."
 
@@ -1811,11 +1818,11 @@ Per un tempo la conversazione si interruppe in personalità umoristiche, e i gio
 
 "No," disse Karenin con gli occhi sulle montagne, "penso che tu sottovaluti l'intelligenza disponibile in quei primi decenni del ventesimo secolo. Ufficialmente, lo so, politicamente, quell'intelligenza non ha detto——ma era lì. E dubito della tua ipotesi. Dubito che quella scoperta avrebbe potuto essere ritardata. C'è una sorta di logica inevitabile ora nel progresso della ricerca. Per cento anni e più il pensiero e la scienza sono stati per la loro strada indipendentemente dagli eventi comuni della vita. Vedi——si sono liberati. Se non ci fosse stato Holsten ci sarebbe stato qualche uomo simile. Se l'energia atomica non fosse venuta in un anno sarebbe arrivata in un altro. Nella Roma decadente la marcia della scienza era appena iniziata.... Ninive, Babilonia, Atene, Siracusa, Alessandria, questi furono i primi esperimenti ruvidi in associazione che hanno fatto una sicurezza, uno spazio per respirare, in cui l'indagine è nata. L'uomo doveva sperimentare prima di scoprire il modo di iniziare. Ma già duecento anni fa aveva equamente iniziato.... La politica e le dignità e le guerre del diciannovesimo e ventesimo secolo erano solo l'ultimo bagliore della fenice della civiltà precedente che fiammeggia sugli inizi del nuovo. Che serviamo.... 'L'uomo vive per sempre nell'alba,' disse Karenin. 'La vita sta iniziando e nient'altro che inizio. Inizia eternamente. Ogni passo sembra più vasto dell'ultimo, e fa solo raccogliere insieme per il nido. Questo Stato Moderno nostro, che sarebbe stato una meraviglia utopica cento anni fa, è già la banalità della vita. Ma mentre mi siedo qui e sogno le possibilità nella mente dell'uomo che ora si radunano in testa sotto il riparo della sua pace, queste grandi montagne qui sembrano ma cose piccole...."
 
-### Sezione 6
+## Sezione 6
 
 Intorno alle undici Karenin ebbe il suo pasto di mezzogiorno, e dopo dormì tra le sue pellicce artificiali e i cuscini per due ore. Poi si svegliò e gli fu portato un tè, e si occupò di una piccola difficoltà riguardante le scuole Moravi nei paesi dell'Antartide e della Groenlandia che Gardener sapeva gli interesserebbe. Rimase solo per un po' dopo di ciò, e poi le due donne vennero di nuovo a lui. Dopo Edwards e Kahn si unirono al gruppo, e la conversazione cadde sull'amore e il posto delle donne nel mondo rinascente. Le banche di nuvole dell'India stavano sotto una nebbiolina tremolante, e il bagliore del sole cadde pieno sui precipizi verso est. Di tanto in tanto mentre parlavano, qualche vasta scheggia di roccia si spaccherebbe e verrebbe via da questi, o una selvaggia marea di neve, ghiaccio e pietra, si riverserebbe in tuono, sospesa come un filo bagnato negli abissi sottostanti, e cesserebbe....
 
-### Sezione 7
+## Sezione 7
 
 Per un tempo Karenin disse molto poco, e Kahn, il poeta popolare, parlò di amore appassionato. Disse che l'amore appassionato, personale, era stato il desiderio duraturo dell'umanità da quando l'umanità era iniziata, e solo ora stava diventando un'esperienza possibile. Era stato un sogno che generazione dopo generazione aveva inseguito, che gli uomini avevano sempre perso alla vigilia del raggiungimento. Alla maggior parte di coloro che l'avevano inseguito ostinatamente aveva portato tragedia. Ora, sollevati dalle angustie squallide, uomini e donne potrebbero sperare per l'amore realizzato e trionfale. Questa era l'Alba dell'Amore....
 
@@ -1881,7 +1888,7 @@ Karenin sembrò soppesare le sue parole. Ha parlato molto deliberatamente. "Non 
 
 "Non c'è male tra uomini e donne che non sia un male comune," disse Karenin. "Siete voi poeti, Kahn, con le vostre canzoni d'amore che trasformate la dolce comunanza di compagni in questa eccitazione centrata sulla donna. Ma c'è qualcosa nelle donne, in molte donne, che risponde a questi provocamenti; cedono a un egoismo particolarmente autocoltivante. Diventano i soggetti della loro stessa arte. Si sviluppano ed elaborano se stesse come quasi nessun uomo farebbe mai. Si CERCANO i baldacchini dorati. E anche quando sembrano reagire contro questo, potrebbero ancora farlo. Ho letto nei vecchi giornali dei movimenti per emancipare le donne che stavano andando avanti prima della scoperta della forza atomica. Queste cose che hanno iniziato con il desiderio di sfuggire dalle limitazioni e dalla servitù del sesso, hanno terminato in un'affermazione infiammata del sesso, e le donne più eroine che mai. Elena di Holloway era infine una seccatura grande come Elena di Troia, e finché pensi a voi stesse come donne'—ha teso un dito a Rachel e ha sorriso dolcemente——'invece di pensare a voi stesse come esseri intelligenti, sarete in pericolo di——Helenismo. Pensare a voi stesse come donne è pensare a voi stesse in relazione agli uomini. Non potete sfuggire a quella conseguenza. Devi imparare a pensare a voi stesse——per il nostro bene e il vostro——in relazione al sole e alle stelle. Devi smettere di essere la nostra avventura, Rachel, e venire con noi nelle nostre avventure. ..." Ha agitato la mano verso il cielo scuro al di sopra delle creste montane.
 
-### Sezione 8
+## Sezione 8
 
 "Queste questioni sono le prossime domande a cui la ricerca ci porterà risposte," disse Karenin. "Mentre stiamo qui e parliamo oziosamente e inesattamente di ciò che è necessario e ciò che potrebbe essere, ci sono centinaia di uomini e donne dalla mente acuta che lavorano queste cose, senza passione e certamente, per l'amore della conoscenza. Le prossime scienze a rendere grandi raccolti ora saranno la psicologia e la fisiologia neurale. Questi dilemmi della situazione tra uomo e donna e il problema con l'ostinazione dell'egoismo, questi sono problemi temporanei, il prodotto dei nostri tempi. Improvvisamente tutte queste differenze che sembrano così fisse si dissolveranno, tutti questi incompatibili correranno insieme, e andremo avanti a modellare i nostri corpi e i nostri sentimenti corporei e reazioni personali così audacemente come iniziamo ora a scolpire le montagne e mettere i mari nei loro posti e cambiare le correnti del vento."
 
@@ -1925,7 +1932,7 @@ Fowler raccontò loro della massa di indagine accumulata e organizzata dal genio
 
 "È come se si aprisse una grande finestra," disse Karenin.
 
-### Sezione 9
+## Sezione 9
 
 Con l'avanzare della sera Karenin e quelli che erano attorno a lui salirono sul tetto degli edifici, affinché potessero meglio osservare il tramonto e l'arrossire delle montagne e l'arrivo del bagliore crepuscolare. Erano raggiunti da due dei chirurghi dei laboratori sottostanti, e ben presto da un'infermiera che portò a Karenin un rinfresco in una tazza di vetro sottile. Era una sera limpida e senza vento sotto il cielo blu profondo, e lontano verso nord brillavano due biplani sulla via per gli osservatori sull'Everest, duecento miglia lontano sui precipizi a est. Il piccolo gruppo di persone li osservò passare sulle montagne e svanire nel blu, e poi per un tempo parlarono del lavoro che stava facendo l'osservatorio. Da questo passarono all'intero processo della ricerca nel mondo, e così i pensieri di Karenin ritornarono di nuovo alla mente del mondo e al grande futuro che si stava aprendo all'immaginazione dell'uomo.
 
@@ -1947,7 +1954,7 @@ Presto diede un piccolo sussulto.
 
 "Vecchio Sole, mi raduno da me stesso fuori dai laghi dell'individuo che mi hanno mantenuto disperso così a lungo. Riunisco il mio miliardo di pensieri nella scienza e il mio milione di volontà in uno scopo comune. Bene potete scivolare giù dietro le montagne da me, bene potete rannicchiarvi...."
 
-### Sezione 10
+## Sezione 10
 
 Karenin desiderava di sognare da solo per un poco prima di tornare nella cella in cui doveva dormire. Gli fu dato sollievo per un dolore che iniziava a infastidirlo e lo avvolgevano calorosamente di pellicce, perché un grande freddo stava strisciando su tutte le cose, e così lo lasciarono, e sedette a lungo guardando il bagliore crepuscolare cedere al buio della notte.
 
@@ -1964,3 +1971,7 @@ Infine si voltò e stette con le mani incrociate dietro la schiena, guardando le
 Infine andò nella sua cella. Si sdraiò lì e dormì pacificamente fino al mattino. E di buon mattino vennero da lui e gli fu somministrato l'anestetico e l'operazione fu eseguita.
 
 Fu completamente riuscita, ma Karenin era debole e doveva stare molto ancora; e circa sette giorni dopo un coagulo di sangue si staccò dalla cicatrice in guarigione e viaggiò verso il suo cuore, e morì all'istante nella notte.
+
+
+\newpage
+

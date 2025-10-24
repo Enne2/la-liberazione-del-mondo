@@ -1,6 +1,6 @@
-## CAPITOLO QUINTO. GLI ULTIMI GIORNI DI MARCUS KARENIN
+# CAPITOLO QUINTO. GLI ULTIMI GIORNI DI MARCUS KARENIN
 
-### Sezione 1
+## Sezione 1
 
 La seconda operazione a Marcus Karenin fu eseguita nella nuova stazione chirurgica a Paran, alta nell'Himalaya al di sopra della Gola del Sutlej, dove il fiume esce dal Tibet.
 
@@ -50,7 +50,7 @@ Trasalì e si mosse in avanti.
 
 "Sì. E ora non ho niente più da fare—e sembra strano.... E questo è fastidioso, questa malattia e dover scendere a se stessi. Questo portale e la fila di finestre è ben fatto; il granito grigio e solo la linea d'oro, e poi quelle montagne oltre attraverso quell'arco. È molto ben fatto...."
 
-### Sezione 2
+## Sezione 2
 
 Karenin giaceva sul letto con una morbida coperta bianca attorno a sé, e Fowler, che doveva essere il suo chirurgo, sedette sul bordo del letto e gli parlò. Un assistente era seduto tranquillamente nell'ombra dietro il letto. L'esame era stato fatto, e Karenin sapeva cosa lo attendeva. Era stanco ma sereno.
 
@@ -128,7 +128,7 @@ Karenin ridacchiò allegramente alla sua cautela.... "Quando," chiese Karenin im
 
 "Lo vedrai oggi nel pomeriggio. Avrò due uomini che ti trasportino in una lettiga. E domani potrai sdraiarti sulla terrazza. Le nostre montagne qui sono le più belle del mondo...."
 
-### Sezione 3
+## Sezione 3
 
 La mattina successiva Karenin si alzò presto e guardò il sole sorgere sulle montagne, e fece colazione leggeramente, e poi il giovane Gardener, il suo segretario, venne a consultarlo su come trascorrere la giornata. Desiderava vedere persone? O era il dolore lancinante dentro di lui troppo forte per permettergli di farlo?
 
@@ -152,7 +152,7 @@ Fu silenzioso per un tempo, guardando le nebbie tra i precipizi lontani cambiars
 
 "Non vedo perché la vita dovrebbe essere giudicata dal suo ultimo filo strisciante di vitalità.... So che è la cosa splendida che è—io che sono stato una creatura malata dall'inizio. Lo so abbastanza bene per non confonderla con il suo guscio esterno. Ricordalo, Gardener, se presto il mio cuore mi viene meno e dispero, e se attraverso una piccola fase di dolore e ingratitudine e oscuro oblio prima della fine.... Non credere a ciò che potrei dire alla fine.... Se il tessuto è sufficientemente buono la cimossa non importa. Non può importare. Finché sei vivo sei solo il momento, forse, ma quando sei morto allora sei tutta la tua vita dal primo momento all'ultimo...."
 
-### Sezione 4
+## Sezione 4
 
 Ben presto, in accordo con il suo desiderio, arrivarono le persone per parlare con lui, e potè dimenticare di nuovo se stesso. Rachel Borken sedette con lui per un lungo tempo e parlò principalmente delle donne nel mondo, e con lei era una ragazza di nome Edith Haydon che era già molto nota come citologa. E diversi dei giovani uomini che lavoravano nel luogo e un paziente di nome Kahn, un poeta, e Edwards, un progettista di spettacoli e rappresentazioni, trascorsero del tempo con lui.
 
@@ -194,7 +194,7 @@ La conversazione vagava da un punto all'altro e tornava su se stessa, e diventav
 
 "È così lontano—e ci sono uomini ancora vivi che erano vivi quando Bismarck morì!" ... disse il giovane uomo....
 
-### Sezione 5
+## Sezione 5
 
 "E eppure potrebbe essere che sia ingiusto verso Bismarck," disse Karenin, seguendo i suoi stessi pensieri. "Vedi, gli uomini appartengono alla loro epoca; stiamo su un ceppo di pensiero comune e pensiamo di stare per terra. Ho incontrato un uomo piacevole l'altro giorno, un Maori, il cui bisnonno era un cannibale. Per caso aveva una dagherrotipia del vecchio peccatore, e i due erano meravigliosamente simili. Si sentiva che un poco di gioco con il tempo e l'uno avrebbe potuto essere l'altro. Le persone sono crudeli e stupide in un'epoca stupida che potrebbe essere gentile e splendida in un'era graziosa. Anche il mondo ha i suoi stati d'animo. Pensa al cibo mentale dell'infanzia di Bismarck; le umiliazioni delle vittorie di Napoleone, la folla, la vittoria incoronante della Battaglia delle Nazioni.... Tutti in quei giorni, saggi o sciocchi, credevano che la divisione del mondo sotto una molteplicità di governi fosse inevitabile, e che andasse avanti per migliaia di anni ancora. Era INEVITABILE fino a quando non fu IMPOSSIBILE. Chiunque avesse negato pubblicamente quell'inevitabilità sarebbe stato considerato—oh! un ragazzo SCIOCCO. Il vecchio Bismarck era solo un po'—deciso, secondo le linee delle idee accettate. Questo è tutto. Pensava che poiché doveva esserci governi nazionali avrebbe fatto uno che fosse forte in patria e invincibile all'estero. Perché si era nutrito con una sorta di appetito rude di ciò che ora possiamo vedere erano idee molto stupide, questo non lo rende un uomo stupido. Abbiamo avuto vantaggi; abbiamo avuto l'unità e il collettivismo colpiti nei nostri cervelli. Dove saremmo ora se non per la grazia della scienza? Sarei stato un membro amaro, dispettoso, calpestato dell'Intelligenza russa, un cospiratore, un prigioniero, o un assassino. Tu, mia cara, saresti stata rompendo finestre opache come suffragetta."
 
@@ -210,11 +210,11 @@ Per un tempo la conversazione si interruppe in personalità umoristiche, e i gio
 
 "No," disse Karenin con gli occhi sulle montagne, "penso che tu sottovaluti l'intelligenza disponibile in quei primi decenni del ventesimo secolo. Ufficialmente, lo so, politicamente, quell'intelligenza non ha detto——ma era lì. E dubito della tua ipotesi. Dubito che quella scoperta avrebbe potuto essere ritardata. C'è una sorta di logica inevitabile ora nel progresso della ricerca. Per cento anni e più il pensiero e la scienza sono stati per la loro strada indipendentemente dagli eventi comuni della vita. Vedi——si sono liberati. Se non ci fosse stato Holsten ci sarebbe stato qualche uomo simile. Se l'energia atomica non fosse venuta in un anno sarebbe arrivata in un altro. Nella Roma decadente la marcia della scienza era appena iniziata.... Ninive, Babilonia, Atene, Siracusa, Alessandria, questi furono i primi esperimenti ruvidi in associazione che hanno fatto una sicurezza, uno spazio per respirare, in cui l'indagine è nata. L'uomo doveva sperimentare prima di scoprire il modo di iniziare. Ma già duecento anni fa aveva equamente iniziato.... La politica e le dignità e le guerre del diciannovesimo e ventesimo secolo erano solo l'ultimo bagliore della fenice della civiltà precedente che fiammeggia sugli inizi del nuovo. Che serviamo.... 'L'uomo vive per sempre nell'alba,' disse Karenin. 'La vita sta iniziando e nient'altro che inizio. Inizia eternamente. Ogni passo sembra più vasto dell'ultimo, e fa solo raccogliere insieme per il nido. Questo Stato Moderno nostro, che sarebbe stato una meraviglia utopica cento anni fa, è già la banalità della vita. Ma mentre mi siedo qui e sogno le possibilità nella mente dell'uomo che ora si radunano in testa sotto il riparo della sua pace, queste grandi montagne qui sembrano ma cose piccole...."
 
-### Sezione 6
+## Sezione 6
 
 Intorno alle undici Karenin ebbe il suo pasto di mezzogiorno, e dopo dormì tra le sue pellicce artificiali e i cuscini per due ore. Poi si svegliò e gli fu portato un tè, e si occupò di una piccola difficoltà riguardante le scuole Moravi nei paesi dell'Antartide e della Groenlandia che Gardener sapeva gli interesserebbe. Rimase solo per un po' dopo di ciò, e poi le due donne vennero di nuovo a lui. Dopo Edwards e Kahn si unirono al gruppo, e la conversazione cadde sull'amore e il posto delle donne nel mondo rinascente. Le banche di nuvole dell'India stavano sotto una nebbiolina tremolante, e il bagliore del sole cadde pieno sui precipizi verso est. Di tanto in tanto mentre parlavano, qualche vasta scheggia di roccia si spaccherebbe e verrebbe via da questi, o una selvaggia marea di neve, ghiaccio e pietra, si riverserebbe in tuono, sospesa come un filo bagnato negli abissi sottostanti, e cesserebbe....
 
-### Sezione 7
+## Sezione 7
 
 Per un tempo Karenin disse molto poco, e Kahn, il poeta popolare, parlò di amore appassionato. Disse che l'amore appassionato, personale, era stato il desiderio duraturo dell'umanità da quando l'umanità era iniziata, e solo ora stava diventando un'esperienza possibile. Era stato un sogno che generazione dopo generazione aveva inseguito, che gli uomini avevano sempre perso alla vigilia del raggiungimento. Alla maggior parte di coloro che l'avevano inseguito ostinatamente aveva portato tragedia. Ora, sollevati dalle angustie squallide, uomini e donne potrebbero sperare per l'amore realizzato e trionfale. Questa era l'Alba dell'Amore....
 
@@ -280,7 +280,7 @@ Karenin sembrò soppesare le sue parole. Ha parlato molto deliberatamente. "Non 
 
 "Non c'è male tra uomini e donne che non sia un male comune," disse Karenin. "Siete voi poeti, Kahn, con le vostre canzoni d'amore che trasformate la dolce comunanza di compagni in questa eccitazione centrata sulla donna. Ma c'è qualcosa nelle donne, in molte donne, che risponde a questi provocamenti; cedono a un egoismo particolarmente autocoltivante. Diventano i soggetti della loro stessa arte. Si sviluppano ed elaborano se stesse come quasi nessun uomo farebbe mai. Si CERCANO i baldacchini dorati. E anche quando sembrano reagire contro questo, potrebbero ancora farlo. Ho letto nei vecchi giornali dei movimenti per emancipare le donne che stavano andando avanti prima della scoperta della forza atomica. Queste cose che hanno iniziato con il desiderio di sfuggire dalle limitazioni e dalla servitù del sesso, hanno terminato in un'affermazione infiammata del sesso, e le donne più eroine che mai. Elena di Holloway era infine una seccatura grande come Elena di Troia, e finché pensi a voi stesse come donne'—ha teso un dito a Rachel e ha sorriso dolcemente——'invece di pensare a voi stesse come esseri intelligenti, sarete in pericolo di——Helenismo. Pensare a voi stesse come donne è pensare a voi stesse in relazione agli uomini. Non potete sfuggire a quella conseguenza. Devi imparare a pensare a voi stesse——per il nostro bene e il vostro——in relazione al sole e alle stelle. Devi smettere di essere la nostra avventura, Rachel, e venire con noi nelle nostre avventure. ..." Ha agitato la mano verso il cielo scuro al di sopra delle creste montane.
 
-### Sezione 8
+## Sezione 8
 
 "Queste questioni sono le prossime domande a cui la ricerca ci porterà risposte," disse Karenin. "Mentre stiamo qui e parliamo oziosamente e inesattamente di ciò che è necessario e ciò che potrebbe essere, ci sono centinaia di uomini e donne dalla mente acuta che lavorano queste cose, senza passione e certamente, per l'amore della conoscenza. Le prossime scienze a rendere grandi raccolti ora saranno la psicologia e la fisiologia neurale. Questi dilemmi della situazione tra uomo e donna e il problema con l'ostinazione dell'egoismo, questi sono problemi temporanei, il prodotto dei nostri tempi. Improvvisamente tutte queste differenze che sembrano così fisse si dissolveranno, tutti questi incompatibili correranno insieme, e andremo avanti a modellare i nostri corpi e i nostri sentimenti corporei e reazioni personali così audacemente come iniziamo ora a scolpire le montagne e mettere i mari nei loro posti e cambiare le correnti del vento."
 
@@ -324,7 +324,7 @@ Fowler raccontò loro della massa di indagine accumulata e organizzata dal genio
 
 "È come se si aprisse una grande finestra," disse Karenin.
 
-### Sezione 9
+## Sezione 9
 
 Con l'avanzare della sera Karenin e quelli che erano attorno a lui salirono sul tetto degli edifici, affinché potessero meglio osservare il tramonto e l'arrossire delle montagne e l'arrivo del bagliore crepuscolare. Erano raggiunti da due dei chirurghi dei laboratori sottostanti, e ben presto da un'infermiera che portò a Karenin un rinfresco in una tazza di vetro sottile. Era una sera limpida e senza vento sotto il cielo blu profondo, e lontano verso nord brillavano due biplani sulla via per gli osservatori sull'Everest, duecento miglia lontano sui precipizi a est. Il piccolo gruppo di persone li osservò passare sulle montagne e svanire nel blu, e poi per un tempo parlarono del lavoro che stava facendo l'osservatorio. Da questo passarono all'intero processo della ricerca nel mondo, e così i pensieri di Karenin ritornarono di nuovo alla mente del mondo e al grande futuro che si stava aprendo all'immaginazione dell'uomo.
 
@@ -346,7 +346,7 @@ Presto diede un piccolo sussulto.
 
 "Vecchio Sole, mi raduno da me stesso fuori dai laghi dell'individuo che mi hanno mantenuto disperso così a lungo. Riunisco il mio miliardo di pensieri nella scienza e il mio milione di volontà in uno scopo comune. Bene potete scivolare giù dietro le montagne da me, bene potete rannicchiarvi...."
 
-### Sezione 10
+## Sezione 10
 
 Karenin desiderava di sognare da solo per un poco prima di tornare nella cella in cui doveva dormire. Gli fu dato sollievo per un dolore che iniziava a infastidirlo e lo avvolgevano calorosamente di pellicce, perché un grande freddo stava strisciando su tutte le cose, e così lo lasciarono, e sedette a lungo guardando il bagliore crepuscolare cedere al buio della notte.
 

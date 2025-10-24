@@ -1,6 +1,6 @@
-## CAPITOLO SECONDO. L'ULTIMA GUERRA
+# CAPITOLO SECONDO. L'ULTIMA GUERRA
 
-### Sezione I
+## Sezione I
 
 Vista dalla prospettiva di un ordine sociale sano e ambizioso, è difficile comprendere, e sarebbe tedioso seguire, i motivi che precipitarono l'umanità nella guerra che riempie le cronache dei decenni centrali del ventesimo secolo.
 
@@ -14,7 +14,7 @@ Per esempio, Barnet descrive la folla londinese come rumorosamente patriottica q
 
 Ma tutta questa emozione era l'emozione volubile di menti senza idee stabilite; era con la maggior parte di loro, dice Barnet, come era con lui stesso, una risposta naturale al movimento collettivo, e ai suoni e colori marziali, e alla sfida esaltante di vaghi pericoli. E la gente era stata così a lungo oppressa dalla minaccia e dalla preparazione per la guerra che il suo arrivo venne con un effetto di positivo sollievo.
 
-### Sezione 2
+## Sezione 2
 
 Il piano di campagna degli Alleati assegnava la difesa della bassa Mosa agli Inglesi, e i treni militari furono diretti direttamente dai vari depositi britannici ai punti nelle Ardenne dove si intendeva che si trincerassero.
 
@@ -114,7 +114,7 @@ Non c'era un uomo intero là; c'era un pezzo di uomo, la testa e le spalle di un
 
 E anche mentre fissava il tumulo sopra di lei oscillò e si sbriciolò, e una corsa di acqua calda venne versandosi su di lei. Poi le sembrò di essere trascinata giù...
 
-### Sezione 3
+## Sezione 3
 
 Quando il giovane aviatore piuttosto brutale con la testa a proiettile e i capelli neri tagliati corti en brosse, che era al comando del corpo scientifico speciale francese, sentì presentemente di questo disastro al Controllo di Guerra, era così privo di immaginazione in ogni sfera tranne la propria, che rise. Piccola importanza per lui che Parigi stesse bruciando. Sua madre e suo padre e sua sorella vivevano a Caudebec; e l'unica innamorata che avesse mai avuto, ed era stato povero corteggiamento allora, era una ragazza a Rouen. Diede una pacca sulla spalla del suo secondo in comando. 'Ora,' disse, 'non c'è nulla sulla terra che ci impedisca di andare a Berlino e di rendergli pan per focaccia... Strategia e ragioni di stato — sono finite... Vieni, ragazzo mio, e mostreremo a queste vecchie donne cosa possiamo fare quando ci lasciano avere le nostre teste.'
 
@@ -160,7 +160,7 @@ L'esplosione venne questa volta più direttamente sotto l'aeroplano e lo lanciò
 
 Poi anche quella bomba era esplosa, e timoniere, lanciatore, e aeroplano erano solo stracci volanti e schegge di metallo e gocce di umidità nell'aria, e una terza colonna di fuoco si precipitò turbinando giù sugli edifici condannati sotto...
 
-### Sezione 4
+## Sezione 4
 
 Mai prima nella storia della guerra c'era stato un esplosivo continuo; invero, fino alla metà del ventesimo secolo gli unici esplosivi conosciuti erano combustibili la cui esplosività era dovuta interamente alla loro istantaneità; e queste bombe atomiche che la scienza fece scoppiare sul mondo quella notte erano strane persino agli uomini che le usavano. Quelle usate dagli Alleati erano grumi di Carolinio puro, dipinti all'esterno con induttivo cidonatore non ossidato racchiuso ermeticamente in un involucro di membranio. Un piccolo bottone di celluloide tra le maniglie con cui la bomba veniva sollevata era disposto in modo da essere facilmente strappato via e ammettere aria all'induttivo, che subito diventava attivo e stabiliva radioattività nello strato esterno della sfera di Carolinio. Questo liberava induttivo fresco, e così in pochi minuti l'intera bomba era un'esplosione continua fiammeggiante. Le bombe dell'Europa Centrale erano le stesse, eccetto che erano più grandi e avevano un arrangiamento più complicato per animare l'induttivo.
 
@@ -170,13 +170,13 @@ Quello che accadeva quando il bottone di celluloide veniva aperto era che l'indu
 
 Tale era il trionfo coronante della scienza militare, l'esplosivo ultimo che doveva dare il 'tocco decisivo' alla guerra...
 
-### Sezione 5
+## Sezione 5
 
 Uno scrittore storico recente ha descritto il mondo di quel tempo come uno che "credeva nelle parole stabilite ed era invincibilmente cieco all'ovvio nelle cose". Certamente sembra ora che nulla avrebbe potuto essere più ovvio per la gente del primo ventesimo secolo della rapidità con cui la guerra stava diventando impossibile. E altrettanto certamente non lo videro. Non lo videro fino a quando le bombe atomiche non esplosero nelle loro mani maldestre. Tuttavia i fatti generali avrebbero dovuto risaltare a qualsiasi mente intelligente. Per tutto il diciannovesimo e ventesimo secolo la quantità di energia che gli uomini erano in grado di comandare aumentava continuamente. Applicata alla guerra ciò significava che il potere di infliggere un colpo, il potere di distruggere, aumentava continuamente. Non c'era alcun aumento nella capacità di sfuggire. Ogni tipo di difesa passiva, armatura, fortificazioni, e così via, era superata da questo tremendo aumento sul lato distruttivo. La distruzione stava diventando così facile che qualsiasi piccolo corpo di malcontenti poteva usarla; stava rivoluzionando i problemi di polizia e governo interno. Prima che l'ultima guerra cominciasse era questione di conoscenza comune che un uomo potesse portare in giro in una borsa una quantità di energia latente sufficiente a devastare mezza città. Questi fatti erano davanti alle menti di tutti; i bambini nelle strade li conoscevano. E tuttavia il mondo ancora, come gli Americani erano soliti dire, "giocherellava" con la parafernalia e le pretese della guerra.
 
 È solo realizzando questo profondo, questo fantastico divorzio tra il movimento scientifico e intellettuale da un lato, e il mondo dell'avvocato-politico dall'altro, che gli uomini di un tempo posteriore possono sperare di comprendere questo stato di cose assurdo. L'organizzazione sociale era ancora nella fase barbarica. C'erano già gran numeri di uomini attivamente intelligenti e molta civiltà privata e commerciale, ma la comunità, nel suo insieme, era senza scopo, non addestrata e disorganizzata al punto dell'imbecillità. La civiltà collettiva, lo "Stato Moderno", era ancora nel grembo del futuro...
 
-### Sezione 6
+## Sezione 6
 
 Ma torniamo al Wander Jahre di Frederick Barnet e al suo resoconto delle esperienze di un uomo comune durante il tempo di guerra. Mentre queste terribili rivelazioni di possibilità scientifiche stavano accadendo a Parigi e Berlino, Barnet e la sua compagnia si stavano industriosamente trincerandosi nel Lussemburgo belga.
 
@@ -230,7 +230,7 @@ Quando Barnet tornò i suoi uomini stavano già chiamando per acqua, e per tutto
 
 'Non so come finirono le mie speculazioni. Penso che non furono tanto finite quanto distratte dal tonfo distante dei cannoni che stavano aprendo il fuoco a lungo raggio su Namur.'
 
-### Sezione 7
+## Sezione 7
 
 Ma fino ad allora Barnet non aveva visto che i più miti inizi della guerra moderna. Finora aveva preso parte solo a una piccola sparatoria. L'attacco alla baionetta con cui la linea avanzata fu spezzata fu fatto in un luogo chiamato Croix Rouge, a più di venti miglia di distanza, e quella notte sotto la copertura dell'oscurità le postazioni di fucileria furono abbandonate ed egli portò via la sua compagnia senza ulteriori perdite.
 
@@ -262,7 +262,7 @@ Gli aeroplani sopravvissuti si voltarono e fuggirono dal cielo, come cose che im
 
 Attraverso una dozzina di brecce tuonanti e fiammeggianti che nessuna acqua poteva spegnere, le onde vennero ruggendo sulla terra...
 
-### Sezione 8
+## Sezione 8
 
 'Avevamo maledetto la nostra fortuna,' dice Barnet, 'che non potessimo arrivare ai nostri alloggi ad Alkmaar quella notte. Là, ci fu detto, c'erano provviste, tabacco, e tutto ciò per cui bramavamo. Ma il canale principale da Zaandam e Amsterdam era senza speranza ingombrato di imbarcazioni, e fummo contenti di un'apertura casuale che ci permise di uscire dalla colonna principale e sostare in una specie di piccolo porto molto trascurato e invaso dalle erbacce davanti a una casa abbandonata. Vi facemmo irruzione e trovammo alcune aringhe in un barile, un mucchio di formaggi, e bottiglie di pietra di gin nella cantina; e con questo rallegrai i miei uomini affamati. Facemmo fuochi e tostammo il formaggio e grigliammo le nostre aringhe. Nessuno di noi aveva dormito per quasi quaranta ore, e decisi di restare in questo rifugio fino all'alba e poi se il traffico fosse ancora bloccato lasciare la chiatta e marciare il resto della strada fino ad Alkmaar.
 
@@ -320,7 +320,7 @@ diventò impenetrabile a una ventina di iarde dalla barca, e il ruggito del vent
 
 'Per tutto il tempo un gruppo di alberi faticosi, semi-sommersi rimaneva davanti a noi, avvicinandosi molto lentamente. Sterzai una rotta per evitarli. Sembravano gesticolare una disperazione frenetica contro le nuvole di vapore nero dietro. Una volta un grande ramo si staccò e passò stracciandosi tremando accanto a me. Facemmo, nel complesso, progresso. L'ultima cosa che vidi di Vreugde bij Vrede prima che la notte l'ingoiasse, era quasi completamente dietro di noi...'
 
-### Sezione 9
+## Sezione 9
 
 Il mattino trovò Barnet ancora a galla. La prua della sua chiatta era stata gravemente danneggiata, e i suoi uomini stavano pompando o svuotando a turno. Aveva fatto salire a bordo circa una dozzina di persone semi-annegate la cui barca era capovolta vicino a lui, e aveva tre altre barche a rimorchio. Era a galla, e da qualche parte tra Amsterdam e Alkmaar, ma non poteva dire dove. Era un giorno che era ancora metà notte. Acque grigie si stendevano in ogni direzione sotto un cielo grigio scuro, e dalle onde sorgevano le parti superiori delle case, in molti casi rovinate, le cime degli alberi, mulini a vento, in effetti il terzo superiore di tutta la familiare scenografia olandese; e su di essa derivava una flottiglia debolmente vista di chiatte, piccole barche, molte capovolte, mobili, zattere, legname, e oggetti vari.
 
@@ -348,7 +348,7 @@ Non seguiremo Barnet, tuttavia, nella descrizione del suo strano viaggio via ter
 
 'La mia fede era per un tempo completamente uscita da me. "Penso che siamo troppo — troppo sciocchi," dissi a Mylius, "per mai fermare la guerra. Se avessimo avuto il senno di farlo, avremmo dovuto farlo prima di questo. Penso che questo—" Indicai il contorno nero scarno di un mulino a vento distrutto che sporgeva su, ridicolo e brutto, sopra le acque illuminate di sangue — "questo è la fine."'
 
-### Sezione 10
+## Sezione 10
 
 Ma ora la nostra storia deve separarsi da Frederick Barnet e dal suo carico di chiatta di uomini affamati e affamati.
 
